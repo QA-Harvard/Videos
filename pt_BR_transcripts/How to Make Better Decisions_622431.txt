@@ -1,0 +1,331 @@
+﻿ALISON BEARD:  Oi. 
+Sou Alison Beard, editora da HBR, 
+e hoje estou com John Beshears e Francesca
+Gino, 
+professores da Harvard Business School 
+e autores do artigo "Leaders as Decision
+Architects". 
+Muito obrigado por virem. 
+FRANCESCA GINO:  Obrigada pelo convite. 
+JOHN BESHEARS:  É um prazer. 
+ALISON BEARD:  Você passaram muito tempo
+estudando 
+tomada de decisão e como a maioria dos
+funcionários, gerentes, 
+clientes, toma a decisão errada, 
+mas desenvolveram uma abordagem para
+estruturar o trabalho 
+que deve nos ajudar a resolver esse
+problema. 
+Poderiam me falar sobre ela? 
+FRANCESCA GINO:  Claro. 
+O primeiro passo é entender por que todos
+nós 
+costumamos tomar decisões ruins. 
+Nós contamos demais com o que Daniel
+Kahneman chama 
+de "Pensamento do sistema 1". 
+Esse pensamento é emocional, intuitivo,
+automático. 
+Confiar demais nele gera 
+todo tipo de vieses cognitivos, como
+confiança excessiva, 
+pensamento de grupo, aversão a perda e
+preferência de status quo. 
+No entanto, as pessoas também podem ter 
+com mais frequência o que Daniel
+Kahneman 
+chama de pensamento do Sistema 2. 
+Esse pensamento é mais deliberado, mais
+lógico e mais lento 
+e nos mostra quando nossas intuições estão
+erradas 
+e as emoções estão ofuscando nosso
+discernimento. 
+O segundo passo é definir o problema. 
+Recomendamos que os líderes interessados
+em seguir 
+nossa abordagem pensem em três fatores: 
+se o problema é causado por algo
+relacionado 
+ao comportamento humano; se ele pode ser
+estritamente definido; 
+e se as pessoas estão agindo contra 
+o melhor interesse delas. 
+Depois de definir o problema, 
+o terceiro passo é entender as causas
+subjacentes. 
+Você deve fazer duas perguntas: o problema
+é causado 
+principalmente por falta de motivação ou
+motivação insuficiente 
+e, por isso, as pessoas estão deixando de
+agir? 
+O problema ocorre porque 
+as pessoas estão fazendo ações, 
+mas as ações erradas? 
+Por exemplo, John trabalhava com um
+varejista 
+que estava tentando cortar gastos com a
+saúde 
+fazendo os funcionários optarem 
+por prescrições por correio em vez de
+retirarem 
+a prescrição na farmácia. 
+JOHN BESHEARS:  Sim. 
+Esse era um problema de restrição, pois
+as pessoas 
+não estavam agindo conforme seus
+interesses. 
+O empregador percebeu que, quando os
+funcionários deixavam 
+de ir à farmácia buscar as prescrições de
+manutenção 
+e passavam a recebê-las em casa 
+– tratava-se de remédios para colesterol
+alto, pressão alta –, 
+tanto a empresa que patrocinava o plano
+de drogas de prescrição 
+quanto os funcionários economizavam
+dinheiro. 
+No entanto, muitos funcionários não estavam
+optando 
+pela entrega em domicílio. 
+O motivo era inércia, falta de
+motivação. 
+Esse é um caso em que as pessoas
+deveriam 
+ter feito algo que era do interesse
+delas, 
+ajudando a empresa nesse processo, 
+mas não o fizeram por causa dos
+problemas 
+que Daniel Kahneman nos mostrou. 
+ALISON BEARD:  O que a empresa fez 
+para mudar o comportamento deles? 
+JOHN BESHEARS:  Certo. 
+Esse é o quarto passo do nosso processo:
+elabore a solução. 
+Neste caso, a empresa decidiu fazer 
+com que as pessoas adotassem o Sistema
+2. 
+Ela fez isso incentivando os
+funcionários 
+a fazerem uma escolha ativa. 
+Assim, eles podiam passar 
+a receber as prescrições de manutenção em
+casa 
+ou continuar buscando-as na farmácia. 
+De qualquer forma, para tirar proveito 
+dos benefícios do plano de medicamentos
+de prescrição, 
+precisavam indicar ativamente 
+qual das duas opções eles preferiam. 
+Eles poderiam optar por buscar a prescrição
+na farmácia, 
+mas, para isso, precisavam indicar 
+que essa era a escolha deles por carta,
+por telefone 
+ou pela internet. 
+O processo não foi projetado para ser
+oneroso. 
+Era um processo bem simples e trivial. 
+Isso fez com que os funcionários parassem
+por um momento 
+para refletir se queriam mudar 
+para entrega em domicílio. 
+De fato, depois de refletirem, muitos
+decidiram 
+mudar para entrega em domicílio. 
+Essa simples mudança levou seis vezes
+mais 
+funcionários a optarem por prescrições de
+manutenção 
+por correio. 
+ALISON BEARD:  Nossa! 
+JOHN BESHEARS:  Sim. 
+Devo ressaltar que diferentes situações 
+exigem diferentes soluções. 
+No exemplo que eu dei, 
+o empregador decidiu incentivar 
+os funcionários a adotarem o Sistema 2, 
+mas outra recomendação que podemos dar é
+incentivar as pessoas a terem o Sistema
+1 engatilhado. 
+Francesca tem um exemplo disso 
+de quando trabalhou com uma empresa na
+Índia, 
+cuja solução foi baseada em motivar 
+o Sistema 1 despertando emoções. 
+FRANCESCA GINO:  Nesse caso, queríamos 
+trabalhar com a empresa tentando
+resolver 
+o problema de reduzir os altos níveis de
+rotatividade 
+que eles estavam apresentando 
+nas centrais de atendimento. 
+Foi na empresa Wipro e o experimento 
+que realizamos foi no processo de
+terceirização 
+de centrais de atendimento dela. 
+Fizemos algo muito simples. 
+Realizamos um experimento com duas
+condições 
+durante o processo de integração. 
+Em uma, no primeiro dia de orientação, os
+novos funcionários 
+tinham um tempo para pensar 
+sobre os próprios pontos fortes e como
+aplicá-los 
+no trabalho. 
+Em outra condição, que era de nosso
+controle, 
+eles não faziam isso. 
+Não tinham tempo para autorreflexão. 
+Concluímos que o tipo de reflexão
+deixava 
+o vínculo com a organização, o vínculo
+emocional, 
+muito mais forte. 
+Como resultado, a rotatividade acabou
+ficando muito menor. 
+Dessa forma, também conseguimos aumentar
+o desempenho dos funcionários, 
+bem como o comprometimento. 
+Pudemos aplicar essas descobertas em muitas
+outras empresas 
+trabalhando novamente com a ideia de adotar
+o Sistema 1 
+criando um melhor vínculo emocional 
+com a empresa. 
+ALISON BEARD:  Você mencionou "grupos de
+controle" 
+e sei que testar é o quinto passo da sua
+abordagem. 
+Vocês podem falar um pouco por que isso
+é importante? 
+JOHN BESHEARS:  Claro. 
+De fato, descrevemos diversas soluções
+possíveis 
+para vários problemas organizacionais. 
+Francesca deu-nos um ótimo exemplo 
+de como motivar o Sistema 1, neste caso,
+despertando emoções. 
+Mas também é possível aproveitar vieses 
+ou simplificar processos. 
+Há, ainda, a possibilidade do adotar o
+Sistema 2. 
+Uma maneira de fazer isso é o exemplo que
+apresentei: 
+incentivando a reflexão. 
+Mas também é possível levar as pessoas a
+criarem planos. 
+Pode-se tentar inspirar as pessoas da
+empresa 
+a terem pensamentos mais abrangentes. 
+Há ainda uma terceira possibilidade, 
+que é ignorar os dois sistemas. 
+É possível fazer isso definindo padrões
+criteriosos 
+ou introduzindo ajustes automáticos em um
+processo. 
+Mas o que nós recomendamos é escolher 
+uma dessas soluções e testá-la
+rigorosamente 
+em relação a um grupo de controle para
+ver qual funciona melhor. 
+Esse é o quinto passo: testar a solução
+para ver 
+qual é a mais eficaz. 
+ALISON BEARD:  Em todo seu trabalho 
+nas organizações, 
+você detectou se há algumas estratégias 
+que funcionam melhor? 
+JOHN BESHEARS:  Observa-se que ignorar os
+dois sistemas 
+geralmente é altamente eficaz 
+porque, seguindo essa estratégia, 
+você não exige nenhuma ação específica 
+da parte das pessoas envolvidas. 
+Essa é uma maneira muito poderosa de
+influenciar resultados. 
+No entanto, em muitas situações, não é
+viável 
+ignorar ambos os sistemas e, então, a
+organização 
+deve escolher entre motivar o Sistema 1 
+ou adotar o Sistema 2. 
+Um fator importante a se considerar nessa
+escolha: 
+em que medida você quer que as pessoas
+envolvidas 
+empreguem muita energia cognitiva? 
+Em alguns casos, talvez você queira 
+que elas não empreguem nenhuma energia
+cognitiva, 
+pois isso reduz a capacidade 
+de prestar atenção a outros aspectos
+importantes 
+da situação. 
+Francesca, seu trabalho com arrecadadores
+de fundos 
+foi um caso em que, na verdade, você não
+queria 
+que eles tivessem que empregar energia
+cognitiva, certo? 
+FRANCESCA GINO:  Sim. 
+Tratava-se de um projeto em colaboração 
+com Adam Grant da Wharton, 
+no qual queríamos entender como motivar
+arrecadadores de fundos 
+em uma universidade pública dos Estados
+Unidos. 
+Esse é um trabalho no qual somos muito
+rejeitados, 
+sendo difícil manter a motivação alta. 
+Então, decidimos desencadear o Sistema
+1, 
+ou seja, tentar deixar as emoções deles
+um pouco mais fortes. 
+Fizemos isso pedindo para um diretor 
+circular e visitar os diferentes centros
+expressando gratidão pelo trabalho 
+que os funcionários estavam realizando. 
+Assim, conseguimos deixar as emoções 
+mais elevadas desencadeando o Sistema 1.
+Agora, nessa situação, você poderia se
+imaginar 
+escolhendo uma estratégia diferente. 
+Por exemplo, pode optar por desencadear
+o Sistema 2 
+pedindo para os funcionários passarem mais
+tempo 
+pensando sobre as ligações que devem
+fazer 
+antes de fazê-las. 
+Ou pense em aumentar a responsabilidade 
+pelos resultados dessas ligações. 
+No entanto, decidimos não pedir para as
+pessoas 
+gastarem muita energia em recursos
+cognitivos 
+ao desencadear o Sistema 2, 
+pois isso pode reduzir 
+o esforço e a motivação deles. 
+Por outro lado, desencadeando o Sistema
+1, 
+ou seja, elevando as emoções, conseguimos
+aumentar o esforço 
+e a motivação deles, levando-os a um
+desempenho muito melhor 
+nas semanas seguintes ao fazerem muito
+mais ligações voluntárias. 
+ALISON BEARD:  Assim, um simples agradecimento
+é muito poderoso. 
+FRANCESCA GINO:  Sim, é verdade. 
+ALISON BEARD:  Excelente. 
+Esta é uma pesquisa muito interessante. 
+Muito obrigado por compartilhá-la
+conosco. 
+FRANCESCA GINO:  Obrigada pelo convite. 
+JOHN BESHEARS:  Obrigado pelo convite. 

@@ -1,0 +1,67 @@
+﻿HARRY:  Oi. 
+Eu sou o Harry. 
+Sou gerente de TI em uma empresa de serviços
+financeiros. 
+Há duas semanas enviei a Doreen um
+relatório 
+sobre um novo sistema de gestão de
+relacionamento 
+com clientes que gostaria de
+implementar. 
+Daqui a pouco vou me encontrar com ela
+para discuti-lo. 
+Oi, Doreen. 
+DOREEN:  Oi, Harry. 
+Como vai? 
+HARRY:  Muito bem. 
+E você? 
+DOREEN:  Bem, bem. 
+Sente-se. 
+Ok. 
+Vamos ver o que você tem a dizer. 
+HARRY:  Estamos tendo problemas para
+gerenciar 
+nossos clientes de forma eficaz. 
+Diversas equipes estão falando ao mesmo
+tempo com o cliente 
+e eles estão ficando irritados. 
+Quero implementar um sistema de gestão 
+para que todos falem a mesma coisa ao
+mesmo tempo 
+e saibam quem está falando com quem e
+quem 
+é responsável pelo quê. 
+Com isso, você poderá 
+ver um relatório, todos os dias se quiser,
+ou até 
+de hora em hora, de quantos contatos com
+clientes tivemos, 
+que tipo de material foi enviado a eles 
+e qualquer tipo de pedido que esteja
+atualmente no sistema. 
+Assim, você terá um painel de gestão
+diário 
+para ver quem está fazendo o quê e com
+quem conversar 
+quando for a hora de entender 
+o que está acontecendo com o cliente. 
+DOREEN:  Parece ótimo, 
+E isso está tudo aqui? 
+HARRY:  Está tudo aí. 
+DOREEN:  Tudo no relatório? 
+HARRY:  Eu peguei todas as informações. 
+DOREEN:  Excelente. 
+Ok. 
+Que ótimo! 
+Gostei do esclarecimento. 
+HARRY:  Fantástico. 
+DOREEN:  Ótimo trabalho. 
+HARRY:  Obrigado. 
+DOREEN:  Não, obrigada a você, Harry. 
+HARRY:  Pode falar comigo se tiver
+dúvidas. 
+Ficarei feliz em começar a implementar 
+quando você estiver pronta. 
+DOREEN:  Excelente. 
+HARRY:  Muito obrigado, Doreen. 
+DOREEN:  Ok. De nada. 

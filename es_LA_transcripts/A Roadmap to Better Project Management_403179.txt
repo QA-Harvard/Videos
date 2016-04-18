@@ -1,0 +1,59 @@
+﻿En 2010, Mindtree firmó un gran contrato
+con el gobierno de India, 
+una iniciativa muy transformadora 
+que consistía en dar a 1.200 millones 
+de personas un número de identificación.
+Sería algo parecido 
+al número de la Seguridad Social 
+en los Estados Unidos. 
+En India, no existía un número 
+de identificación único y, por tanto, 
+era una iniciativa muy transformadora. 
+Un proyecto de este tipo se enfrentaba 
+a muchos desafíos, desde la perspectiva 
+de gestión y ejecución de proyectos. 
+No paraban de aparecer nuevos requisitos
+que debíamos desarrollar y probar. 
+También había muchas partes interesadas 
+distribuidas en distintas ubicaciones. 
+Y cada parte interesada quería que 
+se implementara primero su requisito. 
+Teníamos un equipo de 200 ingenieros 
+y trabajábamos día y noche, 
+destinando muchas horas extras. 
+Y, a pesar de tener ese gran equipo, 
+no íbamos al ritmo que se nos exigía. 
+Como líder del equipo, 
+sentía que debía corregir la situación 
+y reducir la tensión que había. 
+Un día, en un arrebato de valentía, 
+fui a la oficina del director de misión 
+y le dije que necesitaba su ayuda para 
+gestionar y establecer expectativas. 
+Le propuse diseñar una lista 
+de requisitos centralizada, en la que 
+contribuyeran las partes interesadas 
+y que usáramos como hoja de ruta 
+para la implementación. 
+Vio la expresión seria de mi rostro 
+y me dio las gracias por haber propuesto
+lo que creía que era lo mejor. 
+Creo que eso fue 
+lo que hizo cambiar esa situación. 
+Las partes interesadas daban prioridad 
+a la lista y todos la respaldaban. 
+El equipo de gestión de productos 
+definió cuáles eran los requisitos. 
+El equipo de ingenieros 
+sabía qué debía construir 
+y el de pruebas sabía qué debía probar. 
+Desde la óptica de ciclos de lanzamiento
+todo fue mucho más fácil de gestionar. 
+Podíamos usar la lista de prioridades 
+para comunicar los progresos 
+de manera objetiva y consistente. 
+Mediante este proceso, diseñamos 
+un sistema que, al acabar el proyecto, 
+había generado un total de 340 millones 
+de números de identificación único 
+para los residentes. 

@@ -1,0 +1,243 @@
+﻿1
+00:00:00,000 --> 00:00:05,763
+
+2
+00:00:05,763 --> 00:00:08,733
+Hay un viejo dicho que dice:  
+Los mercados que no existen 
+
+3
+00:00:08,733 --> 00:00:10,273
+no se pueden medir ni analizar. 
+
+4
+00:00:10,273 --> 00:00:12,823
+Significa que, si usted está innovando, 
+
+5
+00:00:12,823 --> 00:00:15,633
+si está haciendo algo 
+que nunca ha hecho 
+
+6
+00:00:15,633 --> 00:00:18,663
+a veces debe imaginar nuevas formas 
+
+7
+00:00:18,663 --> 00:00:19,703
+de determinar si su idea es buena. 
+
+8
+00:00:19,703 --> 00:00:21,643
+He aquí un ejemplo de eso. 
+
+9
+00:00:21,643 --> 00:00:24,303
+En 2004, trabajaba con un equipo 
+
+10
+00:00:24,303 --> 00:00:25,743
+en Procter & Gamble. 
+
+11
+00:00:25,743 --> 00:00:28,483
+El equipo tenía una gran idea en mente: 
+
+12
+00:00:28,483 --> 00:00:31,913
+un suplemento probiótico para personas 
+
+13
+00:00:31,913 --> 00:00:34,863
+con síndrome de intestino irritable. 
+
+14
+00:00:34,863 --> 00:00:38,003
+Si lo sufría y tomaba el suplemento 
+
+15
+00:00:38,003 --> 00:00:40,973
+a diario durante 30 días, 
+
+16
+00:00:40,973 --> 00:00:42,873
+los síntomas comenzarían a remitir. 
+
+17
+00:00:42,873 --> 00:00:45,993
+Cuando me reuní con el equipo, pensé 
+
+18
+00:00:45,993 --> 00:00:47,513
+que estarían encantados con la idea. 
+
+19
+00:00:47,513 --> 00:00:50,363
+Cambió la vida de quienes lo probaron. 
+
+20
+00:00:50,363 --> 00:00:52,083
+Había que tomarlo a diario, así creaba 
+
+21
+00:00:52,083 --> 00:00:55,723
+un modelo de negocio potente y exitoso. 
+
+22
+00:00:55,723 --> 00:00:57,383
+Pero el equipo estaba desanimado. 
+
+23
+00:00:57,383 --> 00:01:00,033
+Pregunté cuál era el problema 
+y respondieron 
+
+24
+00:01:00,033 --> 00:01:02,673
+que íbamos a descartar la idea.  
+Les dije que me parecía extraño, 
+
+25
+00:01:02,673 --> 00:01:05,573
+puesto que era una gran idea.  
+Me respondieron que habían llegado 
+
+26
+00:01:05,573 --> 00:01:09,453
+las previsiones y no eran buenas. 
+
+27
+00:01:09,453 --> 00:01:12,013
+Había que invertir mucho para sacarlo 
+
+28
+00:01:12,013 --> 00:01:14,853
+a la venta y la dirección no quería.  
+Les dije que habláramos 
+
+29
+00:01:14,853 --> 00:01:16,703
+de las previsiones, ya que era posible 
+
+30
+00:01:16,703 --> 00:01:19,803
+que estuvieran equivocadas. 
+
+31
+00:01:19,803 --> 00:01:21,783
+Les pregunté cómo se había estimado 
+
+32
+00:01:21,783 --> 00:01:24,863
+el potencial de esa oportunidad.  
+Pero hicieron lo de siempre: 
+
+33
+00:01:24,863 --> 00:01:27,683
+preguntar a los consumidores 
+
+34
+00:01:27,683 --> 00:01:29,783
+si lo comprarían y con qué frecuencia. 
+
+35
+00:01:29,783 --> 00:01:32,133
+Para que fuera una gran oportunidad, 
+
+36
+00:01:32,133 --> 00:01:33,953
+tenían que comprarlo cada mes. 
+
+37
+00:01:33,953 --> 00:01:36,513
+Un paquete de 30, 12 veces al año. 
+
+38
+00:01:36,513 --> 00:01:39,163
+Pero dijeron que no lo harían. 
+
+39
+00:01:39,163 --> 00:01:41,933
+Pregunté si era posible averiguar 
+
+40
+00:01:41,933 --> 00:01:45,063
+si los clientes lo habían entendido bien 
+
+41
+00:01:45,063 --> 00:01:48,223
+sin gastar una gran cantidad de dinero.  
+Logramos la aprobación de la dirección 
+
+42
+00:01:48,223 --> 00:01:50,983
+para lanzar el producto en línea. 
+
+43
+00:01:50,983 --> 00:01:54,903
+Hice un marketing muy enfocado para 
+
+44
+00:01:54,903 --> 00:01:57,503
+estimular la demanda y vi lo que ocurrió 
+
+45
+00:01:57,503 --> 00:01:59,943
+cuando los clientes lo compraron. 
+
+46
+00:01:59,943 --> 00:02:00,673
+Resultó que nuestros consumidores 
+
+47
+00:02:00,673 --> 00:02:01,413
+estaban equivocados. 
+
+48
+00:02:01,413 --> 00:02:04,743
+Podían tomar la píldora con regularidad 
+
+49
+00:02:04,743 --> 00:02:07,643
+y las previsiones empezaron a mejorar. 
+
+50
+00:02:07,643 --> 00:02:10,523
+A principios de 2009, P&G lanzó 
+
+51
+00:02:10,523 --> 00:02:12,353
+el producto con el nombre Align. 
+
+52
+00:02:12,353 --> 00:02:14,882
+Ahora es un producto, 
+
+53
+00:02:14,882 --> 00:02:19,183
+un gran crecimiento para P&G.  
+La lección que aprendí fue 
+
+54
+00:02:19,183 --> 00:02:22,573
+que el  futuro no puede 
+predecirse analíticamente. 
+
+55
+00:02:22,573 --> 00:02:25,323
+Hay que hallar maneras de poner a prueba 
+
+56
+00:02:25,323 --> 00:02:29,093
+los supuestos de forma ágil y económica. 
+
+57
+00:02:29,093 --> 00:02:31,403
+No todo está en las investigaciones. 
+
+58
+00:02:31,403 --> 00:02:34,243
+A veces es uno mismo quien debe hacerlo. 
+
+59
+00:02:34,243 --> 00:02:40,066

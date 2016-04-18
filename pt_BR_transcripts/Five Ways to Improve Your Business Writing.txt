@@ -1,0 +1,93 @@
+﻿Os gerentes costumam ter uma relação de
+amor e ódio 
+com a mensuração do desempenho. 
+Eles se interessam pelos resultados, mas
+detestam medir. 
+Por isso, tenho a satisfação de levar 
+mais de 20 anos de experiência em
+estatística 
+para meu coaching de mensuração do
+desempenho. 
+Um pouco de rigor estatístico 
+ajuda gerentes a evitar fazer economia,
+medir 
+as coisas erradas e gerar os resultados
+errados. 
+Uma boa mensuração do desempenho é definida
+como evidência objetiva 
+do grau em que um resultado de
+desempenho 
+está ocorrendo ao longo do tempo. 
+É preciso verificar se seus KPIs 
+estão mostrando um quadro correto. 
+Por exemplo, atendi Bridget, 
+que trabalha em uma empresa de software.
+Ela viu que o número de bugs relatados
+por clientes 
+estava crescendo. 
+Mas quando ela começou a medir o número
+de bugs 
+a cada 100 horas de trabalho de desenvolvimento
+de software, 
+ela percebeu que o número de bugs que a
+equipe estava produzindo 
+havia, na verdade, diminuído. 
+Há cinco métodos de medir desempenho. 
+Todos têm prós e contras e você
+precisará 
+decidir qual é o melhor para o que 
+você está tentando medir. 
+Primeiro, contagem. 
+Contar é o modo mais fácil de quantificar
+algo 
+em observação, como o número de clientes
+satisfeitos  
+ou de produtos vendidos. 
+Mas só funciona quando o tamanho da
+população não muda. 
+Quando o tamanho da população está
+mudando, 
+é melhor usar o próximo método:
+porcentagens. 
+Este é um ótimo método para saber quanto
+uma certa população dinâmica 
+apresenta uma característica específica
+ao longo do tempo. 
+Mas ele supõe que seu resultado é branco
+ou preto. 
+Estejam os clientes satisfeitos ou não. 
+Ele não informa em que medida 
+está acontecendo a característica que você
+está medindo. 
+O terceiro é somas e totais. 
+Trata-se de indicadores contínuos, como
+o custo total 
+do afastamento de um funcionário que se
+machucou 
+ou o tempo gasto com venda por telefone.
+Mas como a contagem, esse método pode
+enganar 
+se o tamanho do escopo ou oportunidade
+varia. 
+Próximo: medidas. 
+Elas são excelentes quando se quer
+entender 
+em que medida um resultado em particular
+está acontecendo 
+em toda a população e não apenas 
+se está ou não acontecendo. 
+Por último, proporções. 
+Proporções são uma ótima maneira de medir
+produtividade. 
+No entanto, saiba que é muito fácil 
+tornar suas medidas desnecessariamente
+complexas 
+ao usar proporções. 
+Verifique se elas mostram algo sensato, 
+como a medida de Bridget da razão entre
+bugs 
+e horas de desenvolvimento de software. 
+Observe bem sua mensuração do desempenho
+e decida qual é a melhor maneira de
+quantificar 
+o que você está tentando avaliar. 

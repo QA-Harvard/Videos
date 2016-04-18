@@ -1,0 +1,263 @@
+﻿1
+00:00:00,000 --> 00:00:05,763
+
+2
+00:00:05,763 --> 00:00:08,733
+Existe um velho ditado:  mercados 
+que não existem não podem ser 
+
+3
+00:00:08,733 --> 00:00:10,273
+medidos e analisados. 
+
+4
+00:00:10,273 --> 00:00:12,823
+Isso significa que, se estiver 
+inovando, fazendo 
+
+5
+00:00:12,823 --> 00:00:15,633
+algo que nunca tinha sido feito antes, 
+
+6
+00:00:15,633 --> 00:00:18,663
+é preciso descobrir novas maneiras 
+de determinar se sua ideia 
+
+7
+00:00:18,663 --> 00:00:19,703
+é boa. 
+
+8
+00:00:19,703 --> 00:00:21,643
+Veja um exemplo: 
+
+9
+00:00:21,643 --> 00:00:24,303
+em 2004, eu trabalhava com uma equipe 
+
+10
+00:00:24,303 --> 00:00:25,743
+na Procter & Gamble. 
+
+11
+00:00:25,743 --> 00:00:28,483
+A equipe tinha uma excelente ideia. 
+
+12
+00:00:28,483 --> 00:00:31,913
+Tratava-se de um suplemento probiótico diário,
+
+13
+00:00:31,913 --> 00:00:34,863
+voltado para pessoas com síndrome 
+do intestino irritável. 
+
+14
+00:00:34,863 --> 00:00:38,003
+Se você tivesse essa síndrome 
+e tomasse esse suplemento 
+
+15
+00:00:38,003 --> 00:00:40,973
+por 30 dias seguidos, seus sintomas 
+
+16
+00:00:40,973 --> 00:00:42,873
+começariam a desaparecer. 
+
+17
+00:00:42,873 --> 00:00:45,993
+Quando me reuni com a equipe, 
+pensei que ficariam eufóricos, 
+
+18
+00:00:45,993 --> 00:00:47,513
+pois tinham uma ideia excelente. 
+
+19
+00:00:47,513 --> 00:00:50,363
+Quem testou o produto dizia 
+que a vida havia mudado. 
+
+20
+00:00:50,363 --> 00:00:52,083
+E era preciso tomá-lo todos os dias. 
+
+21
+00:00:52,083 --> 00:00:55,723
+Isso significava um modelo 
+de negócios bom e poderoso. 
+
+22
+00:00:55,723 --> 00:00:57,383
+Porém, a equipe estava desanimada, 
+então perguntei: 
+
+23
+00:00:57,383 --> 00:01:00,033
+"Qual o problema?"  
+Eles disseram:  "Estamos prestes 
+
+24
+00:01:00,033 --> 00:01:02,673
+a desistir."  Eu disse: "Como assim? 
+
+25
+00:01:02,673 --> 00:01:05,573
+Essa ideia é fantástica."  
+Eles disseram: "Mas o problema 
+
+26
+00:01:05,573 --> 00:01:09,453
+é que nossa projeção foi muito pequena. 
+
+27
+00:01:09,453 --> 00:01:12,013
+Precisamos gastar muito dinheiro para
+comercializar 
+
+28
+00:01:12,013 --> 00:01:14,853
+isso e a administração não vai deixar."  
+Eu disse: "Bem, 
+
+29
+00:01:14,853 --> 00:01:16,703
+vamos conversar sobre essa projeção. 
+
+30
+00:01:16,703 --> 00:01:19,803
+É possível que ela esteja errada? 
+
+31
+00:01:19,803 --> 00:01:21,783
+Como vocês estimaram o potencial dessa 
+
+32
+00:01:21,783 --> 00:01:24,863
+oportunidade?"  Bem, eles fizeram 
+o que se costuma fazer. 
+
+33
+00:01:24,863 --> 00:01:27,683
+Perguntaram ao consumidor: 
+
+34
+00:01:27,683 --> 00:01:29,783
+"Você comprará isso, 
+com que frequência?" 
+
+35
+00:01:29,783 --> 00:01:32,133
+Para que fosse uma boa oportunidade, 
+o consumidor 
+
+36
+00:01:32,133 --> 00:01:33,953
+precisaria comprar todos os meses. 
+
+37
+00:01:33,953 --> 00:01:36,513
+Uma embalagem de 30 comprimidos, 
+12 vezes ao ano. 
+
+38
+00:01:36,513 --> 00:01:39,163
+Mas o cliente disse que 
+não iria fazer isso. 
+
+39
+00:01:39,163 --> 00:01:41,933
+Eu disse: "Tem como descobrir se o consumidor 
+
+40
+00:01:41,933 --> 00:01:45,063
+não entendeu e não conseguiu 
+dar uma resposta adequada 
+
+41
+00:01:45,063 --> 00:01:48,223
+sem gastar muito dinheiro?"  
+Então, conseguimos a 
+
+42
+00:01:48,223 --> 00:01:50,983
+aprovação da administração 
+para lançar o produto on-line. 
+
+43
+00:01:50,983 --> 00:01:54,903
+Fizemos marketing direcionado 
+para estimular a demanda em 
+
+44
+00:01:54,903 --> 00:01:57,503
+algumas regiões e vimos o 
+que aconteceu quando o 
+
+45
+00:01:57,503 --> 00:01:59,943
+consumidor teve acesso ao produto. 
+
+46
+00:01:59,943 --> 00:02:00,673
+No fim, eles [os consumidores] 
+
+47
+00:02:00,673 --> 00:02:01,413
+estavam errados. 
+
+48
+00:02:01,413 --> 00:02:04,743
+Eles iriam aceitar, tomariam 
+os comprimidos todos os dias, 
+
+49
+00:02:04,743 --> 00:02:07,643
+e a projeção de mercado começou a subir. 
+
+50
+00:02:07,643 --> 00:02:10,523
+No início de 2009, 
+a P&G lançou o produto 
+
+51
+00:02:10,523 --> 00:02:12,353
+com o nome de Align. 
+
+52
+00:02:12,353 --> 00:02:14,882
+Agora, ele é um produto 
+de grande interesse, que 
+
+53
+00:02:14,882 --> 00:02:19,183
+gera muito crescimento para a P&G.  
+Qual foi a lição-chave nesse caso? 
+54
+00:02:19,183 --> 00:02:22,573
+O futuro nem sempre pode 
+ser previsto de forma analítica. 
+
+55
+00:02:22,573 --> 00:02:25,323
+Às vezes, é preciso descobrir 
+como testar as principais 
+
+56
+00:02:25,323 --> 00:02:29,093
+premissas, pensar em maneiras 
+baratas e rápidas de saber mais. 
+
+57
+00:02:29,093 --> 00:02:31,403
+Nem sempre os relatórios 
+de pesquisa revelam esses dados. 
+
+58
+00:02:31,403 --> 00:02:34,243
+Às vezes, é necessário ir mais além. 
+
+59
+00:02:34,243 --> 00:02:40,066

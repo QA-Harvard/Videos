@@ -1,0 +1,29 @@
+Como gerente, uso el análisis de 
+equilibrio para determinar las unidades 
+de un producto o servicio que necesitaré
+vender para recuperar una inversión. 
+El análisis de equilibrio es sencillo. 
+Se toma el valor de la inversión, 
+como $100 millones para una campaña, 
+y se divide el costo de inversión  
+entre el margen de contribución. 
+El margen de contribución por unidad 
+se calcula tomando el precio unitario 
+del producto o servicio y restando  
+el costo variable, lo que resulta 
+en el margen de contribución por unidad.
+Supongamos que el producto cuesta $100 
+y que su costo variable es $50. 
+El margen de contribución sería $50. 
+$100 se divide entre los $50 por margen 
+unitario y da dos millones de unidades. 
+Si pienso como gerente, puedo vender 
+otras dos millones de unidades y 
+podré al menos recuperar la inversión. 
+O quizá, si vendo más de dos millones, 
+recibo un retorno positivo 
+de la inversión realizada. 
+Si creo que no se venderán dos millones,
+no debería hacer la inversión  
+porque no la equilibraré con el retorno.
+ 

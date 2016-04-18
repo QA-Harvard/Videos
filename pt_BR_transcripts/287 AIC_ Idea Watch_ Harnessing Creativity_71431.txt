@@ -1,0 +1,345 @@
+﻿MEGAN ENNIS:  Sejam bem-vindos ao HBR
+IdeaCast da Harvard 
+Business Review. 
+Sou Megan Ennis. 
+Hoje vamos falar sobre como criamos. 
+Qual é a ciência por trás da inovação,
+principalmente 
+quando o processo de inovar é tão difícil
+de definir? 
+Para entender melhor essa ideia confusa,
+separamos pesquisas 
+da revista impressa da HBR sobre o uso da
+criatividade no 
+desenvolvimento de produtos, em equipes
+e com seus clientes. 
+Estão comigo hoje os editores desses
+artigos, 
+Andy O'Connell e Scott Berinato. 
+Obrigada por estarem aqui. 
+SCOTT BERINATO:  Obrigado por nos
+receber. 
+ANDY O'CONNELL.  É um prazer estar aqui.
+MEGAN ENNIS:  Vamos começar falando sobre
+a criação de novos 
+produtos, que tem como melhor prática 
+fazer um protótipo rápido e sujo, no início
+da 
+fase de desenvolvimento. 
+Andy, você acompanhou um artigo da edição
+de dezembro 
+que diz que os protótipos podem sabotar
+o 
+processo criativo. 
+Pode nos dizer como isso acontece? 
+ANDY O'CONNELL.  Os protótipos são
+excelentes, mas nessa pesquisa 
+específica, Paul Leonardi, da Northwestern,
+descobriu ao 
+avaliar a inovação em uma montadora dos
+EUA que, 
+se ocorrer muito no início do processo,
+a criação de um protótipo 
+poder parar o processo de inovação. 
+Ela elimina a ambiguidade e impede que as
+pessoas 
+que estão fazendo a inovação pensem 
+além desse ponto. 
+Toda a discussão gira em torno do
+protótipo. 
+O protótipo tem ou não deveria ter essa
+característica, 
+ou o que seja, e por isso ele muda toda
+a 
+discussão e não colabora para 
+a melhor inovação. 
+MEGAN ENNIS:  Parece que isso é uma espécie
+de barreira 
+cognitiva, o que os pesquisadores chamam
+de 
+cegueira na inovação. 
+Mas como evitar isso nas organizações? 
+ANDY O'CONNELL.  Bem, ele diz que é preciso
+encontrar 
+uma forma de permitir a ambiguidade 
+no processo de inovação, até que todos os
+diferentes grupos 
+participantes cheguem a um acordo sobre 
+qual problema o produto deve resolver, e
+não 
+criar um protótipo muito no início do
+processo. 
+MEGAN ENNIS:  Por falar em solução de
+problemas, Scott, você 
+trabalhou em um artigo para a edição de
+novembro 
+explicando que o melhor tipo de inovação
+não vem das 
+empresas, mas dos clientes. 
+Quais foram os resultados encontrados? 
+SCOTT BERINATO:  Cada vez mais, é isso
+que acontece. 
+Eric Von Hippel, do MIT, tem dedicado boa
+parte da 
+pesquisa dele a essa ideia de inovação
+centrada no usuário. 
+Ele entende que as pessoas inovam nos
+produtos 
+agora, criam produtos e adaptam produtos
+para seu uso. 
+Elas estão fazendo a inovação para usar
+os produtos, 
+em vez de vendê-los. 
+A premissa na teoria econômica é que
+inovamos 
+para criar produtos que vendemos e depois
+usamos o dinheiro 
+para criar mais inovações e, assim, 
+ter progresso. 
+O que ele descobriu é que a tecnologia,
+a facilidade 
+de compartilhar ideias por meio da
+tecnologia, leva cada vez 
+mais usuários a inovarem e terem
+sucesso. 
+Um exemplo simples: no Reino Unido, fizeram
+um estudo 
+e descobriram que 2,9 milhões de consumidores
+do país – 
+que é um número considerável, cerca de 6%
+dos consumidores – 
+fizeram algum tipo de inovação de usuário
+e apenas 2% 
+tentaram proteger suas ideias por meio de
+patentes. 
+MEGAN ENNIS:  Então, você diz que as
+pessoas estão 
+inventando ou melhorando produtos 
+espontaneamente, mas de graça? 
+Existe alguma implicação de direito autoral
+ou as pessoas 
+não querem ter lucro com isso? 
+SCOTT BERINATO:  Não na medida que você
+possa 
+achar, por algumas razões. 
+Uma delas é que você precisa pensar na
+motivação. 
+Se sou um indivíduo, minha motivação é
+usar 
+algo, não necessariamente vendê-lo ou
+ganhar dinheiro. 
+Além disso, as pessoas não percebem que 
+patentear uma propriedade intelectual é
+um processo caro, 
+demorado, confuso e difícil, e que 
+às vezes parece não valer a pena. 
+Como diz o professor Von Hippel, se eu
+fizer uma 
+melhoria em uma bicicleta, para mim vai
+ficar mais 
+caro patentear essa melhoria do que apenas
+compartilhá-la. 
+Mas há exceções para isso. 
+Segundo o professor Von Hippel, quanto
+mais a situação 
+se aproximar de rivalidade ou concorrência,
+menor será a chance 
+de a inovação do usuário acontecer. 
+Por exemplo, a Gillette não começará de
+repente 
+a compartilhar suas tecnologias de fabricação
+de lâminas, 
+porque essa é uma situação altamente
+competitiva. 
+Ela tem muitos concorrentes nesse
+negócio. 
+Mas quando falamos de inovações mais gerais
+e 
+até de inovações na cadeia de suprimento,
+todos ganham 
+se todos compartilharem as ideias. 
+MEGAN ENNIS:  Certo. 
+Você consegue se lembrar de quais
+empresas 
+usam esse tipo de inovação de usuário com
+eficácia? 
+SCOTT BERINATO:  Sim, existem alguns
+exemplos que o professor 
+Von Hippel dá. 
+Um dos meus favoritos é que é difícil para
+algumas 
+empresas entenderem que não patenteamos 
+todas as ideias que surgem na cabeça, que
+não tentamos lucrar 
+com todas as ideias. 
+A Microsoft lançou o plug-in Kinect para
+o Xbox 
+360, oferecendo um controle baseado em
+movimento do 
+jogo, e os usuários logo começaram a
+melhorá-lo, 
+a inová-lo e usá-lo de várias maneiras. 
+Em um primeiro momento, a reação da
+Microsoft, segundo Von 
+Hippel, foi meio que dizer: "Vocês não
+podem fazer isso. 
+Parem de fazer isso, parem de bagunçar o
+produto." 
+Porém, eles perceberam que estavam criando
+uma espécie 
+de ecossistema de inovação de usuários,
+que apenas queriam 
+usar o produto de modo diferente. 
+Então, mudaram de ideia e 
+começaram a oferecer suporte para esses
+usuários e 
+a incentivá-los. 
+Outro ótimo exemplo óbvio são os
+navegadores. 
+Se você usa o Firefox, sabe que há
+complementos e 
+extensões criados por membros da comunidade
+o tempo todo 
+e que melhoram o navegador e ajudam você
+a fazer um produto melhor. 
+No entanto, poucas pessoas lucram com
+essas 
+inovações. 
+MEGAN ENNIS:  Agora vamos mudar um pouco
+de rumo 
+e dar uma olhada em um artigo de nossa
+edição de março. 
+É comum achar que, quanto mais criativas
+as pessoas da equipe, 
+mais criativa a equipe será. 
+Mas, Andy, você encontrou pesquisas dizendo
+que 
+isso não é verdade. 
+Então, o que torna uma equipe criativa? 
+ANDY O'CONNELL.  Bem, os criativos são
+muito importantes 
+em uma equipe de inovação radical, não
+há 
+dúvidas quanto a isso. 
+São eles que quebram as regras e
+redefinem 
+o problema de maneiras novas e
+animadoras. 
+Eles são absolutamente cruciais. 
+Mas os criativos às vezes também geram
+conflitos 
+com outras pessoas da equipe ou da 
+organização. 
+Às vezes, não são muito focados na
+utilidade 
+do que a equipe está criando. 
+Uma equipe de pesquisadores liderada por
+Ella Miron-Spektor 
+descobriu, no estudo de um fornecedor da
+área de defesa, 
+que o importante é ter uma mistura de
+pessoas 
+em uma equipe de inovação radical. 
+Em particular, ela constatou que a maioria
+das equipes inovadoras 
+tinha cerca de 20% a 30% de
+conformistas. 
+Os conformistas podem não ser muito bons
+em brainstorming, 
+não ter boas ideias, mas são muito bons 
+em apoiar os criativos e dar à equipe um
+sentimento de 
+confiança. 
+Uma equipe de inovação confiante é mais
+capaz de 
+superar os obstáculos que acabam surgindo
+no caminho 
+da inovação. 
+MEGAN ENNIS:  Então, quais outros tipos
+de pessoas 
+devem estar nessas equipes? 
+ANDY O'CONNELL.  Bem, eles descobriram
+que as equipes mais 
+inovadoras também tinha cerca de 10% de
+pessoas que 
+eram muito focadas nos detalhes. 
+As pessoas focadas em detalhes são
+importantes porque querem 
+colocar pingo em todos os "is" e cruzar
+todos os "ts", junto com 
+os conformistas e algumas pessoas criativas,
+mas 
+não muitas. 
+MEGAN ENNIS:  Então, é bom ter uma variedade
+de pessoas em 
+sua equipe para criar melhor. 
+Andy, sei que você também trabalha no
+informativo Daily Stat 
+da HBR, que oferece fatos rápidos e muitas
+vezes bizarros 
+sobre negócios. 
+O que você descobriu de interessante? Não
+precisa 
+ser sobre inovação. 
+ANDY O'CONNELL.  Bem, não se trata de
+inovação, mas 
+certamente sobre raciocínio. 
+Tem a ver com QI, que tendemos a considerar
+um 
+atributo fixo. 
+Todo mundo tem um QI, mas ele muda ao
+longo da 
+vida de uma pessoa e de um dia para o
+outro. 
+Na verdade, ele muda de acordo com o
+contexto. 
+E um grupo de pesquisadores, incluindo
+Read Montague do 
+Virginia Tech, descobriu que, ao colocar
+pessoas em uma 
+situação em que saibam a classificação
+delas em relação 
+aos colegas, isso pode afetar o QI
+delas. 
+Então, algumas pessoas estavam fazendo um
+teste de QI 
+e, enquanto isso, podiam ver 
+como a classificação delas subia ou descia
+a cada 
+pergunta que respondiam. 
+Ele descobriu que um subconjunto específico
+dos 
+participantes, cerca de um quarto, ficou
+tão confuso ou perturbado com isso, que
+o QI deles caiu de uma média de 124, no
+começo do experimento, para uma média
+de 
+107 no final. 
+Assim, o QI caiu significativamente ao
+longo 
+desse experimento só porque eles 
+sabiam a classificação deles. 
+A tese dele é que, de alguma forma, essa
+sensibilidade 
+ao feedback social tem um papel importante
+na modelagem 
+da inteligência humana. 
+MEGAN ENNIS:  Uau, isso é fascinante. 
+E tenho certeza de que há mais sobre
+isso 
+no Daily Stat. 
+Muito obrigado, Andy e Scott, por terem
+vindo. 
+ANDY O'CONNELL.  Obrigado, Megan. 
+SCOTT BERINATO:  Obrigado. 
+MEGAN ENNIS:  Estes foram os editores da
+HBR Andy O'Connell e 
+Scott Berinato. 
+Esperamos que aproveitem essas ideias
+sobre como criamos. 
+Tudo isso e outras pesquisas podem ser
+encontrados na seção 
+"Idea Watch" de cada edição da Harvard
+Business. 
+Leia e assine o Daily 
+Stat online em hbr.org. 

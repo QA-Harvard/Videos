@@ -1,0 +1,103 @@
+﻿É comum ver "scope creep" em projetos 
+de todos os portes, de todos os setores.
+Vários stakeholders pedem que a equipe 
+produza cada vez mais conforme o trabalho
+avança, sem 
+considerar o efeito coletivo 
+sobre o cronograma ou orçamento do
+projeto. 
+Como profissional de gestão de projetos 
+certificado, consultor e professor com
+mais de 30 anos 
+de experiência de trabalho em todos os
+setores, 
+posso dizer que o "scope creep" é muito 
+comum. 
+Se não gerenciá-lo, o projeto está fadado
+ao fracasso. 
+Há o risco de exceder o 
+orçamento, perder os principais prazos e
+fornecer 
+resultados de baixa qualidade, como um
+sistema de TI 
+com bugs ocultos ou um produto
+defeituoso. 
+Para evitar isso, é preciso chegar a um
+consenso sobre o escopo 
+antes de iniciar o projeto. 
+Usei 
+duas técnicas para fazer isso. 
+Se seus stakeholders tiverem metas do
+projeto claras, 
+você pode trabalhar com eles para listar
+o que está no escopo e o que não está. 
+Isso deve ser feito no início. 
+O que está no escopo são os itens 
+necessários para atingir a meta do
+projeto. 
+Itens fora de escopo não apoiam
+diretamente 
+a meta do projeto, ou não há 
+tempo ou dinheiro suficiente para
+realizá-los. 
+Imagine que está desenvolvendo uma
+campanha 
+de marketing para um novo produto. 
+A criação de material 
+promocional impresso para uso durante uma
+visita ao cliente 
+está no escopo, mas a tradução dos
+materiais 
+para diversas línguas pode não estar. 
+Talvez as suas equipes locais 
+de vendas possam fazer isso. 
+Se estiver no escopo, seja o mais específico
+possível 
+sobre esses 
+requisitos. 
+De quantos e quais idiomas você precisa?
+Talvez haja alguma discussão até se chegar
+a um consenso 
+sobre as duas listas, mas finalize-as
+previamente e coloque-as 
+no termo de abertura do projeto. 
+Se os stakeholders não concordarem sobre
+a meta do projeto, 
+apele para a segunda técnica:
+estabelecer 
+parâmetros ou faixas de tolerância do
+escopo para os requisitos 
+gerais. 
+Suponha que você deva instalar um novo 
+sistema de TI. 
+Você 
+pode definir um intervalo para o número 
+de pessoas que precisa atender de uma vez
+ou um intervalo 
+de tempos de resposta desejados. 
+Lance o projeto com as faixas, 
+tendo metas intermediárias pré-determinadas,
+como teste 
+de protótipo ou congelamento de código,
+e 
+avalie as faixas com os stakeholders. 
+Depois, use o que você e seus
+stakeholders 
+souberem até o momento para definir
+metas 
+mais específicas dentro da faixa. 
+Essa técnica permite que todos se familiarizem
+com as 
+oportunidades e os desafios do projeto 
+antes de definir as metas. 
+Criar listas do que está dentro e fora do
+escopo 
+ou definir faixas para requisitos exige
+tempo 
+e esforço no início, mas gera 
+grandes dividendos, aumentando as
+chances 
+de seu projeto ter sucesso em todas as
+frentes 
+importantes: custo, cronograma e
+qualidade. 

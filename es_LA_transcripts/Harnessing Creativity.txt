@@ -1,0 +1,57 @@
+﻿Hay dos desafíos fundamentales 
+en cualquier proceso de innovación. 
+El primero es que usted 
+debe generar muchas ideas. 
+La innovación es un juego de números. 
+Necesita tener muchas ideas 
+del problema que quiere solucionar. 
+Y, cuando tenga muchas ideas, debe hacer 
+una criba y quedarse con la adecuada. 
+En muchas empresas, la creación de ideas 
+suele ser bastante limitada. 
+Hay cinco o diez personas, como máximo, 
+trabajando en un problema para proponer 
+varias ideas para solucionarlo. 
+Y la selección suele ser muy limitada. 
+Solo una o dos personas deciden 
+y dicen: "Tenemos un caso de negocios, 
+y vamos a llevarlo a cabo". 
+En el último lustro han surgido modelos 
+para abordar estos problemas, 
+y muchas empresas se han replanteado 
+quiénes sugieren las ideas 
+y quiénes las seleccionan. 
+Un buen ejemplo de esto es una empresa 
+llamada Threadless, 
+que se dedica a hacer camisetas. 
+Han creado un sistema en el que 
+cualquier miembro de su comunidad, 
+de más de medio millón de usuarios, 
+puede enviar sus diseños de camisetas. 
+Obtienen unos 800 diseños por semana. 
+Eso hace que el motor gire. 
+No tienen desarrolladores internos, 
+lo hacen los miembros de su comunidad, 
+y así reciben ideas muy diferentes. 
+Además, piden a los miembros 
+de su comunidad que voten esas ideas 
+y los ayuden a seleccionar las mejores. 
+Han creado un sistema distribuido 
+donde la generación de ideas 
+reside en la comunidad de usuarios, 
+y han creado una inmensa infraestructura 
+para alentar a la gente a sugerir ideas. 
+Y la selección de ideas, otra gran parte 
+de la innovación, la hacen lo usuarios. 
+Estos usuarios no solo seleccionan ideas 
+si no que informan de la demanda. 
+Dicen: "Tengo intención de comprarlo". 
+Lo que antes era un juego de unos pocos, 
+se ha transformado por completo. 
+Ahora, cualquiera puede proponer ideas 
+y cualquiera puede seleccionar ideas 
+para informar sobre la demanda real. 
+Las funciones propias de una empresa, 
+como la creación y selección de ideas, 
+ahora pueden ser desempeñadas 
+por los propios usuarios. 

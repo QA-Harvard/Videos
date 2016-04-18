@@ -1,0 +1,164 @@
+Bio file name is 'NA': KalturaId: '1_7sq94w23' Video Title: 'The Explainer: Disruptive Innovation' Bio: 'Motion graphic video' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '1_7sq94w23' Video Title: 'The Explainer: Disruptive Innovation' Bio: 'Motion graphic video' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '1_7sq94w23' Video Title: 'The Explainer: Disruptive Innovation' Bio: 'Motion graphic video' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Transcript file name is NA: KalturaId: 1_oyf07bf9 Video Titl: Introduction to Innovation and Creativity File: 
+Bio file name is 'NA': KalturaId: '1_oyf07bf9' Video Title: 'Introduction to Innovation and Creativity' Bio: 'Gidal motion video' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Transcript file name is NA: KalturaId: 1_oyf07bf9 Video Titl: Introduction to Innovation and Creativity File: 
+Bio file name is 'NA': KalturaId: '1_oyf07bf9' Video Title: 'Introduction to Innovation and Creativity' Bio: 'Gidal motion video' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Transcript file name is NA: KalturaId: 1_oyf07bf9 Video Titl: Introduction to Innovation and Creativity File: 
+Bio file name is 'NA': KalturaId: '1_oyf07bf9' Video Title: 'Introduction to Innovation and Creativity' Bio: 'Gidal motion video' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Bio file name is 'NA': KalturaId: '1_9fepbbrj' Video Title: 'Disruptive Innovation Explained' Bio: 'Clayton Christensen' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '1_9fepbbrj' Video Title: 'Disruptive Innovation Explained' Bio: 'Clayton Christensen' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '1_9fepbbrj' Video Title: 'Disruptive Innovation Explained' Bio: 'Clayton Christensen' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Transcript file name is NA: KalturaId: 1_zjysjg2i Video Titl: Budget Impacts File: 
+Transcript file name is NA: KalturaId: 1_zjysjg2i Video Titl: Budget Impacts File: 
+Transcript file name is NA: KalturaId: 1_zjysjg2i Video Titl: Budget Impacts File: 
+Transcript file name is NA: KalturaId: 1_31rmzegd Video Titl: Introduction to Developing Others File: 
+Bio file name is 'NA': KalturaId: '1_31rmzegd' Video Title: 'Introduction to Developing Others' Bio: 'NA' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Transcript file name is NA: KalturaId: 1_31rmzegd Video Titl: Introduction to Developing Others File: 
+Bio file name is 'NA': KalturaId: '1_31rmzegd' Video Title: 'Introduction to Developing Others' Bio: 'NA' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Transcript file name is NA: KalturaId: 1_31rmzegd Video Titl: Introduction to Developing Others File: 
+Bio file name is 'NA': KalturaId: '1_31rmzegd' Video Title: 'Introduction to Developing Others' Bio: 'NA' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Transcript file name is NA: KalturaId: 1_v4kbvt8q Video Titl: How Google Markets with Emotion File: 
+Transcript file name is NA: KalturaId: 1_v4kbvt8q Video Titl: How Google Markets with Emotion File: 
+Transcript file name is NA: KalturaId: 1_v4kbvt8q Video Titl: How Google Markets with Emotion File: 
+Bio file name is 'NA': KalturaId: '1_aat7x1p6' Video Title: 'Survive a Storm by Changing Course' Bio: 'Mike Wheeler' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '1_aat7x1p6' Video Title: 'Survive a Storm by Changing Course' Bio: 'Mike Wheeler' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '1_aat7x1p6' Video Title: 'Survive a Storm by Changing Course' Bio: 'Mike Wheeler' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Transcript file name is NA: KalturaId: 1_tcvo0md9 Video Titl: Introduction to Delegating File: 
+Bio file name is 'NA': KalturaId: '1_tcvo0md9' Video Title: 'Introduction to Delegating' Bio: 'NA' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Transcript file name is NA: KalturaId: 1_tcvo0md9 Video Titl: Introduction to Delegating File: 
+Bio file name is 'NA': KalturaId: '1_tcvo0md9' Video Title: 'Introduction to Delegating' Bio: 'NA' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Transcript file name is NA: KalturaId: 1_tcvo0md9 Video Titl: Introduction to Delegating File: 
+Bio file name is 'NA': KalturaId: '1_tcvo0md9' Video Title: 'Introduction to Delegating' Bio: 'NA' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Transcript file name is NA: KalturaId: 1_pwo37494 Video Titl: Refresh Your Marketing to Drive Sales File: 
+Transcript file name is NA: KalturaId: 1_pwo37494 Video Titl: Refresh Your Marketing to Drive Sales File: 
+Transcript file name is NA: KalturaId: 1_pwo37494 Video Titl: Refresh Your Marketing to Drive Sales File: 
+Transcript file name is NA: KalturaId: 1_a6k97hmk Video Titl: Bring Your Best Self to Work File: 
+Transcript file name is NA: KalturaId: 1_a6k97hmk Video Titl: Bring Your Best Self to Work File: 
+Transcript file name is NA: KalturaId: 1_a6k97hmk Video Titl: Bring Your Best Self to Work File: 
+KalturaId: 1_1fxkux2e Video Title: 'Turn Your Office into a Creative Space' File: /Users/jun.chen/Videos/pt_BR_transcripts/Turn Your Office into a Creative Space_393551.txt
+java.io.FileNotFoundException: /Users/jun.chen/Videos/pt_BR_transcripts/Turn Your Office into a Creative Space_393551.txt (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:101)
+	at com.hbp.testvideos.TxtReader.readTxtContent(TxtReader.java:19)
+	at com.hbp.testvideos.VideoTranscriptParser.parserVideoTranscriptFile(VideoTranscriptParser.java:23)
+	at com.hbp.testvideos.VideoXmlFileBuilder.generateVideoXmlForKalturaId(VideoXmlFileBuilder.java:156)
+	at com.hbp.testvideos.Main.generateAllVideoXmls(Main.java:35)
+	at com.hbp.testvideos.Main.main(Main.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140)
+Bio file name is 'NA': KalturaId: '1_ul9qnx77' Video Title: 'Introduction to Finanace Essentials' Bio: 'NA' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '1_ul9qnx77' Video Title: 'Introduction to Finanace Essentials' Bio: 'NA' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '1_ul9qnx77' Video Title: 'Introduction to Finanace Essentials' Bio: 'NA' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Bio file name is 'NA': KalturaId: '1_rmzc6ywb' Video Title: 'Fixing Potholes' Bio: 'Bob Kaplan' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '1_rmzc6ywb' Video Title: 'Fixing Potholes' Bio: 'Bob Kaplan' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '1_rmzc6ywb' Video Title: 'Fixing Potholes' Bio: 'Bob Kaplan' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Transcript file name is NA: KalturaId: 1_gw4wtm13 Video Titl: Introduction to Ethics at Work File: 
+Bio file name is 'NA': KalturaId: '1_gw4wtm13' Video Title: 'Introduction to Ethics at Work' Bio: 'NA' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Transcript file name is NA: KalturaId: 1_gw4wtm13 Video Titl: Introduction to Ethics at Work File: 
+Bio file name is 'NA': KalturaId: '1_gw4wtm13' Video Title: 'Introduction to Ethics at Work' Bio: 'NA' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Transcript file name is NA: KalturaId: 1_gw4wtm13 Video Titl: Introduction to Ethics at Work File: 
+Bio file name is 'NA': KalturaId: '1_gw4wtm13' Video Title: 'Introduction to Ethics at Work' Bio: 'NA' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Transcript file name is NA: KalturaId: 1_p7t5mmt9 Video Titl: Introduction to Change Management File: 
+Bio file name is 'NA': KalturaId: '1_p7t5mmt9' Video Title: 'Introduction to Change Management' Bio: 'NA' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Transcript file name is NA: KalturaId: 1_p7t5mmt9 Video Titl: Introduction to Change Management File: 
+Bio file name is 'NA': KalturaId: '1_p7t5mmt9' Video Title: 'Introduction to Change Management' Bio: 'NA' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Transcript file name is NA: KalturaId: 1_p7t5mmt9 Video Titl: Introduction to Change Management File: 
+Bio file name is 'NA': KalturaId: '1_p7t5mmt9' Video Title: 'Introduction to Change Management' Bio: 'NA' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Bio file name is 'NA': KalturaId: '1_119snhft' Video Title: 'Performance Objectives' Bio: 'Bob Kaplan' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '1_119snhft' Video Title: 'Performance Objectives' Bio: 'Bob Kaplan' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '1_119snhft' Video Title: 'Performance Objectives' Bio: 'Bob Kaplan' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Transcript file name is NA: KalturaId: 1_j1pgdb8w Video Titl: Five Ways to Improve Your Business Writing File: 
+Transcript file name is NA: KalturaId: 1_j1pgdb8w Video Titl: Five Ways to Improve Your Business Writing File: 
+Transcript file name is NA: KalturaId: 1_j1pgdb8w Video Titl: Five Ways to Improve Your Business Writing File: 
+Transcript file name is NA: KalturaId: 0_68yzk0mr Video Titl: Own Your Own Development File: 
+Transcript file name is NA: KalturaId: 0_68yzk0mr Video Titl: Own Your Own Development File: 
+Transcript file name is NA: KalturaId: 0_68yzk0mr Video Titl: Own Your Own Development File: 
+Bio file name is 'NA': KalturaId: '1_ngmnl1ku' Video Title: 'Everyone Is a Leader' Bio: 'Laurence Downes' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '1_ngmnl1ku' Video Title: 'Everyone Is a Leader' Bio: 'Laurence Downes' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '1_ngmnl1ku' Video Title: 'Everyone Is a Leader' Bio: 'Laurence Downes' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Transcript file name is NA: KalturaId: 0_uabs3x2l Video Titl: How to Motivate and Keep Your Best Talent File: 
+Transcript file name is NA: KalturaId: 0_uabs3x2l Video Titl: How to Motivate and Keep Your Best Talent File: 
+Transcript file name is NA: KalturaId: 0_uabs3x2l Video Titl: How to Motivate and Keep Your Best Talent File: 
+Bio file name is 'NA': KalturaId: '1_9e5i4rvb' Video Title: 'Introduction to Project Management' Bio: 'Al Baidhani' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '1_9e5i4rvb' Video Title: 'Introduction to Project Management' Bio: 'Al Baidhani' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '1_9e5i4rvb' Video Title: 'Introduction to Project Management' Bio: 'Al Baidhani' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Bio file name is 'NA': KalturaId: '0_g0an9f64' Video Title: 'Overclaiming Credit' Bio: 'Max Bazerman' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '0_g0an9f64' Video Title: 'Overclaiming Credit' Bio: 'Max Bazerman' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '0_g0an9f64' Video Title: 'Overclaiming Credit' Bio: 'Max Bazerman' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Bio file name is 'NA': KalturaId: '0_9uvtdveo' Video Title: 'Ethical Fading' Bio: 'Max Bazerman' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '0_9uvtdveo' Video Title: 'Ethical Fading' Bio: 'Max Bazerman' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '0_9uvtdveo' Video Title: 'Ethical Fading' Bio: 'Max Bazerman' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Transcript file name is NA: KalturaId: 1_9ajdha03 Video Titl: Introduction to Goal Setting File: 
+Bio file name is 'NA': KalturaId: '1_9ajdha03' Video Title: 'Introduction to Goal Setting' Bio: 'Gidal' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Transcript file name is NA: KalturaId: 1_9ajdha03 Video Titl: Introduction to Goal Setting File: 
+Bio file name is 'NA': KalturaId: '1_9ajdha03' Video Title: 'Introduction to Goal Setting' Bio: 'Gidal' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Transcript file name is NA: KalturaId: 1_9ajdha03 Video Titl: Introduction to Goal Setting File: 
+Bio file name is 'NA': KalturaId: '1_9ajdha03' Video Title: 'Introduction to Goal Setting' Bio: 'Gidal' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Bio file name is 'NA': KalturaId: '1_wh8qfz3d' Video Title: 'Introduction to Innovation Implementation' Bio: 'Willy Shih' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '1_wh8qfz3d' Video Title: 'Introduction to Innovation Implementation' Bio: 'Willy Shih' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '1_wh8qfz3d' Video Title: 'Introduction to Innovation Implementation' Bio: 'Willy Shih' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Transcript file name is NA: KalturaId: 1_ijtllxuy Video Titl: Introduction to Global Collaboration File: 
+Transcript file name is NA: KalturaId: 1_ijtllxuy Video Titl: Introduction to Global Collaboration File: 
+Transcript file name is NA: KalturaId: 1_ijtllxuy Video Titl: Introduction to Global Collaboration File: 
+Bio file name is 'NA': KalturaId: '1_0djfg4v1' Video Title: 'Develop a Strategy as a Team' Bio: 'C. Cody Phipps' File: '/Users/jun.chen/Videos/es_LA_bios/NA'
+Bio file name is 'NA': KalturaId: '1_0djfg4v1' Video Title: 'Develop a Strategy as a Team' Bio: 'C. Cody Phipps' File: '/Users/jun.chen/Videos/pt_BR_bios/NA'
+Bio file name is 'NA': KalturaId: '1_0djfg4v1' Video Title: 'Develop a Strategy as a Team' Bio: 'C. Cody Phipps' File: '/Users/jun.chen/Videos/zh_CN_bios/NA'
+Playlist Bio file name is 'NA':  Playlist:'avoid_narrow_thinking_while_making_decisions.xml' File: /Users/jun.chen/Videos/es_LA_bios/NA
+Playlist Bio file name is 'NA':  Playlist:'avoid_narrow_thinking_while_making_decisions.xml' File: /Users/jun.chen/Videos/pt_BR_bios/NA
+Playlist Bio file name is 'NA':  Playlist:'avoid_narrow_thinking_while_making_decisions.xml' File: /Users/jun.chen/Videos/zh_CN_bios/NA
+Playlist Bio file name is 'NA':  Playlist:'how_to_handle_rumors_that_a_valued_employee_may_leave.xml' File: /Users/jun.chen/Videos/es_LA_bios/NA
+Playlist Bio file name is 'NA':  Playlist:'how_to_handle_rumors_that_a_valued_employee_may_leave.xml' File: /Users/jun.chen/Videos/pt_BR_bios/NA
+java.io.FileNotFoundException: /Users/jun.chen/Videos/es_LA_bios/"Coach, Don't Criticize_bios.docx" (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:101)
+	at com.hbp.testvideos.DocReader.readMyDocument(DocReader.java:20)
+	at com.hbp.testvideos.VideoBioParser.parseBioContent(VideoBioParser.java:32)
+	at com.hbp.testvideos.VideoXmlFileBuilder.generateVideoPlaylistXml(VideoXmlFileBuilder.java:67)
+	at com.hbp.testvideos.Main.generateAllVideoPlaylistXmls(Main.java:57)
+	at com.hbp.testvideos.Main.main(Main.java:19)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140)
+Playlist Bio file name is 'NA':  Playlist:'how_to_handle_rumors_that_a_valued_employee_may_leave.xml' File: /Users/jun.chen/Videos/zh_CN_bios/NA
+KalturaId: null Bio: null File: /Users/jun.chen/Videos/es_LA_bios/"Coach, Don't Criticize_bios.docx"
+KalturaId: null Bio: null File: /Users/jun.chen/Videos/pt_BR_bios/"Coach, Don't Criticize_bios.docx"
+java.io.FileNotFoundException: /Users/jun.chen/Videos/pt_BR_bios/"Coach, Don't Criticize_bios.docx" (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:101)
+	at com.hbp.testvideos.DocReader.readMyDocument(DocReader.java:20)
+	at com.hbp.testvideos.VideoBioParser.parseBioContent(VideoBioParser.java:32)
+	at com.hbp.testvideos.VideoXmlFileBuilder.generateVideoPlaylistXml(VideoXmlFileBuilder.java:67)
+	at com.hbp.testvideos.Main.generateAllVideoPlaylistXmls(Main.java:58)
+	at com.hbp.testvideos.Main.main(Main.java:19)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140)
+java.io.FileNotFoundException: /Users/jun.chen/Videos/zh_CN_bios/"Coach, Don't Criticize_bios.docx" (No such file or directory)
+KalturaId: null Bio: null File: /Users/jun.chen/Videos/zh_CN_bios/"Coach, Don't Criticize_bios.docx"
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:101)
+	at com.hbp.testvideos.DocReader.readMyDocument(DocReader.java:20)
+	at com.hbp.testvideos.VideoBioParser.parseBioContent(VideoBioParser.java:32)
+	at com.hbp.testvideos.VideoXmlFileBuilder.generateVideoPlaylistXml(VideoXmlFileBuilder.java:67)
+	at com.hbp.testvideos.Main.generateAllVideoPlaylistXmls(Main.java:59)
+	at com.hbp.testvideos.Main.main(Main.java:19)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140)
+
+Process finished with exit code 0
