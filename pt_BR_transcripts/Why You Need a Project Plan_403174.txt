@@ -1,89 +1,11 @@
-﻿Durante toda minha carreira, sempre
-gerenciei 
-algum projeto. 
-Eu tinha bastante 
-experiência, mas também recebi muito
-feedback 
-de que eu era boa em gestão 
-de projetos. 
-Na verdade, parecia ser 
-uma habilidade natural de 
-entender o que precisava ser feito, 
-quando e como me envolver com as
-pessoas. 
-Assim, 
-eu confiava bastante em minhas
-habilidades. 
-Provavelmente até demais. 
-Alguns anos atrás, eu trabalhei 
-em um caso com um cliente de dispositivos
-médicos. 
-Ele 
-queria fazer algo muito diferente, 
-que fosse inovador 
-para a sala de operação. 
-Eu achei que era bem parecido com muitos
-outros projetos 
-que tinha feito, 
-então pensei: "Eu já fiz isso antes. 
-Não preciso me preocupar, consigo gerenciar
-tudo 
-na minha cabeça." 
-Eu estava enganada e deveria 
-saber que daria errado, porque o 
-projeto tinha sido organizado em sprints
-e havia metas intermediárias claras, nas
-quais não eu tinha 
-influência sobre o tempo ou o resultado
-a ser apresentado. 
-Ainda assim, achava que podia 
-gerenciar tudo na minha cabeça. 
-Como disse, eu estava completamente
-errada 
-porque não esperei o 
-inesperado: todas as pequenas emergências
-e os imprevistos 
-que podem surgir durante o dia, os 
-conflitos de personalidade nas equipes, 
-que podem distrair muito um gerente de 
-projeto e comprometer o trabalho. 
-Então, faltavam poucos dias para a primeira
-grande reunião 
-com o cliente e percebi que nada 
-tinha sido feito 
-e o material pronto não estava 
-com qualidade aceitável. 
-Assim, 
-começamos a juntar tudo, esperando o
-melhor, 
-e fomos à reunião com o cliente. 
-Nós 
-estávamos diante de uma sala de executivos,
-médicos, 
-engenheiros e cientistas, 
-perguntando se eles sabiam quais 
-eram as necessidades dos pacientes,
-cirurgiões e 
-executivos de hospitais. 
-Eles nos olhavam de volta com
-perplexidade. 
-Estávamos suando de nervosismo quando
-houve um pequeno 
-terremoto e precisamos 
-sair do prédio. 
-Aquilo encerrou a reunião, mas 
-fez com que eu 
-percebesse que estávamos 
-em apuros com relação ao projeto e que
-era preciso 
-um plano de projeto para redirecioná-lo 
-e mantê-lo no rumo certo. 
-Percebi que não podia confiar em um
-terremoto 
-para me salvar na próxima vez que isso
-acontecesse e que 
-precisava usar as 
-ferramentas disponíveis para gerenciar o
-projeto, 
-e não apenas confiar na experiência para
-tudo correr como deveria. 
+﻿	Durante toda minha carreira, sempre gerenciei algum projeto. Eu tinha bastante experiência, mas também recebi muito feedback de que eu era boa em gestão 
+de projetos. Na verdade, parecia ser uma habilidade natural de entender o que precisava ser feito, quando e como me envolver com as pessoas. Assim, eu confiava bastante em minhas habilidades. Provavelmente até demais. 
+	Alguns anos atrás, eu trabalhei em um caso com um cliente de dispositivos médicos. Ele queria fazer algo muito diferente, que fosse inovador para a sala de operação. Eu achei que era bem parecido com muitos outros projetos que tinha feito, então pensei: "Eu já fiz isso antes. 
+Não preciso me preocupar, consigo gerenciar tudo na minha cabeça." 
+	Eu estava enganada e deveria saber que daria errado, porque o projeto tinha sido organizado em sprints e havia metas intermediárias claras, nas quais não eu tinha influência sobre o tempo ou o resultado a ser apresentado. Ainda assim, achava que podia gerenciar tudo na minha cabeça. 
+	Como disse, eu estava completamente errada porque não esperei o inesperado: todas as pequenas emergências e os imprevistos que podem surgir durante o dia, os conflitos de personalidade nas equipes, que podem distrair muito um gerente de projeto e comprometer o trabalho. 
+	Então, faltavam poucos dias para a primeira grande reunião com o cliente e percebi que nada tinha sido feito e o material pronto não estava com qualidade aceitável. Assim, começamos a juntar tudo, esperando o melhor, e fomos à reunião com o cliente. 
+Nós estávamos diante de uma sala de executivos,médicos, engenheiros e cientistas, perguntando se eles sabiam quais eram as necessidades dos pacientes, cirurgiões e 
+executivos de hospitais. Eles nos olhavam de volta com perplexidade. 
+	Estávamos suando de nervosismo quando houve um pequeno terremoto e precisamos sair do prédio. Aquilo encerrou a reunião, mas  fez com que eu percebesse que estávamos em apuros com relação ao projeto e que era preciso um plano de projeto para redirecioná-lo  e mantê-lo no rumo certo. 
+	Percebi que não podia confiar em um terremoto para me salvar na próxima vez que isso acontecesse e que precisava usar as ferramentas disponíveis para gerenciar o projeto, e não apenas confiar na experiência para tudo correr como deveria. 
