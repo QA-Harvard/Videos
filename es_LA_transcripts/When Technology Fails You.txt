@@ -1,44 +1,13 @@
-﻿La tecnología es fantástica. 
-Ha cambiado la forma de hacer negocios. 
-Pero es cierto que no es infalible. 
-Los problemas tecnológicos 
-son más comunes de lo que pensamos 
-y afectan al trabajo y a las personas. 
-Les daré un ejemplo. 
-El líder de una empresa quería anunciar 
-una gran reestructuración. 
-Se celebraría una reunión a la que 
-se convocaría a muchas personas. 
-Se comunicó con mucha antelación. 
-Empezó comentando las novedades 
-que afectaban a las personas de la sala 
-y de fuera que asistían por conferencia.
-De repente, en mitad de la reunión, 
-se escuchó un pitido. 
-Los dispositivos que se estaban usando 
-en la conferencia dejaron de funcionar. 
-Los asistentes remotos se desconectaron 
-y nadie sabía durante cuánto tiempo. 
-Perdieron la oportunidad de participar 
-en esta conversación acalorada 
-que estaban manteniendo. 
-Muchas videoconferencias fallan, 
-las llamadas se cortan y 
-algunos correos electrónicos se envían 
-y acaban perdidos en el ciberespacio. 
-Los asistentes remotos pueden pensar 
-que se les ha desconectado de la reunión
-cuando realmente es un problema
-técnico. 
-La tecnología no siempre es una panacea.
-Conlleva muchos errores y fallos. 
-Los que usamos la tecnología 
-no debemos confiar ciegamente en ella 
-y debemos usar otras adicionales 
-para comunicarnos eficazmente. 
-A veces, la comunicación redundante 
-puede ser la solución para comunicarse, 
-es decir, repetir lo ya expresado. 
-Si ha enviado un correo electrónico 
-y el mensaje es importante, 
-también puede dejar un mensaje de voz. 
+﻿	La tecnología es fantástica. Ha cambiado la forma de hacer negocios. Pero es cierto que no es infalible. Los problemas tecnológicos son más comunes de lo que pensamos y afectan al trabajo y a las personas.
+ 
+	Les daré un ejemplo. El líder de una empresa quería anunciar una gran reestructuración. Se celebraría una reunión a la que se convocaría a muchas personas. 
+Se comunicó con mucha antelación.
+ 
+	Empezó comentando las novedades que afectaban a las personas de la sala y de fuera que asistían por conferencia. De repente, en mitad de la reunión, se escuchó un pitido. Los dispositivos que se estaban usando en la conferencia dejaron de funcionar. 
+
+	Los asistentes remotos se desconectaron y nadie sabía durante cuánto tiempo. Perdieron la oportunidad de participar en esta conversación acalorada 
+que estaban manteniendo. Muchas videoconferencias fallan, las llamadas se cortan y algunos correos electrónicos se envían y acaban perdidos en el ciberespacio. 
+Los asistentes remotos pueden pensar que se les ha desconectado de la reunión cuando realmente es un problema técnico. 
+
+	La tecnología no siempre es una panacea.Conlleva muchos errores y fallos. Los que usamos la tecnología no debemos confiar ciegamente en ella y debemos usar otras adicionales para comunicarnos eficazmente. A veces, la comunicación redundante puede ser la solución para comunicarse, es decir, repetir lo ya expresado. 
+Si ha enviado un correo electrónico y el mensaje es importante, también puede dejar un mensaje de voz. 

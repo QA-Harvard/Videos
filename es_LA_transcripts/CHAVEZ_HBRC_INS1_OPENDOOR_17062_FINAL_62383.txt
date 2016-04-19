@@ -1,4 +1,4 @@
-﻿Hablar de comunicación en una empresa 
+﻿	Hablar de comunicación en una empresa 
 es algo realmente importante. 
 Y lo más importante es que la gente 
 sienta que puede comunicarse, 
@@ -19,7 +19,8 @@ realizar una llamada, enviar un correo
 o incluso dejar una nota anónima, 
 para que yo, o cualquiera, 
 sepa qué está pasando en la empresa. 
-También considero importante 
+
+	También considero importante 
 lo que yo llamo un "toque personal" en 
 el vertiginoso mundo de la tecnología. 
 Cuando entré en Hermes, 
@@ -29,8 +30,7 @@ Una carta escrita a mano.
 Eso significa mucho para esas personas. 
 No es un correo electrónico. 
 No es un documento mecanografiado. 
-No es un texto. 
-No es un envío masivo. 
+No es un texto. No es un envío masivo. 
 Es una carta escrita a mano. 
 Y lleva su tiempo escribir dos páginas. 
 Si me equivoco, debo empezar de nuevo. 
@@ -43,4 +43,4 @@ Tras 11 años en Hermes, varios empleados
 me han dicho que guardan las 10 cartas,
 esperemos que guarden la de este año. 
 Ahí me di cuenta de lo que significaba 
-para ellos y lo importante que era. 
+para ellos y lo importante que era.

@@ -1,10 +1,11 @@
-﻿Un problema de muchas empresas es que 
+﻿	Un problema de muchas empresas es que 
 asumen más trabajo del que pueden hacer.
 Eso repercute en los empleados, 
 que acaban estresados y quemados. 
 Y una pregunta que se hacen las empresas
 es precisamente cómo prevenir eso. 
-Un modo sería con la retroalimentación. 
+
+	Un modo sería con la retroalimentación. 
 Ahora bien, muchas empresas la emplean 
 pero para evaluar el trabajo de la gente
 y el nivel de esfuerzo, es decir, 
@@ -13,11 +14,11 @@ Y, sinceramente, al trabajar pensamos:
 "¿Ese trabaja tanto como yo? 
 ¿Todo el mundo trabaja tanto como yo? 
 ¿O alguien está perdiendo el tiempo?". 
-Sin embargo, conocí una empresa donde 
+
+	Sin embargo, conocí una empresa donde 
 había una visión distinta de todo esto, 
 y usaban otro tipo de retroalimentación.
-Una vez al mes, se pedía a los
-empleados 
+Una vez al mes, se pedía a los empleados 
 que rellenaran un formulario 
 con preguntas del tipo:  "¿Cuánto tiempo
 emplea su compañero 
@@ -29,11 +30,11 @@ Hay otras 13 sobre desempeño, aspecto,
 interacción con los clientes, etc., 
 pero reservan una pregunta para saber 
 cuánto dedica un empleado a regenerarse.
-Y los empleados rellenan tanto los
-suyos 
+Y los empleados rellenan tanto los suyos 
 como los de sus colegas, lo que supone 
 una retroalimentación de 360 grados. 
-Cuando empezaron tenían un problema, 
+
+	Cuando empezaron tenían un problema, 
 ya que exigían demasiado a los empleados
 y estos acababan quemándose. 
 Esta es una empresa consultora. 
@@ -49,14 +50,14 @@ en términos de volumen de trabajo, etc.
 Pero esta empresa se dio cuenta de que 
 la gente se iba a casa a ciertas horas 
 para tener tiempo de relajarse, etc. 
-Es el mismo tipo de calidad, 
+
+	Es el mismo tipo de calidad, 
 pero vista desde el otro lado. 
 Lo importante no es saber  cuánto está
 trabajando su colega, 
-sino si su colega  descansa lo
-suficiente 
+sino si su colega  descansa lo suficiente 
 para que, al día siguiente, 
 tenga energía para dar una clase, 
 interactuar con un cliente, etc. 
 Y me resulta bastante llamativa 
-esa manera de dar retroalimentación. 
+esa manera de dar retroalimentación.

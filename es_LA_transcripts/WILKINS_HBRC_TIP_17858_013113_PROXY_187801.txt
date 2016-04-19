@@ -1,9 +1,9 @@
-﻿INTERVINIENTE 1:  Bien, espere a que... 
-De acuerdo. 
-Puede empezar cuando esté listo. 
-INTERVINIENTE 2:  Presencia. 
-La conocen cuando la ven 
-y saben cuando no la hay. 
+﻿	INTERVINIENTE 1:  Bien, espere a que... 
+De acuerdo. Puede empezar cuando esté listo. 
+
+	INTERVINIENTE 2:  Presencia. 
+La conocen cuando la ven y saben cuando no la hay. 
+
 Parece algo innato en los directores 
 o los líderes con mucho carisma. 
 Pero al desarrollar presencia ejecutiva,
@@ -13,14 +13,16 @@ o momentos de concentración.
 Pero la gente con presencia ejecutiva 
 la tiene casi siempre, incluso cuando 
 muchos estaríamos nerviosos o confusos. 
-Por mi experiencia, es útil 
+
+	Por mi experiencia, es útil 
 dividir la presencia en tres partes: 
 los supuestos, las estrategias 
 de comunicación y la energía. 
 Para crear presencia ejecutiva, 
 hay que trabajar en todas ellas 
 de esta forma: 
-primero, debe hacer supuestos acertados.
+
+	Primero, debe hacer supuestos acertados.
 Antes de la reunión, piense 
 en quiénes irán y en lo que esperan. 
 El planteamiento que establezca 
@@ -29,11 +31,14 @@ Los supuestos determinan su éxito
 o fracaso antes incluso de empezar. 
 Los líderes con presencia son honestos 
 para no verse atacados por supuestos. 
-INTERVINIENTE 1:  De acuerdo. 
+
+	INTERVINIENTE 1:  De acuerdo. 
 Vamos a empezar de nuevo desde 
 "primero". Cuando quiera. 
-INTERVINIENTE 2:  De acuerdo. 
-Primero, debe hacer supuestos acertados.
+
+	INTERVINIENTE 2:  De acuerdo. 
+
+	Primero, debe hacer supuestos acertados.
 Antes de la reunión, piense 
 en quiénes irán y en lo que esperan. 
 El planteamiento que establezca 
@@ -42,7 +47,8 @@ Los supuestos determinan su éxito
 o fracaso antes incluso de empezar. 
 Los líderes con presencia son honestos 
 para no verse atacados por supuestos. 
-Segundo, debe revisar cómo se comunica: 
+
+	Segundo, debe revisar cómo se comunica: 
 las técnicas y medios que utiliza 
 para involucrar, influenciar e inspirar.
 Básicamente, cómo hace que le
@@ -52,7 +58,8 @@ quien hace preguntas
 o quien da instrucciones o sugerencias. 
 Analice sus estrategias de comunicación 
 y las situaciones en las que las usa. 
-Tercero, debe controlar su energía, 
+
+	Tercero, debe controlar su energía, 
 ya que marca el tono de la interacción. 
 No es tan fácil como recordar 
 estar de pie o dejar de fruncir el ceño.
@@ -60,10 +67,12 @@ Debe adaptar su energía a la situación.
 Por ejemplo, si sonríe demasiado 
 a una empleada que presenta una idea 
 dudará si la toma en serio. 
-Para aprender qué tipo de gestos 
+
+	Para aprender qué tipo de gestos 
 no verbales hace, grábese en video 
 o solicite orientación a un mentor. 
-Ahora que conoce los elementos 
+
+	Ahora que conoce los elementos 
 de la presencia, piense en un momento 
 en el que perdió la calma en una reunión
 o hizo una presentación horrible. 
@@ -74,49 +83,62 @@ Ahora piense en uno
 de sus mejores momentos. 
 ¿Qué diferencia presentan sus supuestos,
 estrategias y nivel de energía?  
-Cuando analice estas situaciones,  
+
+	Cuando analice estas situaciones,  
 quizá pueda identificar un patrón 
 o pequeños problemas que puede arreglar 
-o técnicas efectivas que puede usar. 
-¡Ay! 
-INTERVINIENTE 1:  Podemos acortarlo. 
+o técnicas efectivas que puede usar. ¡Ay! 
+
+	INTERVINIENTE 1:  Podemos acortarlo. 
 Así que después de [INAUDIBLE]. 
-INTERVINIENTE 2:  Cuando analice estas
-situaciones, 
+
+	INTERVINIENTE 2:  Cuando analice estas situaciones, 
 quizá pueda identificar un patrón 
 o pequeños problemas que puede arreglar 
 o técnicas efectivas que puede usar. 
-INTERVINIENTE 1:  ¿Lo intenta de nuevo? 
-INTERVINIENTE 2:  Sí. 
-INTERVINIENTE 1:  Haga pausas. 
-INTERVINIENTE 2:  Ese guion me molesta. 
-INTERVINIENTE 1:  ¿Quiere quitarlo? 
-INTERVINIENTE 2:  No está bien así. 
-Está bien. 
-Ya está. 
-INTERVINIENTE 1:  Tras... [INAUDIBLE]. 
-INTERVINIENTE 2:  Cuando analice estas
-situaciones, 
+
+	INTERVINIENTE 1:  ¿Lo intenta de nuevo? 
+
+	INTERVINIENTE 2:  Sí. 
+
+	INTERVINIENTE 1:  Haga pausas. 
+
+	INTERVINIENTE 2:  Ese guion me molesta. 
+
+	INTERVINIENTE 1:  ¿Quiere quitarlo? 
+
+	INTERVINIENTE 2:  No está bien así. Está bien. Ya está. 
+
+	INTERVINIENTE 1:  Tras... [INAUDIBLE]. 
+
+	INTERVINIENTE 2:  Cuando analice estas situaciones, 
 quizá pueda identificar un patrón 
 o pequeños problemas que puede arreglar 
 o técnicas efectivas que puede usar. 
-INTERVINIENTE 1:  Déjeme que ponga un...
-INTERVINIENTE 2:  Bien. 
-Es un espacio. 
-INTERVINIENTE 1:  Empiece en "tras". 
-INTERVINIENTE 2:  Cuando analice estas
-situaciones, 
+
+	INTERVINIENTE 1:  Déjeme que ponga un...
+
+	INTERVINIENTE 2:  Bien. Es un espacio. 
+
+	INTERVINIENTE 1:  Empiece en "tras". 
+
+	INTERVINIENTE 2:  Cuando analice estas situaciones, 
 quizá pueda identificar un patrón 
 o pequeños problemas que puede arreglar 
 o técnicas efectivas que puede usar. 
 Desarrollar presencia ejecutiva 
 no tiene por qué ser difícil. 
+
 Divídala en partes y céntrese en ellas: 
 supuestos, estrategias y energía. 
-INTERVINIENTE 1:  De acuerdo. 
-INTERVINIENTE 3:  Bien. 
-INTERVINIENTE 1:  Empiece cuando quiera.
-INTERVINIENTE 2:  Presencia. 
+
+	INTERVINIENTE 1:  De acuerdo. 
+
+	INTERVINIENTE 3:  Bien. 
+
+	INTERVINIENTE 1:  Empiece cuando quiera.
+
+	INTERVINIENTE 2:  Presencia. 
 La conocen cuando la ven 
 y saben cuando no la hay. 
 Parece algo innato en los directores 
@@ -125,7 +147,8 @@ Pero al desarrollar presencia ejecutiva,
 es difícil saber por dónde empezar. 
 Todos tenemos momentos de presencia 
 o momentos de concentración. 
-Pero la gente con presencia ejecutiva 
+
+	Pero la gente con presencia ejecutiva 
 la tiene casi siempre, incluso cuando 
 muchos estaríamos nerviosos o confusos. 
 Por mi experiencia, es útil 
@@ -135,7 +158,8 @@ de comunicación y la energía.
 Para crear presencia ejecutiva, 
 hay que trabajar en todas ellas 
 y estos son los pasos que debe seguir. 
-Primero, debe hacer supuestos acertados.
+
+	Primero, debe hacer supuestos acertados.
 Antes de la reunión, piense 
 en quiénes irán y en lo que esperan. 
 El planteamiento que establezca 
@@ -144,17 +168,18 @@ Los supuestos determinan su éxito
 o fracaso antes incluso de empezar. 
 Los líderes con presencia son honestos 
 para no verse atacados por supuestos. 
-Segundo, debe revisar cómo se comunica: 
+
+	Segundo, debe revisar cómo se comunica: 
 las técnicas y medios que utiliza 
 para involucrar, influenciar e inspirar.
-Básicamente, cómo hace que le
-entiendan. 
+Básicamente, cómo hace que le entiendan. 
 Hay quien recurre al humor, 
 quien hace preguntas 
 o quien da instrucciones o sugerencias. 
 Analice sus estrategias de comunicación 
 y las situaciones en las que las usa. 
-Tercero, debe controlar su energía, 
+
+	Tercero, debe controlar su energía, 
 ya que marca el tono de la interacción. 
 No es tan fácil como recordar 
 estar de pie o dejar de fruncir el ceño.
@@ -176,7 +201,8 @@ Ahora piense en uno
 de sus mejores momentos. 
 ¿Qué diferencia presentan sus supuestos,
 estrategias y nivel de energía? 
-Cuando analice estas situaciones, 
+
+	Cuando analice estas situaciones, 
 quizá pueda identificar un patrón 
 o pequeños problemas que puede arreglar 
 o técnicas efectivas que puede usar. 
@@ -184,14 +210,15 @@ Desarrollar presencia ejecutiva
 no tiene por qué ser difícil. 
 Divídala en partes y céntrese en ellas: 
 suposiciones, estrategias y energía. 
-INTERVINIENTE 1:  Bien. 
-INTERVINIENTE 2:  Gracias por todo. 
-INTERVINIENTE 1:  Bien, Alison. 
-De acuerdo. 
-Esperamos a que tome asiento. 
-Cuando quiera. 
-INTERVINIENTE 2:  Tercero, debe controlar
-su energía, 
+
+	INTERVINIENTE 1:  Bien. 
+
+	INTERVINIENTE 2:  Gracias por todo. 
+
+	INTERVINIENTE 1:  Bien, Alison. De acuerdo. 
+Esperamos a que tome asiento. Cuando quiera. 
+
+	INTERVINIENTE 2:  Tercero, debe controlar su energía, 
 ya que marca el tono de la interacción. 
 No es tan fácil como recordar 
 estar de pie o dejar de fruncir el ceño.
@@ -199,28 +226,32 @@ Debe adaptar su energía a la situación.
 Por ejemplo, si sonríe demasiado 
 a una empleada que presenta una idea 
 dudará si la toma en serio. 
-Para aprender qué tipo de gestos 
+
+	Para aprender qué tipo de gestos 
 no verbales hace, grábese en video 
 o solicite orientación a un mentor. 
 Ahora que conoce los elementos 
 de la presencia, piense en un momento 
 en el que perdió la calma en una reunión
 o hizo una presentación horrible. 
-¿Qué supuestos hizo? ¿Por qué falló 
+
+	¿Qué supuestos hizo? ¿Por qué falló 
 su estrategia de comunicación? 
 ¿Qué energía proyectaba? 
-Ahora piense en uno 
-de sus mejores momentos. 
+Ahora piense en uno de sus mejores momentos. 
 ¿Qué diferencia presentan sus supuestos,
 estrategias y nivel de energía? 
-Cuando analice estas situaciones, 
+
+	Cuando analice estas situaciones, 
 quizá pueda identificar un patrón 
 o pequeños problemas que puede arreglar 
 o técnicas efectivas que puede usar. 
 Desarrollar presencia ejecutiva 
 no tiene por qué ser difícil. 
-Divídala en partes y céntrese en ellas: 
+
+	Divídala en partes y céntrese en ellas: 
 suposiciones, estrategias y energía. 
-INTERVINIENTE 1:  De acuerdo. 
-INTERVINIENTE 3:  Genial, esa ha sido
-perfecta. 
+
+	INTERVINIENTE 1:  De acuerdo. 
+
+	INTERVINIENTE 3:  Genial, esa ha sido perfecta.

@@ -1,10 +1,10 @@
-﻿Una organización con gran incertidumbre 
+﻿	Una organización con gran incertidumbre 
 se enfrenta al desafío de elaborar 
 presupuestos en este contexto incierto. 
 La solución no es dejar de hacerlo, sino
- cambiar el contexto de la
-incertidumbre. 
-Esta es la historia del Leader Bank, 
+cambiar el contexto de la incertidumbre. 
+
+	Esta es la historia del Leader Bank, 
 un banco de una pequeña comunidad 
 de la zona metropolitana de Boston. 
 Gran parte de sus ingresos netos 
@@ -12,21 +12,21 @@ proceden de la refinanciación.
 Si cayeran las tasas de interés 
 la refinanciación aumentaría. 
 Si las tasas de interés subieran 
-la refinanciación acabaría 
-desapareciendo. 
+la refinanciación acabaría desapareciendo. 
 Estas fluctuaciones en la refinanciación
- causaban fluctuaciones importantes 
+causaban fluctuaciones importantes 
 en sus ingresos, semana a semana 
-y mes a mes. 
-Por ello, se respondió a dicha 
+y mes a mes. Por ello, se respondió a dicha 
 incertidumbre de las siguientes formas. 
-Empezaron a calcular la rentabilidad 
+
+	Empezaron a calcular la rentabilidad 
 de la refinanciación o la creación 
 de hipotecas por separado del negocio 
 bancario tradicional y obtuvieron  
 las pérdidas y ganancias por separado. 
 Aislar la incertidumbre fue lo primero. 
-Acto seguido, pudieron controlar 
+
+	Acto seguido, pudieron controlar 
 el desempeño del negocio hipotecario 
 incluso a nivel semanal. 
 A nivel mensual controlaríamos 
@@ -35,7 +35,8 @@ y lo dividiríamos entre refinanciación
 y nuevas operaciones de compra. 
 La respuesta es observar más 
 y aislar la incertidumbre. 
-Después controlamos en qué medida 
+
+	Después controlamos en qué medida 
 la participación de mercado estaba 
 relacionada con la competencia. 
 Si las tasas de interés caían, afectaba 
@@ -49,24 +50,24 @@ de las tasas de interés sino también
 porque has superado a la competencia. 
 Tomar una referencia comparativa 
 es crucial con esa incertidumbre. 
-O puede cambiar la estructura de costos.
- Una de las cosas que el Leader Bank
-hace 
-es asegurarse de que sus originadores 
-tengan una buena comisión 
-como parte de su sueldo. 
+
+	O puede cambiar la estructura de costos.
+Una de las cosas que el Leader Bank
+hace  es asegurarse de que sus originadores 
+tengan una buena comisión como parte de su sueldo. 
 Así, cuando caen las tasas de interés 
 y todo va bien, originan más hipotecas 
 y ganan más dinero, a veces incluso más 
 que el Director General del banco. 
-Pero en otros casos, si las tasas suben 
+
+	Pero en otros casos, si las tasas suben 
 y la refinanciación cae, no se les deja 
 con un gran número de costos operativos.
- Por eso, cambiar la estructura de
-costos 
+Por eso, cambiar la estructura de costos 
 conforme a una mayor incertidumbre 
 es otra respuesta de los gerentes. 
-El último paso del Leader Bank fue dar 
+
+	El último paso del Leader Bank fue dar 
 más protección al canal de préstamos. 
 Si sube el interés, muchos originadores 
 de hipotecas podrían desistir, 
@@ -75,4 +76,3 @@ formalizando un contrato de cobertura.
 Ahora el costo de estas operaciones 
 se ha reducido bastante, de forma que 
 los pequeños bancos pueden permitírselo.
- 

@@ -1,7 +1,6 @@
-﻿Siempre creímos conocer las ventajas de 
+﻿	Siempre creímos conocer las ventajas de 
 las personas frente a las computadoras. 
-Por ejemplo, las computadoras son
-mejores 
+Por ejemplo, las computadoras son mejores 
 haciendo cálculos que las personas. 
 Nadie le va a contratar para hacer sumas
 y restas en la era de las computadoras.
@@ -14,7 +13,8 @@ un auto que estuvo manejando solo,
 por carreteras americanas con tráfico, 
 durante 100.000 millas sin accidentes. 
 Ya no somos los mejores conductores. 
-IBM también creó una computadora 
+
+	IBM también creó una computadora 
 que se convirtió en la mejor jugadora 
 de Jeopardy y fue capaz de ganar 
 a dos campeones humanos invictos. 
@@ -27,7 +27,8 @@ Y me inquieta porque plantea la pregunta
 de qué habilidades seguimos teniendo. 
 ¿Para qué las necesitamos? 
 ¿Para qué le han contratado? 
-Es una pregunta bastante fundamental. 
+
+	Es una pregunta bastante fundamental. 
 Lo que aprendimos hasta ahora es que, 
 pese a sus increíbles habilidades, 
 las computadoras escriben fatal. 
@@ -43,7 +44,8 @@ Más allá de esto, a la hora de crear
 argumentos, elaborar frases, 
 párrafos, páginas o secciones, 
 las computadoras son pésimas. 
-Es una destreza específica humana, 
+
+	Es una destreza específica humana, 
 que seguirá siendo valiosa sin importar 
 cómo serán las computadoras futuras. 
 Así que si hay una destreza que animo 
@@ -52,4 +54,4 @@ por medio de la escritura.
 Desarrolle su destreza de escribir 
 de forma clara y persuasiva. 
 Si lo hace, será un empleado valioso, 
-mañana y durante mucho tiempo. 
+mañana y durante mucho tiempo.

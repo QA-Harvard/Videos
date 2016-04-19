@@ -1,4 +1,4 @@
-﻿Cuando era director general, creía 
+﻿	Cuando era director general, creía 
 que todo era cuestión de liderazgo. 
 Y, cuando digo liderazgo, me refiero 
 a dar directrices y que otros las sigan.
@@ -8,13 +8,15 @@ Descubrí que al aportar ideas nuevas,
 a menudo se deterioraban con el tiempo 
 y no obtenía la recompensa 
 de todo el esfuerzo llevado a cabo. 
-Así que me di cuenta de que debía pasar 
+
+	Así que me di cuenta de que debía pasar 
 gran parte de mi tiempo gestionando. 
 ¿Y en qué consiste la gestión? 
 En pensar cómo seguir manteniendo todo 
 de manera que cuando añada una mejora 
 obtenga una recompensa. 
-Les daré un ejemplo. 
+
+	Les daré un ejemplo. 
 Antes perdía tiempo cambiando procesos, 
 como la manera de construir maquinaria, 
 de venderla y de pagar las facturas. 
@@ -27,7 +29,8 @@ en un 1%, pero empezó a estancarse.
 Intenté averiguar qué estaba pasando. 
 Vi que mis iniciativas para mejorar 
 iban igual de rápido que al principio. 
-Pero tan rápido como mejoraba, 
+
+	Pero tan rápido como mejoraba, 
 las cosas se iban desvaneciendo 
 o deteriorando y, con frecuencia, 
 mis gerentes se pasaban el día haciendo 
@@ -36,6 +39,5 @@ Ahora tengo un sistema de gestión
 que se enfoca en resolver 
 todo aquello que se ha ido deteriorando 
 y, así, nos beneficiamos de las mejoras.
-Decimos que hay que mantener las
-mejoras 
-para ver la recompensa de la inversión. 
+Decimos que hay que mantener las mejoras 
+para ver la recompensa de la inversión.

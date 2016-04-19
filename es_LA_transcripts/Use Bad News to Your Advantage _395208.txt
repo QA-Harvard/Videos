@@ -1,4 +1,4 @@
-﻿Esta es la historia de un fabricante 
+﻿	Esta es la historia de un fabricante 
 de medicamentos genéricos 
 que estaba pronosticando sus ventas. 
 Un gerente de ventas pronosticó 
@@ -10,7 +10,7 @@ Lo que el gerente no les dijo fue
 que la FDA había cerrado la fábrica 
 de uno de sus competidores 
 porque no habían superado una auditoría.
- Si hubieran sabido 
+Si hubieran sabido 
 algo tan importante, habrían previsto 
 un crecimiento de las ventas 
 no del 25% sino del 100%. 
@@ -18,9 +18,9 @@ Tenían en su mano duplicar las ventas
 ya que un competidor clave 
 estaba fuera de juego porque 
 la FDA les había cerrado la fábrica. 
-No solo perdieron la oportunidad ese año
- sino que tuvieron otra oportunidad
-mayor 
+
+	No solo perdieron la oportunidad ese año
+sino que tuvieron otra oportunidad mayor 
 que también dejaron escapar. 
 Podrían haber consolidado la relación 
 con un cliente clave cuando 
@@ -28,17 +28,19 @@ uno de sus principales competidores
 dejó de prestarle servicio. 
 Perder la oportunidad de hacer negocios 
 a largo plazo con este gran distribuidor
- fue la mayor pérdida como resultado 
+fue la mayor pérdida como resultado 
 del mal proceder del gerente, 
 quien no compartió la información sobre 
 el cierre de la fábrica competidora 
 durante todo un año. 
-Por otra parte, hay casos en los que 
+
+	Por otra parte, hay casos en los que 
 los gerentes conocen datos negativos 
 y no los comparten con la alta dirección
- a lo largo del proceso de elaboración 
+a lo largo del proceso de elaboración 
 del presupuesto. 
-Por ejemplo, un gerente analiza 
+
+	Por ejemplo, un gerente analiza 
 la situación y ve que otras divisiones 
 prevén un crecimiento del 10% al 15%. 
 El gerente sabe que están perdiendo 
@@ -49,11 +51,11 @@ para dicha cuenta.
 Pero por no quedar mal 
 con sus colegas dice: 
 "Es posible que también podamos aumentar
- las ventas entre un 10% y un 15%". 
-La empresa calcula el presupuesto 
+las ventas entre un 10% y un 15%". 
+
+	La empresa calcula el presupuesto 
 según estos datos, pero a los seis meses
- ven que las ventas no van a crecer un
-10% 
+ven que las ventas no van a crecer un 10% 
 o 15%, sino que más bien bajan. 
 La empresa podría haber reaccionado 
 de otra forma muy diferente 
@@ -64,14 +66,16 @@ fuentes de ingresos en otras divisiones
 o en otras ubicaciones. 
 Perdieron la oportunidad al no conocer 
 las malas noticias con antelación. 
-En ambos ejemplos aprendemos 
+
+	En ambos ejemplos aprendemos 
 lo que puede ocasionar un error humano. 
 Lo que aprendemos en realidad 
 es lo mismo en ambos casos. 
 En la elaboración presupuestaria 
 debe ser franco y no selectivo, 
 hay que contar lo bueno y lo malo. 
-Con ello no solo se menoscaba 
+
+	Con ello no solo se menoscaba 
 el desempeño de la empresa, 
 sino también la reputación del gerente, 
 que tarda incluso más en recuperarse 
@@ -79,4 +83,4 @@ que la de la propia empresa.
 Por ello, como gerentes jóvenes, 
 deben ser francos a la hora de elaborar 
 presupuestos por el bien de la empresa 
-y de sus propias carreras. 
+y de sus propias carreras.

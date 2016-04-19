@@ -1,57 +1,19 @@
-﻿Imaginen que pilotan un avión, 
-saben cuál es el destino, 
-tienen el depósito lleno 
-y un plan de vuelo. 
-Todo ello es importante. 
-Pero, para hacerlo volar desde A a B 
-de forma segura y puntual, 
-debe usar los indicadores de la cabina. 
-Leer lo que indican estos indicadores 
-no solo le ayuda a controlar su viaje, 
-sino que le permite hacer los ajustes 
-que necesita durante el vuelo. 
-Como gerente, se verá en esa situación. 
-Puede conocer su meta final, pero 
-si no tiene forma de controlar su viaje,
-¿cómo sabrá si ha llegado a su destino 
-o cuánto se ha desviado de la ruta? 
-Como los pilotos, los gerentes dependen 
-de un panel de indicadores 
-y objetivos de desempeño relacionados. 
-Para orientarse, defina qué es el éxito.
-Quizá sea cumplir el trabajo a tiempo 
-o no tener ningún error, 
-atraer a un 50% más de clientes 
-o llegar al millón de dólares en ventas 
-al final del trimestre. 
-A menudo, es una combinación de varios. 
-Los gerentes deben controlar su progreso
-o pondrán en peligro la misión. 
-Cuando su equipo sepa cómo afectan 
-sus metas de desempeño a la estrategia, 
-estarán más motivados para alcanzarlas. 
-Puede inspirar a su equipo a que supere 
-las expectativas y gane bonificaciones 
-o el orgullo de hacer bien su trabajo. 
-La gestión del desempeño fomenta 
-el compromiso y demuestra el éxito, 
-no solo a nivel interno, 
-sino también de cara a clientes, 
-inversores o reguladores, entro otros. 
-Pero asegúrese de que los indicadores 
-que elige son los que le serán de ayuda.
-Un gerente con el que trabajé 
-tenía que ofrecer unos productos 
-y servicios muy complicados 
-y le pregunté cómo medía el desempeño. 
-Sacó una hoja con casi 100 indicadores 
-que seguían habitualmente. 
-Le pregunté por su utilidad para mejorar
-y me respondió que esperaba 
-que fueran útiles algún día. 
-El objetivo de los indicadores es que 
-sean útiles para quien los necesite. 
-No mida solo para demostrar que mide. 
-Como decía Nietzsche, si perdemos 
-de vista la pelota, perderemos de vista 
-también lo que queremos conseguir. 
+﻿	Imaginen que pilotan un avión, saben cuál es el destino, tienen el depósito lleno y un plan de vuelo. 
+
+	Todo ello es importante. Pero, para hacerlo volar desde A a B de forma segura y puntual, debe usar los indicadores de la cabina. Leer lo que indican estos indicadores no solo le ayuda a controlar su viaje, sino que le permite hacer los ajustes que necesita durante el vuelo. 
+
+	Como gerente, se verá en esa situación. Puede conocer su meta final, pero si no tiene forma de controlar su viaje, ¿cómo sabrá si ha llegado a su destino o cuánto se ha desviado de la ruta? Como los pilotos, los gerentes dependen de un panel de indicadores y objetivos de desempeño relacionados. 
+
+	Para orientarse, defina qué es el éxito.Quizá sea cumplir el trabajo a tiempo o no tener ningún error, atraer a un 50% más de clientes o llegar al millón de dólares en ventas al final del trimestre. 
+
+	A menudo, es una combinación de varios. Los gerentes deben controlar su progresoo pondrán en peligro la misión. 
+
+	Cuando su equipo sepa cómo afectan sus metas de desempeño a la estrategia, estarán más motivados para alcanzarlas. Puede inspirar a su equipo a que supere las expectativas y gane bonificaciones o el orgullo de hacer bien su trabajo. 
+
+	La gestión del desempeño fomenta el compromiso y demuestra el éxito, no solo a nivel interno, sino también de cara a clientes, inversores o reguladores, entro otros. 
+
+	Pero asegúrese de que los indicadores que elige son los que le serán de ayuda.Un gerente con el que trabajé tenía que ofrecer unos productos y servicios muy complicados y le pregunté cómo medía el desempeño. 
+
+	Sacó una hoja con casi 100 indicadores que seguían habitualmente. Le pregunté por su utilidad para mejorary me respondió que esperaba que fueran útiles algún día. 
+
+	El objetivo de los indicadores es que sean útiles para quien los necesite. No mida solo para demostrar que mide. Como decía Nietzsche, si perdemos de vista la pelota, perderemos de vista también lo que queremos conseguir. 

@@ -1,4 +1,4 @@
-﻿Saber gestionar equipos de proyecto 
+﻿	Saber gestionar equipos de proyecto 
 es una de las tareas más difíciles.  He
 gestionado muchos equipos de proyecto 
 en State Street Corporation en 30 años. 
@@ -7,15 +7,15 @@ en una mesa de negociaciones, no tienen
 las mismas metas, motivaciones, etc. 
 Pero, cuando no hay cabida al fracaso, 
 hay que dar ciertos pasos para que todos
-ayuden al equipo a lograr sus
-objetivos. 
+ayuden al equipo a lograr sus objetivos. 
 Hace años, mi equipo tuvo que convertir 
 los sistemas internos de una empresa 
 adquirida a los de State Street. 
 Trabajaba de cerca con el gerente de 
 la otra empresa, que no estaba contento,
 de modo que debía ganarme su confianza.
- Si un miembro de su equipo se opone 
+
+	Si un miembro de su equipo se opone 
 al objetivo del proyecto, 
 admita la dificultad de esa postura. 
 Empatice con él y exprésele que usted 
@@ -25,7 +25,8 @@ Este enfoque le hará más vulnerable
 como líder de equipo, pero construirá 
 la confianza necesaria para crear 
 un grupo de trabajo más cohesionado. 
-Asegúrese de escuchar las opiniones 
+
+	Asegúrese de escuchar las opiniones 
 de todo el equipo durante las reuniones.
 Escuche sus aportaciones y repítalas 
 para que sepan que las ha escuchado. 
@@ -34,17 +35,18 @@ aportaciones se adoptaron y cuáles no.
 Conlleva cierto tiempo, pero si todos 
 sienten que contribuyen en el proyecto, 
 contará con un grupo más comprometido. 
-Lo más difícil de trabajar en equipo 
+
+	Lo más difícil de trabajar en equipo 
 es dejar a un lado el ego en el proceso.
-Todos quieren defender su terreno y
-esto 
+Todos quieren defender su terreno y esto 
 puede chocar con las metas del proyecto.
 Un gerente de equipo debe dar ejemplo. 
 Si antepone el proyecto por encima de 
 sus intereses personales o profesionales
 estará dando ejemplo a su equipo y, 
-sin duda, todos seguirán sus pasos. 
-No es fácil gestionar un equipo, pero 
+sin duda, todos seguirán sus pasos.
+ 
+	No es fácil gestionar un equipo, pero 
 si da confianza, escucha activamente, 
 explica sus decisiones y da ejemplo, 
-irá por el buen camino. 
+irá por el buen camino.

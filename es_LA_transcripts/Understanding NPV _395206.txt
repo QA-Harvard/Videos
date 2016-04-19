@@ -1,4 +1,4 @@
-﻿Como gerente, uso el análisis del valor 
+﻿	Como gerente, uso el análisis del valor 
 actual neto o análisis VAN para saber 
 si la inversión que estoy pensando hacer
  vale más que su coste. 
@@ -18,15 +18,15 @@ por separado el resultado es positivo,
 como gerente, debería hacer la inversión
  y, si el resultado es negativo, 
 no la debería hacer. 
-A veces, un gerente puede atascarse 
+
+	A veces, un gerente puede atascarse 
 en la mecánica de análisis del VAN 
 ya sea en la operación de descuento 
 o en el cálculo de la tasa de descuento.
- Pero en realidad, a un nivel muy
-básico, 
+Pero en realidad, a un nivel muy básico, 
 el análisis VAN es una herramienta 
 muy útil para que un gerente determine 
 si debe hacer una inversión o no. 
 ¿El valor de la inversión 
 es mayor que sus costos? 
-El VAN le ayuda a averiguarlo. 
+El VAN le ayuda a averiguarlo.

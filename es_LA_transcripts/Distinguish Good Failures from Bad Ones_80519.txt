@@ -1,44 +1,10 @@
-No todos los fracasos son malos. 
-Algunos fracasos permiten aprender 
-a las personas y a las empresas. 
-Llevo años analizando fracasos, desde 
-el accidente del transbordador Columbia 
-hasta errores médicos en hospitales. 
-Ahora enseño a líderes a clasificar 
-errores empresariales en 3 categorías. 
-Primero están los errores evitables.  
-Muchos se consideran negativos, 
-porque sabemos que el proceso funciona. 
-Lo que falla es la capacitación, el
-apoyo 
-o las destrezas de los empleados. 
-Lo bueno es que estos problemas pueden 
-identificarse y solucionarse fácilmente 
-con una lista de verificación. 
-En segundo lugar están los fracasos 
-inevitables en sistemas complejos.  Estos
-se producen por la incertidumbre 
-inherente a los trabajos complejos. 
-Suelen evitarse con buenas prácticas 
-sobre seguridad y riesgos laborales. 
-Los pequeños fracasos son inevitables, y
-considerarlos negativos es
-desfavorable. 
-Debe corregirlos rápidamente y evitar 
-que se conviertan en fracasos serios. 
-Muchos accidentes en hospitales pasan 
-por una sucesión de pequeños errores. 
-El tercer tipo son los fracasos 
-inteligentes en la vanguardia. 
-Le permiten adquirir conocimientos para 
-crecer y destacar entre la competencia. 
-Descubrir medicamentos o diseñar 
-productos son tareas en las que se deben
-producir fracasos positivos
-rápidamente. 
-Los fracasos no inteligentes aparecen al
-experimentar más allá de lo necesario. 
-Hay fracasos positivos y negativos. 
-Es importante que usted y su empresa 
-entiendan cuál es cuál, para prevenir 
-los negativos y producir los positivos. 
+	No todos los fracasos son malos. Algunos fracasos permiten aprender a las personas y a las empresas. Llevo años analizando fracasos, desde el accidente del transbordador Columbia hasta errores médicos en hospitales. Ahora enseño a líderes a clasificar errores empresariales en 3 categorías. 
+
+	Primero están los errores evitables.  Muchos se consideran negativos, porque sabemos que el proceso funciona. Lo que falla es la capacitación, elapoyo o las destrezas de los empleados. Lo bueno es que estos problemas pueden identificarse y solucionarse fácilmente con una lista de verificación. 
+
+	En segundo lugar están los fracasos inevitables en sistemas complejos.  Estosse producen por la incertidumbre inherente a los trabajos complejos. Suelen evitarse con buenas prácticas sobre seguridad y riesgos laborales. Los pequeños fracasos son inevitables, yconsiderarlos negativos esdesfavorable. Debe corregirlos rápidamente y evitar que se conviertan en fracasos serios. Muchos accidentes en hospitales pasan por una sucesión de pequeños errores. 
+
+	El tercer tipo son los fracasos inteligentes en la vanguardia. Le permiten adquirir conocimientos para crecer y destacar entre la competencia. Descubrir medicamentos o diseñar productos son tareas en las que se deben
+producir fracasos positivosrápidamente. Los fracasos no inteligentes aparecen alexperimentar más allá de lo necesario. 
+
+	Hay fracasos positivos y negativos. Es importante que usted y su empresa entiendan cuál es cuál, para prevenir los negativos y producir los positivos. 

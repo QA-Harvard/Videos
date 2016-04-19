@@ -1,19 +1,18 @@
-﻿Un día me llamó un cliente 
-que quería que lo ayudara 
-con un proyecto. 
+﻿	Un día me llamó un cliente 
+que quería que lo ayudara con un proyecto. 
 Quería unir 16 sitios web en uno. 
 Llevaban trabajando en ello año y medio 
 y no habían avanzado mucho, 
 por lo que me pidieron que liderara 
 el equipo para diseñar, crear 
 y poner en marcha el sitio web. 
-Trabajaba con 50 desarrolladores, 
+
+	Trabajaba con 50 desarrolladores, 
 editores, gente de marketing 
 y operaciones y, al poco de empezar, 
 vi que había que reorganizar el equipo. 
 Solo contaba con el 10% del tiempo 
-de los desarrolladores, 
-el 30% de los editores 
+de los desarrolladores, el 30% de los editores 
 y el 20% de la gente de marketing. 
 Reorganicé el equipo para tener 
 una "estructura de peso" y contar 
@@ -21,23 +20,23 @@ al menos con el 50% de cada miembro.
 Al tener un equipo dedicado 
 y mucho más tiempo de cada miembro, 
 pudimos avanzar más rápido. 
-También aplicamos prácticas habituales. 
+
+	También aplicamos prácticas habituales. 
 Hacíamos reuniones de equipo semanales. 
 Creé un diagrama de Gantt, 
 que es un resumen de una página 
 con los principales objetivos 
-y el tiempo asociado a cada uno 
-para completarlos. 
+y el tiempo asociado a cada uno para completarlos. 
 Creé un plan de trabajo 
 donde figuraban todas las subtareas 
 relacionadas con cada entrega 
 y un informe de tareas abierto 
-donde hacíamos 
-el seguimiento de cada tarea y 
+donde hacíamos el seguimiento de cada tarea y 
 del avance del responsable al respecto. 
 Así, si alguien no cumplía el calendario
 lo sabíamos y podíamos solucionarlo. 
-Todo el equipo respiró con alivio 
+
+	Todo el equipo respiró con alivio 
 cuando todas estas medidas 
 se pusieron en marcha. 
 Ahora hay un objetivo común 
@@ -45,9 +44,9 @@ y unas expectativas comunes.
 Los miembros del equipo sentían 
 que dependíamos unos de otros, 
 por lo que el nivel de compromiso 
-de cara al proyecto 
-era mucho mayor. 
-Al trabajar juntos pusimos en marcha 
+de cara al proyecto era mucho mayor. 
+
+	Al trabajar juntos pusimos en marcha 
 el sitio web en 6 meses y la empresa 
 se vendió por más de $1.000 millones. 
 Fue gratificante ver el éxito conseguido
@@ -55,4 +54,4 @@ con la venta de la empresa pero también
 ver cómo todas las herramientas 
 que se usan normalmente 
 sirvieron de catalizador del grupo para 
-trabajar juntos de forma más efectiva. 
+trabajar juntos de forma más efectiva.

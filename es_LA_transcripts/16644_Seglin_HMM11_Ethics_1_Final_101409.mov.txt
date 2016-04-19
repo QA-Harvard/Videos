@@ -1,4 +1,4 @@
-Esta es la historia de una profesora 
+	Esta es la historia de una profesora 
 de Harvard Business School 
 que intenta enseñar ética empresarial. 
 En una de sus clases comenta el caso 
@@ -14,32 +14,37 @@ Siempre que cuenta este caso,
 los estudiantes se alborotan 
 porque no lo ven como un caso de ética. 
 Dice: "¿Por qué no es un caso de ética?"
-y responden: "Esto aumentó bastante 
+
+	Y responden: "Esto aumentó bastante 
 la reputación de Johnson & Johnson. 
 A la gente le gustó que retiraran 
 todos los botes del mercado. 
 En consecuencia, se gastaron 
 cientos de millones de dólares". 
-En ese momento se dio cuenta 
+
+	En ese momento se dio cuenta 
 de que la percepción de la mayoría 
 es que, para que algo sea ético, 
 debe causar dolor. 
 Nada más lejos de la realidad. 
-Cuando se habla de ética,  
+
+	Cuando se habla de ética,  
 todos nos sentimos cómodos 
 y podemos acordar cómo debemos actuar 
 ante una situación concreta. 
 El desafío es que muchas situaciones 
 no siempre están claras y definidas. 
 Son complejas. 
-Es fácil cuando hay respuestas absolutas
+
+	Es fácil cuando hay respuestas absolutas
 sobre lo correcto y lo incorrecto, 
 como: "¿Asesino a alguien o no?". 
 Por lo general, todos diremos que no. 
 Pero no son el tipo de decisiones 
 a las que nos enfrentamos diariamente 
 en el trabajo y en nuestras vidas. 
-Existen múltiples opciones correctas 
+
+	Existen múltiples opciones correctas 
 a la hora de tomar una decisión. 
 Tenemos que decidir entre todas ellas: 
 "¿Cuál es la mejor que puedo elegir?". 
@@ -52,6 +57,7 @@ las implicaciones de nuestra elección:
 "Si tomo esta decisión correcta, 
 ¿a quién afecta? 
 Si tomo la otra, ¿a quién afecta?" 
-Hay una diferencia entre valorar 
+
+	Hay una diferencia entre valorar 
 todas las opciones correctas y encontrar
-la mejor opción a la que puede llegar. 
+la mejor opción a la que puede llegar.

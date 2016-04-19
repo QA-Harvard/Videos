@@ -1,4 +1,4 @@
-﻿Cuando pienso en desarrollar a otros, 
+﻿	Cuando pienso en desarrollar a otros, 
 me viene un refrán a la mente: 
 diga lo que va a decirles, expóngalo 
 y luego dígales lo que les haya dicho. 
@@ -8,13 +8,13 @@ Deles retroalimentación para que
 conozcan bien esas oportunidades, 
 y ayúdeles a crear un plan 
 que les permita perseguirlas. 
-Basta con eso, 
-pero no siempre es fácil. 
-Debe asegurarse de que escuchan 
-lo que les dice. 
+
+	Basta con eso, pero no siempre es fácil. 
+Debe asegurarse de que escuchan lo que les dice. 
 Cuando no lo hacen, debe seguir 
 otras rutas para que el mensaje llegue. 
-Dígales lo que les va a decir, 
+
+	Dígales lo que les va a decir, 
 expóngalo, dígales lo que les haya dicho
 y no deje de darles retroalimentación. 
 Dígales: "Este proyecto ha ido así" 
@@ -23,24 +23,26 @@ con su equipo, esto ha ido bien
 y esto se puede hacer diferente". 
 Abra líneas de comunicación, porque 
 casi nadie llega al trabajo y dice: 
-"Hoy voy a hacer mal mi trabajo".  Quieren
-hacerlo bien, tener éxito, 
+"Hoy voy a hacer mal mi trabajo".
+Quieren hacerlo bien, tener éxito, 
 así que debe ayudarles a conseguirlo. 
-Tuve una jefa cuando me capacitaba 
+
+	Tuve una jefa cuando me capacitaba 
 como profesional de desarrollo 
 que vio que tenía potencial. 
 Conocía mis oportunidades de desarrollo 
 y pensó que podía exigirme más. 
 Así aprendí a desarrollar a los demás. 
-Me dio un encargo exigente y me dijo: 
+
+	Me dio un encargo exigente y me dijo: 
 "Esto será difícil para usted 
 porque no lo ha hecho antes. 
 Pero, hablemos de lo que aprenderá, 
-de cómo puedo ayudarle, 
-y de la frecuencia 
+de cómo puedo ayudarle, y de la frecuencia 
 con la que nos reuniremos para hablar 
-de la evolución del proyecto".  Determinar
-esas cuestiones 
+de la evolución del proyecto".
+
+	Determinar esas cuestiones 
 me ayudó muchísimo. 
 Logré hacer el proyecto 
 y muy bien, además. 
@@ -48,4 +50,4 @@ Ella estaba encantada.
 Yo estaba encantado. 
 El cliente estaba encantado. 
 Fue una de las mejores lecciones 
-que aprendí de ella. 
+que aprendí de ella.

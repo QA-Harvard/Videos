@@ -1,28 +1,5 @@
-Como gerentes de finanzas, siempre 
-deberemos estar atentos a las cifras 
-ya que ofrecen información 
-de muchos aspectos  
-que a veces no detectamos. 
-Observando las cifras se puede arreglar 
-un problema o una situación. 
-Estaba comprobando los documentos 
-que había rellenado un trabajador 
-sobre el trabajo diario que realiza, 
-y vi que había una gran cantidad 
-de horas que se perdían limpiando. 
-La gente limpiaba su zona de trabajo, 
-algunas tienen muebles, otras metal 
-y las cosas deben estar limpias. 
-Al ver las cifras, lo detectamos. 
-Pero al observar el lugar de trabajo, 
-nadie se había percatado. 
-Decidimos que, en vez de que la gente 
-tuviera que limpiar su puesto, 
-se contrataría a dos personas para ello.
-Así ahorramos mucho dinero  
-y fue una gran contribución  
-a la economía de la empresa, 
-ya que nadie se había dado cuenta 
-por estar ocupados con su trabajo 
-y no prestar atención a las cifras 
-de lo que ocurría. 
+	Como gerentes de finanzas, siempre deberemos estar atentos a las cifras ya que ofrecen información de muchos aspectos  que a veces no detectamos. Observando las cifras se puede arreglar un problema o una situación. Estaba comprobando los documentos que había rellenado un trabajador sobre el trabajo diario que realiza, y vi que había una gran cantidad de horas que se perdían limpiando. La gente limpiaba su zona de trabajo, algunas tienen muebles, otras metal y las cosas deben estar limpias. 
+
+	Al ver las cifras, lo detectamos. Pero al observar el lugar de trabajo, nadie se había percatado. Decidimos que, en vez de que la gente tuviera que limpiar su puesto, se contrataría a dos personas para ello.
+
+	Así ahorramos mucho dinero  y fue una gran contribución  a la economía de la empresa, ya que nadie se había dado cuenta por estar ocupados con su trabajo y no prestar atención a las cifras de lo que ocurría. 

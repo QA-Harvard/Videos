@@ -1,10 +1,11 @@
-﻿Los cambios progresivos en el alcance 
+﻿	Los cambios progresivos en el alcance 
 de proyectos se dan en cualquier sector.
 Las partes interesadas piden al equipo 
 que produzca más, sin considerar 
 cómo afectará eso al presupuesto 
-y al cronograma del proyecto. 
-Como gestor de proyectos profesional, 
+y al cronograma del proyecto.
+ 
+	Como gestor de proyectos profesional, 
 consultor y profesor con 30 años 
 de experiencia en varios sectores, 
 creo que los cambios progresivos 
@@ -14,11 +15,12 @@ se saldrá del presupuesto,
 no cumplirá con las fechas de entrega 
 y ofrecerá resultados de baja calidad, 
 como sistemas o productos defectuosos. 
-Para evitar esto, es necesario acordar 
+
+	Para evitar esto, es necesario acordar 
 el alcance antes de lanzar un proyecto. 
-He usado 2 técnicas 
-para llevar esto a cabo. 
-Si sus partes interesadas tienen claras 
+He usado 2 técnicas para llevar esto a cabo. 
+
+	Si sus partes interesadas tienen claras 
 las metas del proyecto, 
 lo primero es revisar con ellas 
 lo que esté dentro y fuera del alcance. 
@@ -27,7 +29,8 @@ que se necesita para lograr la meta.
 Fuera de él está todo lo que no tiene 
 relación directa con la meta, 
 o si no hay tiempo y dinero suficientes.
-Pongamos que está desarrollando 
+
+	Pongamos que está desarrollando 
 una campaña de marketing de un producto.
 Crear material de apoyo impreso 
 para usarlo cuando visite al cliente 
@@ -42,7 +45,8 @@ en cuanto a estos requisitos.
 Elaborar ambas listas lleva tiempo, 
 pero déjelas concluidas antes de empezar
 e inclúyalas en su carta de proyecto.  
-Si las partes interesadas no ven claras 
+
+	Si las partes interesadas no ven claras 
 sus metas, establezca parámetros 
 de tolerancia respecto del alcance 
 para sus requisitos generales. 
@@ -59,7 +63,8 @@ para revisar los parámetros.
 Luego, aprovechen todo lo aprendido 
 para definir metas más específicas 
 ciñéndose a esos parámetros. 
-Esto permite que todos se familiaricen 
+
+	Esto permite que todos se familiaricen 
 con las oportunidades y los desafíos 
 del proyecto antes de fijar las metas. 
 Estos sistemas de creación de listas y 
@@ -67,4 +72,4 @@ establecimiento de parámetros conllevan
 tiempo y esfuerzo de antemano, pero 
 hacen que aumenten las probabilidades 
 de éxito de su proyecto en cuanto a 
-costes, planificación y calidad. 
+costes, planificación y calidad.

@@ -1,20 +1,21 @@
-Los equipos no funcionan si los miembros
+	Los equipos no funcionan si los miembros
 que los forman no confían entre sí. 
 Generar confianza en un entorno 
 de trabajo físico tradicional es
-difícil, 
-pero, en un entorno virtual con gente 
+difícil, pero, en un entorno virtual con gente 
 que no se conoce, es aún más complicado.
-Mi empresa ha ayudado a otras empresas 
+
+	Mi empresa ha ayudado a otras empresas 
 a crear y mantener confianza 
 entre empleados en equipos virtuales. 
 Ahora explicaré lo que aprendimos. 
-Primero, aproveche la confianza rápida. 
+
+	Primero, aproveche la confianza rápida. 
 Cuando se forman grupos por primera vez,
 la sensación predominante es "estamos 
 en el mismo barco, y tanto el éxito como
 el fracaso influirá en la tripulación".
- En este ambiente de confianza rápida, 
+En este ambiente de confianza rápida, 
 a las personas no les queda otra que 
 confiar entre ellos, y un buen modo 
 de aprovechar esta confianza es 
@@ -22,7 +23,8 @@ aprovechar las destrezas del equipo
 y fijar objetivos claros 
 que todos entiendan desde el principio 
 esta importante fase del proceso. 
-Con el tiempo, esta confianza se irá 
+
+	Con el tiempo, esta confianza se irá 
 desvaneciendo pero mantendrá unido 
 al equipo hasta que llegue otro vínculo.
 ¿Cuál es ese otro vínculo? 
@@ -34,7 +36,8 @@ para crear esta confianza interpersonal
 que demuestra respeto y consideración. 
 Necesita que la gente cree conexiones 
 personales para que den lo mejor de sí. 
-Luego, comuníquese con previsibilidad. 
+
+	Luego, comuníquese con previsibilidad. 
 Los equipos distribuidos globalmente que
 carecen de confianza suelen comunicarse
 de un modo impredecible; solo una 
@@ -46,7 +49,8 @@ muy en serio avisar a los demás
 cuando no iban a estar disponibles. 
 Así, nadie se preguntaba por qué alguien
 no había respondido a un mensaje. 
-Otra cosa: comparta y rote el poder. 
+
+	Otra cosa: comparta y rote el poder. 
 Sé que puede sonar extraño. 
 En un lugar de trabajo tradicional, 
 una sola persona dirige al equipo. 
@@ -55,11 +59,12 @@ de poder centralizada es menos efectiva.
 En equipos virtuales con confianza, 
 el poder suele cambiar de manos 
 según la fase del proyecto. 
-Un equipo sin confianza no funciona 
+
+	Un equipo sin confianza no funciona 
 y generarla sin que haya interacciones 
 cara a cara es desafiante.  
 Si gestiona un equipo virtual, 
 no espere a que todo llegue por sí solo.
 Asegúrese de ser proactivo. 
 Emplee buenas prácticas y haga crecer 
-la confianza de su equipo virtual. 
+la confianza de su equipo virtual.

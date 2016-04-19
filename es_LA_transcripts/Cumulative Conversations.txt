@@ -1,4 +1,4 @@
-﻿Para la mayoría de organizaciones, 
+﻿	Para la mayoría de organizaciones, 
 la evaluación del desempeño 
 es eso horrible que pasa una vez al año.
 Una agonía que dura 
@@ -13,7 +13,8 @@ Normalmente, es un mero trámite
 para determinar el proceso de pago, 
 y no un ejercicio para ver el desarrollo
 y valor de la persona en la empresa. 
-De hecho, la evaluación del desempeño 
+
+	De hecho, la evaluación del desempeño 
 debería ser solo la culminación, 
 documentación y conversación final 
 tras un año de conversaciones breves 
@@ -25,7 +26,8 @@ debería limitarse solamente a:
 "Vamos a recordar 
 lo que hemos hablado este año" 
 Sin sorpresas. 
-No me gusta mucho que los empleados 
+
+	No me gusta mucho que los empleados 
 hagan su propia evaluación del desempeño
 y que luego se la den a su gerente 
 para que la revise. 
@@ -34,9 +36,9 @@ esa responsabilidad.
 Debe ser un proceso conjunto, 
 en el que dos personas 
 hablen entre sí a lo largo de un año. 
-Es posible que piense: 
-"Soy un gerente ocupado 
-No tengo tiempo. 
+
+	Es posible que piense: 
+"Soy un gerente ocupado. No tengo tiempo. 
 Tengo 15 o 20 empleados 
 No tengo tiempo para sentarme con ellos 
 una hora todos los meses". 
@@ -51,11 +53,12 @@ habría sido más efectiva
 si hubiera utilizado menos diapositivas.
 La próxima vez, me encantaría repasar 
 las diapositivas con usted". 
-Estas son conversaciones 
+
+	Estas son conversaciones 
 de orientación sobre el rendimiento. 
 Si quedan documentadas, conformarán 
 la propia evaluación del desempeño. 
 Así es más fácil pensar 
 en el desarrollo para el próximo año 
 y organizar la evaluación del desempeño 
-para que sea útil y no algo doloroso. 
+para que sea útil y no algo doloroso.

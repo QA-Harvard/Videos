@@ -1,4 +1,4 @@
-﻿Se dice que debemos fracasar rápido, 
+﻿	Se dice que debemos fracasar rápido, 
 barato y seguir adelante. 
 Pero, ¿cómo podemos hacerlo? 
 Crear prototipos ayuda porque nos obliga 
@@ -12,7 +12,8 @@ la retroalimentación de estos grupos
 no suele representar la realidad. 
 Es mejor si lanza la idea al mundo 
 antes de que esté lista. 
-Evite estos grupos y ponga 
+
+	Evite estos grupos y ponga 
 su producto en un entorno real. 
 Al lanzar V Water, un refresco que ahora 
 pertenece a Pepsi, el fundador tomó 
@@ -22,13 +23,15 @@ Esperaba a que la gente lo tomara o
 ignorara y luego les preguntaba por qué. 
 Así obtenía retroalimentación inmediata 
 de personas reales sobre el producto. 
-Pruebe si resulta atractivo en línea, 
+
+	Pruebe si resulta atractivo en línea, 
 incluso antes de que exista. 
 Este enfoque no siempre funciona, pero 
 la tecnología nos permite probar ideas  
 para ver si son atractivas en un grupo 
 o en el mercado de masas. 
-Así prueba Zynga sus ideas para juegos. 
+
+	Así prueba Zynga sus ideas para juegos. 
 Crean un mensaje breve y lo publican en 
 alguna web popular del mercado objetivo. 
 Al hacer clic en él, se redirige 
@@ -36,22 +39,26 @@ a la persona a una encuesta.
 Así, Zynga evalúa los intereses y reduce 
 el riesgo de rechazo en el mercado 
 antes programar el juego. 
-Por último, también puede lanzar 
+
+	Por último, también puede lanzar 
 una versión falsa de su servicio, 
 como hizo la empresa Inuit. 
 Quería probar si su servicio de SMS 
 para granjeros indígenas funcionaría. 
-En vez de construir toda una plataforma, 
+
+	En vez de construir toda una plataforma, 
 el equipo creó un prototipo convincente 
 que cumplía con las partes 
 más complejas del sistema, 
 y todo ello en 7 semanas. 
-Al lanzar el sitio web falso y descubrir 
+
+	Al lanzar el sitio web falso y descubrir 
 el éxito del producto, se confirmó 
 que cubría una necesidad. 
 Y desde su creación se pudo obtener 
 retroalimentación de las pruebas. 
-Lanzar nuevos productos, servicios 
+
+	Lanzar nuevos productos, servicios 
 y prototipos públicos es arriesgado. 
 Quizá le preocupe que copien su idea 
 o no quiere lanzar algo imperfecto. 
@@ -61,4 +68,4 @@ que apostar mucho por algo
 que quizá no guste a la gente. 
 Estos prototipos le ayudarán a priorizar 
 qué proyectos debe impulsar y cómo. 
-Lance al mundo algo de lo que aprender. 
+Lance al mundo algo de lo que aprender.

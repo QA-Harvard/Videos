@@ -1,4 +1,4 @@
-﻿Un gerente de proyectos 
+﻿	Un gerente de proyectos 
 también lo es de riesgos, ya que ahí 
 convergen la gestión y las finanzas. 
 Un gerente de proyectos debe conocer 
@@ -9,7 +9,8 @@ es un caso que escribí para una clase:
 una agencia de viajes para estudiantes. 
 Es un negocio muy simple, 
 pero con muchos riesgos. 
-Consiste en organizar viajes a Europa 
+
+	Consiste en organizar viajes a Europa 
 para jóvenes estadounidenses. 
 Pero ese negocio 
 conlleva un gran riesgo: 
@@ -26,7 +27,8 @@ se puede medir este riesgo.
 Si fluctúa ese tipo de cambio 
 pueden olvidarse del beneficio ese año 
 y puede acabar con la empresa. 
-Eso por una parte. 
+
+	Eso por una parte. 
 Por otra, ¿qué deberían hacer? 
 Lo divertido es que analizamos bien 
 la situación y se trata de 
@@ -41,7 +43,8 @@ Todo el mundo prefirió la estrategia
 de usar contratos a plazo 
 para eliminar el riesgo y entonces 
 centramos el debate en este punto. 
-Nos dimos cuenta de que lo gestionábamos
+
+	Nos dimos cuenta de que lo gestionábamos
  sobre la situación de base, 
 y eso es justo lo que no hay que hacer. 
 El principal riesgo de este negocio 
@@ -57,7 +60,8 @@ en un principio, que es la de a plazos,
 es precisamente la equivocada. 
 Y entonces hay que volver 
 a pensarlo todo de nuevo. 
-Es un buen ejemplo sobre cómo afectan 
+
+	Es un buen ejemplo sobre cómo afectan 
 los riesgos en la gerencia de proyectos 
 y la importancia que tienen. 
 Todas las empresas tienen riesgos 
@@ -65,7 +69,8 @@ de algún tipo que tienen que gestionar.
 También socava la idea de que se pueden 
 eliminar riesgos, pero no hay estrategia
  alguna para ello, solo gestionarlos. 
-También me gusta que muestra lo que 
+
+	También me gusta que muestra lo que 
 no se piensa sobre la situación de base 
 al gestionar los riesgos. 
 Hay que pensar en los malos resultados 
@@ -81,4 +86,4 @@ Por eso este ejemplo tan bueno.
 Porque creo que 
 la gestión de riesgos es esencial 
 para pensar en los proyectos, 
-sin que importe su naturaleza. 
+sin que importe su naturaleza.

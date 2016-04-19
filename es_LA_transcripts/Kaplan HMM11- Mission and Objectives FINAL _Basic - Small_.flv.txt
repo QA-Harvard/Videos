@@ -1,22 +1,25 @@
-﻿Presentamos el cuadro de mando integral 
+﻿	Presentamos el cuadro de mando integral 
 y, a los pocos años, varias empresas 
 lo implantaron con mucho éxito. 
 Investigué a estas empresas 
 y vi que dos directores habían sido 
 antiguos oficiales de la Marina. 
-Cuando yo era ingeniero, 
+
+	Cuando yo era ingeniero, 
 si se detectaba un resultado extraño 
 se achacaba a un error experimental. 
 Pero dos me parecían 
-demasiada coincidencia 
-y pensé en que todo ello 
+demasiada coincidencia.
+
+	Y pensé en que todo ello 
 se tenía que deber a algo concreto. 
 Pregunté a ambos directores 
 si su experiencia como marines 
 había influido en la adopción 
 del cuadro de mando integral de forma 
 tan efectiva en sus organizaciones. 
-Ambos respondieron lo mismo. 
+
+	Ambos respondieron lo mismo. 
 No habían pensado en ello antes, 
 pero dijeron que la comunicación es 
 esencial para un oficial de la Marina. 
@@ -30,7 +33,8 @@ Si el teniente recibe un disparo
 o el enemigo está en otra posición 
 las tropas no pueden detenerse 
 y preguntar qué es lo que deben hacer. 
-Antes de enviar a un soldado 
+
+	Antes de enviar a un soldado 
 a la batalla, todos deben conocer 
 la misión y los objetivos. 
 Esa es la máxima prioridad. 
@@ -49,9 +53,10 @@ Depende de que el empleado sepa
 no solo lo que debe hacer 
 sino lo que debe conseguir y cómo puede 
 contribuir al éxito de la organización. 
-El cuadro de mando integral supuso 
+
+	El cuadro de mando integral supuso 
 un potente sistema para comunicar 
 la misión y los objetivos a la plantilla
 y al entenderlo, pudieron ayudar 
 a que la organización cumpliera 
-con sus objetivos estratégicos. 
+con sus objetivos estratégicos.

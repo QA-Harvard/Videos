@@ -1,12 +1,12 @@
-﻿Hay un viejo dicho que dice:  
+﻿	Hay un viejo dicho que dice:  
 Los mercados que no existen 
 no se pueden medir ni analizar. 
 Significa que, si usted está innovando, 
-si está haciendo algo 
-que nunca ha hecho 
+si está haciendo algo que nunca ha hecho 
 a veces debe imaginar nuevas formas 
 de determinar si su idea es buena. 
-He aquí un ejemplo de eso. 
+
+	He aquí un ejemplo de eso. 
 En 2004, trabajaba con un equipo 
 en Procter & Gamble. 
 El equipo tenía una gran idea en mente: 
@@ -15,42 +15,48 @@ con síndrome de intestino irritable.
 Si lo sufría y tomaba el suplemento 
 a diario durante 30 días, 
 los síntomas comenzarían a remitir. 
-Cuando me reuní con el equipo, pensé 
+
+	Cuando me reuní con el equipo, pensé 
 que estarían encantados con la idea. 
 Cambió la vida de quienes lo probaron. 
 Había que tomarlo a diario, así creaba 
 un modelo de negocio potente y exitoso. 
-Pero el equipo estaba desanimado. 
-Pregunté cuál era el problema 
-y respondieron 
+
+	Pero el equipo estaba desanimado. 
+Pregunté cuál era el problema y respondieron 
 que íbamos a descartar la idea.  
 Les dije que me parecía extraño, 
 puesto que era una gran idea.  
-Me respondieron que habían llegado 
+
+	Me respondieron que habían llegado 
 las previsiones y no eran buenas. 
 Había que invertir mucho para sacarlo 
 a la venta y la dirección no quería.  
+
 Les dije que habláramos 
 de las previsiones, ya que era posible 
 que estuvieran equivocadas. 
 Les pregunté cómo se había estimado 
 el potencial de esa oportunidad.  
-Pero hicieron lo de siempre: 
+
+	Pero hicieron lo de siempre: 
 preguntar a los consumidores 
 si lo comprarían y con qué frecuencia. 
 Para que fuera una gran oportunidad, 
 tenían que comprarlo cada mes. 
 Un paquete de 30, 12 veces al año. 
 Pero dijeron que no lo harían. 
-Pregunté si era posible averiguar 
+
+	Pregunté si era posible averiguar 
 si los clientes lo habían entendido bien 
 sin gastar una gran cantidad de dinero.  
 Logramos la aprobación de la dirección 
 para lanzar el producto en línea. 
 Hice un marketing muy enfocado para 
 estimular la demanda y vi lo que ocurrió 
-cuando los clientes lo compraron. 
-Resultó que nuestros consumidores 
+cuando los clientes lo compraron.
+ 
+	Resultó que nuestros consumidores 
 estaban equivocados. 
 Podían tomar la píldora con regularidad 
 y las previsiones empezaron a mejorar. 
@@ -58,10 +64,11 @@ A principios de 2009, P&G lanzó
 el producto con el nombre Align. 
 Ahora es un producto, 
 un gran crecimiento para P&G.  
-La lección que aprendí fue 
-que el  futuro no puede 
+
+	La lección que aprendí fue 
+que el futuro no puede 
 predecirse analíticamente. 
 Hay que hallar maneras de poner a prueba 
 los supuestos de forma ágil y económica. 
 No todo está en las investigaciones. 
-A veces es uno mismo quien debe hacerlo. 
+A veces es uno mismo quien debe hacerlo.

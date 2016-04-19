@@ -1,52 +1,9 @@
-﻿Muchas ideas de productos no logran 
-la recompensa que se esperaba. ¿Por qué?
-Los gerentes pierden tiempo y dinero 
-mejorando su producto antes de lanzarlo.
-No toleran la incertidumbre de innovar 
-y eso los sitúa en desventaja. 
-Esta incertidumbre es inevitable, 
-pero puede gestionarse con lo que llamo 
-"construir, medir, aprender", es decir, 
-construir una versión de prueba, 
-medir las respuestas de los clientes 
-y aprender cómo mejorar el producto. 
-Métase en este bucle y actúe rápido. 
-"Construir" significa crear un producto 
-mínimamente viable, una representación 
-para que el cliente conozca el producto,
-creada con el mínimo esfuerzo, costos 
-y tiempo de desarrollo, para calcular  
-su potencial de forma barata y rápida.  
-Un ejemplo es Grockit, que prepara 
-a gente para hacer pruebas en línea. 
-Usó la solución económica WebEx 
-para probar su modelo de negocio. 
-"Medir" significa valorar  
-si sus esfuerzos de desarrollo 
-le están llevando a un progreso real. 
-Evite indicadores vanos como el número 
-total de clientes, ya que más bien 
-reflejan un buen marketing en lugar de 
-una apreciación real del producto. 
-Necesita indicadores prácticos para 
-decidir sobre el diseño del producto.  
-Grockit quiso experimentar 
-con diferentes opciones de estudio. 
-En lugar de preguntar a los clientes qué
-pensaban, probaron distintas versiones 
-del producto para ver cómo reaccionaban.
-El tercer paso es "aprender". 
-¿Qué le están revelando los indicadores?
-¿Debería cambiar su estrategia inicial 
-de desarrollo del producto o mantenerla?
-Grockit vio que los estudiantes
-estudian 
-tanto individualmente como en grupo, 
-y se decantaron por la primera opción. 
-Innovar es probar nuevas ideas 
-y ver cómo responden los clientes. 
-Es un bucle que se repite. 
-Construya productos mínimamente viables,
-mida sus progresos  
-analizando bien a sus clientes 
-y aprenda a crear un negocio sostenible.
+﻿	Muchas ideas de productos no logran la recompensa que se esperaba. ¿Por qué?Los gerentes pierden tiempo y dinero mejorando su producto antes de lanzarlo.No toleran la incertidumbre de innovar y eso los sitúa en desventaja. 
+
+	Esta incertidumbre es inevitable, pero puede gestionarse con lo que llamo "construir, medir, aprender", es decir, construir una versión de prueba, medir las respuestas de los clientes y aprender cómo mejorar el producto. Métase en este bucle y actúe rápido. 
+
+	"Construir" significa crear un producto mínimamente viable, una representación para que el cliente conozca el producto,creada con el mínimo esfuerzo, costos y tiempo de desarrollo, para calcular  su potencial de forma barata y rápida.  Un ejemplo es Grockit, que prepara a gente para hacer pruebas en línea. Usó la solución económica WebEx para probar su modelo de negocio. 
+
+	"Medir" significa valorar  si sus esfuerzos de desarrollo le están llevando a un progreso real. Evite indicadores vanos como el número total de clientes, ya que más bien reflejan un buen marketing en lugar de una apreciación real del producto. Necesita indicadores prácticos para decidir sobre el diseño del producto.  Grockit quiso experimentar con diferentes opciones de estudio. En lugar de preguntar a los clientes quépensaban, probaron distintas versiones del producto para ver cómo reaccionaban.
+
+	El tercer paso es "aprender". ¿Qué le están revelando los indicadores?¿Debería cambiar su estrategia inicial de desarrollo del producto o mantenerla? Grockit vio que los estudiantes estudian tanto individualmente como en grupo, y se decantaron por la primera opción. Innovar es probar nuevas ideas y ver cómo responden los clientes. Es un bucle que se repite. Construya productos mínimamente viables,mida sus progresos  analizando bien a sus clientes y aprenda a crear un negocio sostenible.

@@ -1,4 +1,4 @@
-La mayor parte de mi capacitación 
+	La mayor parte de mi capacitación 
 como especialista en medición 
 ha sido técnica, es decir, estadísticas,
 gráficos y demás cosas complejas. 
@@ -9,13 +9,15 @@ Realmente, marcó un antes y un después
 en mi visión de la medición. 
 Era un curso de desarrollo personal 
 y de lograr objetivos en la vida. 
-Una de las técnicas que aprendimos 
+
+	Una de las técnicas que aprendimos 
 fue el "lenguaje sensorial específico". 
 Este lenguaje consiste en palabras que 
 describen lo que vemos, lo que oímos, 
 lo que tocamos, probamos u olemos 
 si algo está pasando. 
-No nos sale de manera natural, 
+
+	No nos sale de manera natural, 
 lo cual queda patente en los negocios. 
 Usamos jerga de gestión. 
 No usamos lenguaje sensorial sino 
@@ -31,16 +33,17 @@ De modo que quise probar si era posible
 hallar indicadores con más rapidez 
 cambiando la forma de definir las metas.
 Y eso fue lo que empezamos a hacer. 
-En vez de fijar la meta de: "Transformar
+
+	En vez de fijar la meta de: "Transformar
 el desempeño de nuestros clientes",  
 conversábamos sobre ello antes de pensar
 en buscar medidas para cumplirla. 
 Y la conversación era: "¿Qué queremos 
 decir con transformar y con desempeño?".
 Identificábamos las palabras engañosas
-y 
-las describíamos con lenguaje sensorial.
-Cambiábamos "transformar el desempeño 
+y las describíamos con lenguaje sensorial.
+
+	Cambiábamos "transformar el desempeño 
 de los clientes" por "queremos decir que
 cuando nuestros clientes trabajan  
 con nosotros, alcanzan sus objetivos 
@@ -52,10 +55,10 @@ Se puede ver cómo llegar a medirlo:
 que tardan en lograr sus metas? 
 ¿Qué porcentaje de metas cumplen 
 dentro de las fechas que fijan?". 
-Cuando utilizamos palabras sensoriales 
+
+	Cuando utilizamos palabras sensoriales 
 nos comprometemos con nuestras metas. 
-Realmente podemos sentirlas, 
-podemos verlas, 
+Realmente podemos sentirlas, podemos verlas, 
 podemos visualizarlas en nuestra mente, 
 para saber cómo serán 
 una vez que las hayamos cumplido. 
@@ -64,4 +67,4 @@ podemos alcanzar esas metas y realizar
 un seguimiento de nuestro progreso 
 a medida que las alcanzamos. 
 Eso aviva el entusiasmo y hace  
-que cumplirlas sea más gratificante. 
+que cumplirlas sea más gratificante.

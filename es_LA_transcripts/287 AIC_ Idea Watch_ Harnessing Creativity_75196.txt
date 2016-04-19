@@ -1,22 +1,25 @@
-SARAH GREEN:  Soy Sarah Green. 
+	SARAH GREEN:  Soy Sarah Green. 
 Hoy está con nosotros Jeff Dyer, 
 autor de "El ADN del innovador", 
 con Hal Gregersen y Clay Christensen. 
 Jeff, muchas gracias por haber venido. 
-JEFF DYER:  Es un placer. 
+
+	JEFF DYER:  Es un placer. 
 Gracias por invitarme. 
-SARAH GREEN:  En el libro, habla de 5
-destrezas 
+
+	SARAH GREEN:  En el libro, habla de 5 destrezas 
 que poseen los innovadores disruptivos. 
 ¿Cómo estableció esas 5 destrezas? 
 ¿Cuáles son? 
-JEFF DYER:  Empezamos hace unos 10 años,
+
+	JEFF DYER:  Empezamos hace unos 10 años,
 intentando averiguar de dónde procedían
 las ideas de negocio disruptivas. 
 Decidimos que debíamos estudiar a innovadores empresariales 
 para ver dónde y cuándo llegaban 
 a estas ideas de negocio disruptivas.  
-Hablamos con decenas de innovadores 
+
+	Hablamos con decenas de innovadores 
 y descubrimos que un grupo de ellos 
 solía hacer muchas preguntas. 
 Eran interrogadores. 
@@ -27,13 +30,15 @@ pensaron cómo ser dinero para la gente.
 Esto les llevó a la idea de que quizás 
 podían adjuntar dinero a un correo, 
 y de ahí nació PayPal.  
-Otros eran observadores. 
+
+	Otros eran observadores. 
 Howard Schultz viajó a Italia 
 y empezó a observar a las cafeterías. 
 Le encantaba el romance, el café, 
 y quiso trasladarlo a Estados Unidos. 
 Lo adaptó y surgió Starbucks. 
-Otros eran "networkers". 
+
+	Otros eran "networkers". 
 Mike Lazaridis, fundador de BlackBerry 
 (antes Research in Motion), 
 escuchó que las máquinas de Coca-Cola  
@@ -45,7 +50,8 @@ que enviara información a otras personas
 de manera inalámbrica. 
 El networking fue el catalizador 
 para la innovación y la nueva idea.  
-Por último, otros eran experimentadores.
+
+	Por último, otros eran experimentadores.
 Michael Dell era ya un experimentador 
 cuando iba al instituto, desarmaba 
 y armaba cosas, sobre todo computadoras.
@@ -54,32 +60,37 @@ era que podía hacerlo por un 30% menos
 del precio que IBM pedía 
 por una computadora lista para usarse. 
 Ahí nació el modelo directo de Dell. 
-Estos 4, interrogadores, observadores, 
+
+	Estos 4, interrogadores, observadores, 
 networkers y experimentadores 
 fomentaron el "pensamiento asociativo", 
 una destreza cognitiva  
 con la que podemos conectar 
 unas cosas con otras para crear algo. 
-Steve Jobs iba a clases de caligrafía, 
+
+	Steve Jobs iba a clases de caligrafía, 
 en las aprendió hermosas tipografías. 
 Más tarde, tomó esas ideas 
 y las asoció con la creación de fuentes 
-en una computadora. 
-¡Y voilà! 
+en una computadora. ¡Y voilà! 
 Nació el Macintosh y la maquetación. 
+
 Estos son tipos de comportamientos 
 que dan lugar a ideas creativas. 
 Y, si se perfeccionan, pueden ayudar 
 a cualquiera a mejorar su creatividad 
 y su capacidad de ser innovador. 
-SARAH GREEN:  Tomemos el caso de los
+
+	SARAH GREEN:  Tomemos el caso de los
 experimentadores. 
 ¿Cómo podría yo mejorar mi capacidad 
 de ser una experimentadora? 
-JEFF DYER:  Buena pregunta. 
+
+	JEFF DYER:  Buena pregunta. 
 Lo que aprendimos es que hay 
 3 maneras distintas de experimentar. 
-He hablado de Michael Dell, 
+
+	He hablado de Michael Dell, 
 él experimentaba desarmando cosas 
 y volviéndolas a armar.  
 Así que para ser un buen experimentador 
@@ -92,14 +103,14 @@ de su empresa o de algún competidor,
 y lo armamos de nuevo, puede dar pie 
 a nuevas ideas sobre cómo mejorar  
 dicho producto o proceso. 
-La segunda manera de experimentar es 
+
+	La segunda manera de experimentar es 
 la típica que se nos viene a la mente, 
 que es probar una idea en el mercado 
 y ver si funciona. 
 Thomas Edison es famoso por haber dicho:
 "No he fracasado, solo he encontrado 
-10.000 formas que no funcionan". 
-¿Entiende? 
+10.000 formas que no funcionan". ¿Entiende? 
 Porque no paraba de probar ideas 
 y cosas nuevas para ver qué aprendía. 
 En nuestras entrevistas, los innovadores
@@ -108,7 +119,8 @@ He hecho un experimento.
 Probémoslo y veamos qué sucede". 
 Debería ir probando ideas para ver 
 si funcionan y aprender de todo ello. 
-La tercera manera de experimentar 
+
+	La tercera manera de experimentar 
 es explorando: nuevos países, empresas 
 entornos, aprendiendo nuevas destrezas, 
 como Steve Jobs con la caligrafía,  
@@ -117,18 +129,21 @@ Probar nuevas experiencias
 es otra manera de experimentar  
 que le ayudará a solucionar 
 problemas de un modo creativo. 
-SARAH GREEN:  Si desea ayudar a que su
+
+	SARAH GREEN:  Si desea ayudar a que su
 equipo domine 
 esas destrezas, ¿cómo les alentaría 
 a hacerlo si sienten que ya están 
 muy ocupados con sus trabajos "reales"? 
-JEFF DYER:  Al principio, 
+
+	JEFF DYER:  Al principio, 
 puede parecer que es trabajo extra 
 pero, si su empresa nunca innova, 
 dentro de 10 años se habrá quedado 
 muy por detrás de la competencia. 
 Debe hacer cosas nuevas. 
-Lo primero es crear una cultura 
+
+	Lo primero es crear una cultura 
 y unos procesos que animen a la gente 
 a cuestionarse cosas y a desafiar 
 su statu quo, y comprobar que funcione 
@@ -136,7 +151,8 @@ en su equipo o en su empresa.
 Lo segundo es crear procesos 
 y darles tiempo para que observen 
 tanto a clientes como a otras empresas. 
-Por ejemplo, Google y Procter & Gamble 
+
+	Por ejemplo, Google y Procter & Gamble 
 organizaron un intercambio de empleados.
 Sus empleados de marketing y RR. HH. 
 pasaron dos meses en la otra empresa 
@@ -144,7 +160,8 @@ para ver cómo funcionaban las cosas,
 y volver con nuevas ideas. 
 Debe darles tiempo para que observen 
 si desea que su equipo sea innovador. 
-También puede hacer networking. 
+
+	También puede hacer networking. 
 Deles la opción de ir a conferencias, 
 traiga a personas ajenas a la empresa, 
 o gente con distintos conocimientos 
@@ -152,7 +169,8 @@ y contextos para que hablen con el grupo
 de su perspectiva sobre sus desafíos. 
 Este es otro modo de mejorar la destreza
 del networking en su equipo. 
-Por último, experimente. 
+
+	Por último, experimente. 
 Ejecute un experimento. 
 Lance un proyecto piloto. 
 No tenga miedo de probar cosas nuevas. 
@@ -160,8 +178,9 @@ Vea qué puede aprender de todo ello.
 Es importante no tener la mentalidad de:
 "No voy a probar esto por si fracaso" 
 si quiere que su equipo sea innovador. 
-SARAH GREEN:  Bien, ese es un buen
-comienzo. 
+
+	SARAH GREEN:  Bien, ese es un buen comienzo. 
 Sé que hay mucho más en el libro. 
 Jeff, muchas gracias por haber venido. 
-JEFF DYER:  Gracias. 
+
+	JEFF DYER:  Gracias.

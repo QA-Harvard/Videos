@@ -1,9 +1,10 @@
-En algún momento, todos hemos recibido 
+	En algún momento, todos hemos recibido 
 críticas y hemos reaccionado mal. 
 Una vez pensé que estaba liderando bien 
 un proyecto, hasta que dos compañeros 
 me dijeron que era muy autoritario. 
-Inmediatamente, me puse a la defensiva. 
+
+	Inmediatamente, me puse a la defensiva. 
 Me costaba escucharles, y empecé 
 a sentirme cohibido e incómodo 
 durante el resto del proyecto. 
@@ -14,7 +15,8 @@ podemos responder de forma productiva.
 Cuando reciba una crítica y comience 
 a liberar adrenalina, deténgase. 
 Respire hondo. 
-Después, siga las siguientes pautas. 
+
+	Después, siga las siguientes pautas. 
 Identifique y aparte sus emociones. 
 Normalmente es una crítica constructiva,
 pero puede doler y desestabilizar. 
@@ -23,15 +25,16 @@ la vergüenza o la impotencia que siente.
 Acepte los sentimientos, 
 póngales nombre y déjelos a un lado 
 para que no interfieran en su juicio. 
-Mire más allá de la crítica. 
+
+	Mire más allá de la crítica. 
 No es fácil dar una crítica, y puede que
 la persona que la da no lo haga bien, 
 pero eso no significa que no sea útil. 
 Evite confundir la forma con el mensaje.
-Después, no se pronuncie al respecto. 
+
+	Después, no se pronuncie al respecto. 
 Simplemente guarde los datos. 
-Haga preguntas. 
-Pida ejemplos. 
+Haga preguntas. Pida ejemplos. 
 Intente comprender lo que escucha. 
 No pretenda responder. 
 Esto hará que esté menos a la defensiva 
@@ -39,4 +42,4 @@ y le permitirá escuchar bien.
 Las críticas, sobre todo las que 
 no se esperan, son las más útiles. 
 Seguir estos pasos le ayudará a entender
-las críticas y aprender de ellas. 
+las críticas y aprender de ellas.

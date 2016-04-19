@@ -1,72 +1,80 @@
-﻿Todos razonamos al tomar decisiones. 
+﻿	Todos razonamos al tomar decisiones. 
 Pero, cuando razonamos por analogía 
 solemos cometemos errores. 
 Existe una lógica errónea al razonar 
 por analogía cuando hacemos elecciones. 
 La historia de Enron y su desaparición 
 nos pueden mostrar esta lógica errónea. 
-En 2001, investigué mucho sobre Enron 
+
+	En 2001, investigué mucho sobre Enron 
 entrevistando a muchos implicados y, 
 por suerte, nunca publiqué ningún caso, 
 a pesar de que muchos sí lo hicieron 
 pensando que sería un gran éxito. 
 Por supuesto, finalmente fracasaron. 
-Jeff Skilling inventó el "banco de gas",
- la idea de crear mercados donde 
+
+	Jeff Skilling inventó el "banco de gas",
+la idea de crear mercados donde 
 los contratos de gas se negociaran, 
 (compraran y vendieran) en un entorno 
 que antes estaba totalmente regulado. 
 Esos contratos y mercados no existían. 
 Era una idea genial que generaba valor, 
 tanto social como para los accionistas. 
-Enron se planteó: "¿Podemos encontrar 
+
+	Enron se planteó: "¿Podemos encontrar 
 mercados similares al del gas natural 
 y aplicar el mismo modelo de negocio?"  
 Y comenzaron a identificar cuáles eran 
 las características que lo hacían ideal 
 para este nuevo modelo de mercado. 
-Finalmente, denominaron “la plantilla” 
+
+	Finalmente, denominaron “la plantilla” 
 a estas características del gas natural.
- Y buscaron otras industrias 
+Y buscaron otras industrias 
 donde poder aplicar esta plantilla. 
 Así pues, razonaron por analogía. 
 ¿Qué es análogo al gas natural? 
-Primero pensaron en la energía eléctrica
- y aunque están bastante relacionados, 
+
+	Primero pensaron en la energía eléctrica
+y aunque están bastante relacionados, 
 existen algunas diferencias. 
 Después, pasaron al carbón y al papel. 
 Al final, llegaron a la banda ancha 
 y otros derivados climáticos, 
 que eran muy diferentes al gas natural. 
-Y por supuesto, cada vez dijeron: 
+
+	Y por supuesto, cada vez dijeron: 
 (escribieron esa plantilla en una hoja) 
 "Estas son las características 
 que buscamos en otros negocios". 
 Dieron rienda suelta a estas personas 
 para buscar industrias similares. 
 Por lo que buscaban analogías. 
-Según Richard Neustadt y Ernest May, 
+
+	Según Richard Neustadt y Ernest May, 
 cuando razonamos por analogía, 
 nos enfocamos en las similitudes 
 e ignoramos las diferencias existentes. 
 En Enron buscaban cosas 
 que se parecieran al gas natural. 
 Pero no planteaban: "¿Cómo se diferencia
- la banda ancha del gas natural?"  Las
-diferencias es donde suelen residir 
+la banda ancha del gas natural?"
+
+	Las diferencias es donde suelen residir 
 los problemas y los desafíos. 
 Enron se metió en problemas 
 porque comenzaron a extraviarse 
 en negocios que no conocían bien. 
 De algún modo, el comportamiento inmoral
- o ilegal fue el resultado de estos
-problemas 
+o ilegal fue el resultado de estos problemas 
 y de no querer revelar 
 que estaban metidos en problemas. 
-Razonar por analogía es muy natural. 
+
+	Razonar por analogía es muy natural. 
 Es cómo tomamos decisiones cada día. 
 No podemos enfocarnos únicamente 
 en las similitudes entre dos situaciones
  aparentemente análogas. 
 Necesitamos asegurarnos también 
-de prestar atención a las diferencias. 
+de prestar atención a las diferencias.

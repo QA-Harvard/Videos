@@ -1,4 +1,4 @@
-﻿Cuando piensa en metas, 
+﻿	Cuando piensa en metas, 
 es importante pensar en los propósitos. 
 ¿Cuál es el propósito de la empresa? 
 ¿Qué objetivo social 
@@ -6,11 +6,11 @@ debe alcanzar la empresa?
 Les pondré el ejemplo de Novartis, 
 una farmacéutica suiza 
 con décadas de experiencia. 
-Daniel Vasella, su Director Ejecutivo, 
+
+	Daniel Vasella, su Director Ejecutivo, 
 pensaba que su propósito más importante 
 era prestar servicio a sus pacientes. 
-Al decidir los objetivos, Vasella
-decidió 
+Al decidir los objetivos, Vasella decidió 
 que identificaría dos muy importantes:  
 cumplir con las necesidades médicas 
 no cubiertas de los pacientes, es decir,
@@ -23,13 +23,15 @@ Al fabricarlos, el canal de innovación
 de Novartis (I+D) y sus objetivos 
 se centraban, sobre todo, 
 en cubrir necesidades médicas. 
-Novartis creó Gleevek, un medicamento 
+
+	Novartis creó Gleevek, un medicamento 
 para cubrir las necesidades de 
 pacientes de leucemia mielógena crónica,
 que afecta solo a 50.000 personas. 
 Con el tiempo, Novartis descubrió 
 que esos fármacos dan buenos resultados.
-Novartis usa indicadores financieros 
+
+	Novartis usa indicadores financieros 
 y no financieros para fijar sus metas, 
 tanto las metas a corto plazo 
 como las de largo plazo. 
@@ -41,7 +43,8 @@ la participación de mercado,
 el número de productos creados 
 y la satisfacción y compromiso 
 de su plantilla. 
-Fijar metas según propósitos ha supuesto
+
+	Fijar metas según propósitos ha supuesto
 un gran beneficio para los pacientes 
 y para sus accionistas, y como dicen: 
 "Un buen fármaco siempre da resultados".

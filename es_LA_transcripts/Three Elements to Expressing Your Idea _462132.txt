@@ -1,19 +1,21 @@
-﻿Soy editor de Harvard Business Review 
-desde hace 13 años. 
-Y les diré una cosa. 
+﻿	Soy editor de Harvard Business Review 
+desde hace 13 años. Y les diré una cosa. 
 Estoy empezando a adquirir práctica. 
 Di una charla a unos profesores 
 sobre cómo escribir para médicos, o sea,
 gente que trabaja en organizaciones 
 que pueden beneficiarse de sus estudios.
-Esto es difícil para muchos profesores 
+
+	Esto es difícil para muchos profesores 
 y no son los únicos. 
 Les pasa también a muchos gerentes. 
-¿Cómo presentar ideas impactantes? 
+
+	¿Cómo presentar ideas impactantes? 
 En esta charla hablé de tres aspectos 
 de los escritos empresariales, 
-ya sea en blogs o libros. 
-El primero es el punto de vista. 
+ya sea en blogs o libros.
+ 
+	El primero es el punto de vista. 
 Entrevisté a Jeff Bezos, de Amazon, 
 y me dijo: "La perspectiva 
 equivale a 80 puntos del CI". 
@@ -27,7 +29,8 @@ defendiendo una perspectiva contraria.
 Debería tener pasión por su opinión. 
 La idea es encontrarse con el lector en 
 el punto de escepticismo y persuadirle. 
-El segundo aspecto son las evidencias, 
+
+	El segundo aspecto son las evidencias, 
 es decir, todo lo que avala a sus ideas.
 Hable de personas que triunfaron 
 y que fracasaron con sus consejos. 
@@ -36,7 +39,8 @@ de autoridades respetadas.
 Exponga todas sus opiniones 
 sobre el tema para confirmar al lector 
 que su contribución es importante. 
-El tercer elemento es la narración. 
+
+	El tercer elemento es la narración. 
 Anécdotas, citas acertadas, referencias 
 a la cultura pop... estas no solo hacen 
 que la lectura sea más placentera, 
@@ -44,14 +48,16 @@ sino que convierten una idea abstracta
 en una realidad para el lector. 
 Su voz, así como el vocabulario 
 y las frases, también es importante. 
-Escribir no debe ser formal ni forzado. 
+
+	Escribir no debe ser formal ni forzado. 
 De ser así, es más difícil de entender. 
 Debe escribir en un tono familiar; 
 como si estuviese hablando. 
 Visualice a alguien que conozca bien 
 e imagine cómo le explicaría  
 rápidamente la idea. 
-A la gente le gustan las nuevas ideas. 
+
+	A la gente le gustan las nuevas ideas. 
 Simplifíquelas para que las escuchen. 
 Telegrafíe su punto de vista, respáldelo
-y envuelva todo en una narración. 
+y envuelva todo en una narración.

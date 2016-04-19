@@ -1,4 +1,4 @@
-﻿A lo largo de toda mi carrera, 
+﻿	A lo largo de toda mi carrera, 
 he gestionado todo tipo de proyectos. 
 Tenía mucha experiencia, obviamente, 
 pero también recibí 
@@ -11,10 +11,10 @@ y cuándo y cómo llegar a las personas.
 Confiaba bastante en mis destrezas 
 como gestor de proyectos. 
 Quizá confiaba demasiado. 
-Hace 2 años, trabajaba en un caso 
+
+	Hace 2 años, trabajaba en un caso 
 con un cliente de dispositivos médicos. 
-Estaban intentando 
-hacer algo realmente diferente, 
+Estaban intentando hacer algo realmente diferente, 
 aportar algo realmente nuevo 
 a la sala de operaciones. 
 Y eso era algo bastante similar a muchos
@@ -22,27 +22,29 @@ otros proyectos que había realizado.
 Así que pensé: "He hecho esto antes. 
 No tengo por qué preocuparme, 
 puedo gestionar todo esto de cabeza". 
-Estaba muy equivocado, 
+
+	Estaba muy equivocado, 
 porque el proyecto se organizó 
 a base de sprints y había hitos claros, 
 y yo no tenía influencia alguna 
 sobre los tiempos ni sobre 
 qué había que presentar pero, aun así 
 creía poder gestionar todo de cabeza. 
-Como ya he dicho, estaba completamente 
+
+	Como ya he dicho, estaba completamente 
 equivocado porque no estaba preparado 
 para lo inesperado: esas emergencias que
 surgen durante el día, los conflictos 
 entre las personas dentro de los equipos
 que distraen al gestor de proyectos 
 y que pueden echar a perder el trabajo. 
-A dos días de nuestra primera reunión 
+
+	A dos días de nuestra primera reunión 
 con un gran cliente, me di cuenta 
 de que no se había hecho casi nada. 
 Y lo que se había hecho 
 era de una calidad inaceptable. 
-Así que empezamos 
-a hacerlo todo rápidamente 
+Así que empezamos a hacerlo todo rápidamente 
 esperando que todo saliera bien, 
 y acudimos a la reunión con el cliente. 
 La sala estaba llena de ejecutivos, 
@@ -51,7 +53,8 @@ y les preguntamos si sabían cuáles eran
 las necesidades de pacientes, cirujanos 
 y ejecutivos del hospital, pero solo 
 obtuvimos miradas de perplejidad. 
-Estábamos sudando la gota gorda, 
+
+	Estábamos sudando la gota gorda, 
 pero se produjo un pequeño terremoto 
 y tuvimos que evacuar el edificio. 
 Eso hizo que terminara la reunión, 
@@ -60,9 +63,10 @@ del apuro que teníamos con el proyecto
 y de que necesitábamos un plan 
 para volver a encarrilar el proyecto 
 y que siguiera por buen camino. 
-No podía confiar en que un terremoto 
+
+	No podía confiar en que un terremoto 
 me salvara de nuevo la próxima vez. 
 Debía usar las herramientas disponibles 
 para gestionar el proyecto y no solo 
 confiar en mi experiencia para que 
-las cosas fueran como deberían ir. 
+las cosas fueran como deberían ir.

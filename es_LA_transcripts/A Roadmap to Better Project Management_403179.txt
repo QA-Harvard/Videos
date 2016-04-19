@@ -1,4 +1,4 @@
-﻿En 2010, Mindtree firmó un gran contrato
+﻿	En 2010, Mindtree firmó un gran contrato
 con el gobierno de India, 
 una iniciativa muy transformadora 
 que consistía en dar a 1.200 millones 
@@ -9,7 +9,8 @@ en los Estados Unidos.
 En India, no existía un número 
 de identificación único y, por tanto, 
 era una iniciativa muy transformadora. 
-Un proyecto de este tipo se enfrentaba 
+
+	Un proyecto de este tipo se enfrentaba 
 a muchos desafíos, desde la perspectiva 
 de gestión y ejecución de proyectos. 
 No paraban de aparecer nuevos requisitos
@@ -18,7 +19,8 @@ También había muchas partes interesadas
 distribuidas en distintas ubicaciones. 
 Y cada parte interesada quería que 
 se implementara primero su requisito. 
-Teníamos un equipo de 200 ingenieros 
+
+	Teníamos un equipo de 200 ingenieros 
 y trabajábamos día y noche, 
 destinando muchas horas extras. 
 Y, a pesar de tener ese gran equipo, 
@@ -38,9 +40,9 @@ para la implementación.
 Vio la expresión seria de mi rostro 
 y me dio las gracias por haber propuesto
 lo que creía que era lo mejor. 
-Creo que eso fue 
-lo que hizo cambiar esa situación. 
-Las partes interesadas daban prioridad 
+Creo que eso fue lo que hizo cambiar esa situación. 
+
+	Las partes interesadas daban prioridad 
 a la lista y todos la respaldaban. 
 El equipo de gestión de productos 
 definió cuáles eran los requisitos. 
@@ -49,11 +51,12 @@ sabía qué debía construir
 y el de pruebas sabía qué debía probar. 
 Desde la óptica de ciclos de lanzamiento
 todo fue mucho más fácil de gestionar. 
-Podíamos usar la lista de prioridades 
+
+	Podíamos usar la lista de prioridades 
 para comunicar los progresos 
 de manera objetiva y consistente. 
 Mediante este proceso, diseñamos 
 un sistema que, al acabar el proyecto, 
 había generado un total de 340 millones 
 de números de identificación único 
-para los residentes. 
+para los residentes.

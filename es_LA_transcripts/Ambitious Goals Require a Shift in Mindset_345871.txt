@@ -1,26 +1,28 @@
-Trabajo en la industria farmacéutica. 
+	Trabajo en la industria farmacéutica. 
 Nuestra empresa desarrollaba formas 
 sólidas orales (comprimidos y cápsulas),
 pero decidió cambiar de rumbo y empezó
-a 
-fabricar formas de dosificación estéril.
-Para ello, la estabilidad es esencial 
+a fabricar formas de dosificación estéril.
+
+	Para ello, la estabilidad es esencial 
 porque la dosis va directa a la vena, 
 a diferencia de los comprimidos 
 o las cápsulas, que van al estómago. 
 Cuando la alta dirección nos lo planteó,
-fue un gran reto para el equipo
-técnico. 
+fue un gran reto para el equipo técnico. 
 Al principio estábamos conmocionados. 
 El objetivo parecía muy trascendental. 
 Nuestro equipo no había sido concebido inicialmente para la fabricación estéril
 y nos hallábamos ante un gran reto. 
-La clave fue desmenuzar el objetivo, 
+
+	La clave fue desmenuzar el objetivo, 
 que era desarrollar un inyectable, 
 y saber qué pasos debíamos tomar 
 en todas las actividades que dirigía. 
 Tardamos varios meses en entender todo 
-en profundidad y, al final, vimos que 
+en profundidad.
+
+	Y, al final, vimos que 
 había algunas cosas que debíamos hacer. 
 La primera era forjar relaciones 
 adecuadas con los proveedores. 
@@ -32,24 +34,26 @@ En caso afirmativo, como en el nuestro,
 ¿Aumentando destrezas y conocimientos 
 del personal o empleando a gente nueva? 
 Nosotros combinamos ambas cosas. 
-Pero había algo más que también 
+
+	Pero había algo más que también 
 teníamos que cambiar. 
 Aparte de fijar todos esos objetivos, 
 debíamos cambiar nuestra mentalidad, 
 debido al riesgo que conllevaba fabricar
 una forma de dosificación estéril. 
 También era necesario que nuestro equipo
-de alta dirección cambiara su
-mentalidad 
+de alta dirección cambiara su mentalidad 
 y entendiera esos riesgos que corríamos.
-Tardamos 6 meses en conseguir que 
+
+	Tardamos 6 meses en conseguir que 
 lo entendieran las partes interesadas, 
 pero, al final, tuvimos éxito. 
-La lección aprendida es no dejar que 
+
+	La lección aprendida es no dejar que 
 un objetivo difícil sobrepase al equipo.
 Hay que entender cuál es el objetivo 
 y desmenuzarlo para saber gestionarlo, 
 así como entender otras ramificaciones 
 relativas a los objetivos cambiantes. 
 En nuestro caso, la mentalidad 
-y los riesgos del cambio de dosis. 
+y los riesgos del cambio de dosis.
