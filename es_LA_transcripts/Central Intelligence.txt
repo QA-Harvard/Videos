@@ -1,4 +1,4 @@
-﻿Los equipos virtuales tienen 2 ventajas:
+﻿	Los equipos virtuales tienen 2 ventajas:
 la diversidad y la flexibilidad. 
 La flexibilidad nos permite recorrer 
 la organización y usar proveedores 
@@ -12,13 +12,15 @@ del personal en distintas ubicaciones
 hacen que, al hacerlos parte del equipo,
 lleguemos a soluciones mucho mejores 
 para los clientes. 
-Una vez usamos un equipo virtual 
+
+	Una vez usamos un equipo virtual 
 y los resultados fueron muy positivos. 
 Era para un proyecto concreto 
 en el que íbamos con retraso. 
 Trabajábamos en 4 ubicaciones distintas 
 de Boeing y con un proveedor importante.
-Cuando llegué vi que el equipo 
+
+	Cuando llegué vi que el equipo 
 no tenía una identidad de equipo sólida.
 Y, a mi parecer, es la primera cosa 
 que debe conseguirse. 
@@ -26,13 +28,15 @@ No piensa en ello para un equipo normal
 en el que todos se sientan juntos 
 y pueden ir a almorzar 
 o quedar después del trabajo. 
-Por ello, había dos cosas que hacer. 
+
+	Por ello, había dos cosas que hacer. 
 Primero, crear una especie de marca 
 o identidad de equipo. 
 Hicimos un solo sitio web. 
 Parece algo muy sencillo, 
 pero no teníamos uno. 
-Ese sitio web cumplió dos propósitos: 
+
+	Ese sitio web cumplió dos propósitos: 
 tenía un solo tablón de anuncios 
 de lo que ocurría en los proyectos 
 y podíamos informar a todo el equipo 
@@ -49,10 +53,10 @@ Gran parte de los proyectos en Boeing
 demandan mucho trabajo de ingeniería 
 y muchos cálculos precisos. 
 Si los miembros están dispersos, a veces
-se pierde el control de la
-configuración 
+se pierde el control de la configuración 
 de los proyectos complejos. 
-Pero con una sola base de datos 
+
+	Pero con una sola base de datos 
 unificamos a todo el equipo con 
 un único propietario de la base de datos
 en una de las ubicaciones más pequeñas.
@@ -60,6 +64,5 @@ Y así esa ubicación se sintió integrada
 y no olvidada como en el pasado. 
 Debe haber una sola persona que revise 
 que los datos sean precisos y coherentes
-porque la información incorrecta a
-veces 
-es peor que no dar información alguna. 
+porque la información incorrecta a veces 
+es peor que no dar información alguna.

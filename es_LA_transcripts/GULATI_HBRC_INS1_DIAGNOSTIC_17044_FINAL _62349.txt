@@ -1,16 +1,17 @@
-﻿Una cualidad de los líderes eficaces 
+﻿	Una cualidad de los líderes eficaces 
 es el "pensamiento de diagnóstico": 
 la capacidad de ver un problema 
 y no ir del problema a la solución 
 sino dar un paso intermedio, 
 ir al diagnóstico y luego a la solución.
- Este diagnóstico puede ser obvio, 
+Este diagnóstico puede ser obvio, 
 pero al calor del momento, cuando 
 los líderes intentan tomar decisiones, 
 es tentador orientarse a la acción. 
 Veo un problema, propongo una solución 
 y me pongo en acción. 
-Pausar por un momento, descubrir algo 
+
+	Pausar por un momento, descubrir algo 
 y avanzar en esa dirección, 
 no es natural para algunas personas. 
 Les daré un ejemplo personal de esto. 
@@ -18,10 +19,10 @@ Hace años volaba de regreso desde Utah,
 me dirigía a Chicago. 
 Estuve esquiando durante todo el día. 
 Vivía en Chicago, allí no podía esquiar,
- y entonces decidí quedarme un día más. 
+y entonces decidí quedarme un día más. 
 Fui para asistir a una conferencia. 
 Esquié en el día y tomé el último vuelo.
- Me levanté a la mañana, no desayuné. 
+Me levanté a la mañana, no desayuné. 
 Fui directo a las pistas, esquié mucho, 
 no bebí mucha agua tampoco, creo. 
 Me apresuro y llego al vuelo. 
@@ -30,32 +31,30 @@ Me siento un poco cansado.
 El avión despega, me pongo el cinturón. 
 Estamos ascendiendo. 
 Me siento un poco mareado y aturdido. 
-Le pregunto a la azafata "¿Puede darme 
-un vaso con jugo de naranja?"  Debe tener
+
+	Le pregunto a la azafata "¿Puede darme 
+un vaso con jugo de naranja?" Debe tener
 un mal día porque me dice: 
 "No, espere hasta que nos nivelemos 
-y se apaguen las señales".  Dije: "Bien,
-esperaré". 
-Unos minutos después, me sentí peor. 
-Pregunté nuevamente. 
-Ella dijo que no. 
+y se apaguen las señales". Dije: "Bien, esperaré". 
+
+	Unos minutos después, me sentí peor. 
+Pregunté nuevamente. Ella dijo que no. 
 Más tarde, me siento tan mal 
 que siento que voy a desmayarme. 
-Le digo a mi acompañante: 
-(ni siquiera puedo hablar). 
+Le digo a mi acompañante: (ni siquiera puedo hablar). 
 "Dígale que me siento muy débil, 
-lo necesito".  Ella se niega. 
-Me desmayo. 
+lo necesito". Ella se niega. Me desmayo. 
 Es un desmayo inusual porque 
 estoy inmóvil pero puedo escuchar todo. 
 Hay caos a mi alrededor. 
 Llega corriendo con el jugo de naranja. 
 Yo estoy, por supuesto, inmovilizado. 
 El piloto anuncia una emergencia médica.
- Me recuestan en el pasillo central. 
-Me asisten tres médicos. 
-Tienen un tensiómetro. 
-Tienen un estetoscopio. 
+Me recuestan en el pasillo central. 
+
+	Me asisten tres médicos. 
+Tienen un tensiómetro. Tienen un estetoscopio. 
 Alguien mide mi pulso, lo tengo débil. 
 Otro controla mi presión arterial, 
 la presión arterial está cayendo. 
@@ -73,14 +72,14 @@ Mientras tanto, un cuarto médico,
 lo puedo escuchar, 
 se acercó y habló con la persona 
 que estaba sentada a mi lado. 
-Dice: "¿Este hombre se quejó 
+
+	Dice: "¿Este hombre se quejó 
 de algún síntoma antes de desmayarse?"  
 Mi vecino dijo: 
 "Sí, se sentía mareado y aturdido 
 y pedía jugo de naranja, 
-pero la azafata no se lo dio".  El médico
-dijo: 
-"¿Dijo si tenía dolores en el pecho?" 
+pero la azafata no se lo dio". El médico
+dijo: "¿Dijo si tenía dolores en el pecho?" 
 Y mi vecino dijo: 
 "No, solo mareado y aturdido". 
 Entonces, este médico interviene 
@@ -95,10 +94,11 @@ esto ocurrió
 en unos pocos minutos. 
 Trajeron un poco de jugo de naranja 
 y volví a la normalidad. 
-Con esta historia quiero demostrar 
+
+	Con esta historia quiero demostrar 
 que en el calor del momento, 
 es tentador decir: "Esta es la solución"
- y hacer un juicio precipitado. 
+y hacer un juicio precipitado. 
 Debemos detenernos, ver la información 
 comprenderla y diagnosticar las causas. 
 En Harvard Business School, 
@@ -106,8 +106,8 @@ enseñamos por el método de caso.
 Es un método poderoso para 
 enseñar el pensamiento de diagnóstico: 
 hacer que la gente observe el problema y
- antes de ir del problema a la solución,
- comprendan los factores subyacentes 
+antes de ir del problema a la solución,
+comprendan los factores subyacentes 
 que pueden provocar el problema. 
 Algunas veces las causas están aquí 
 y el problema está más allá. 

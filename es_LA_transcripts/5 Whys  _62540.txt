@@ -1,75 +1,16 @@
-﻿Los emprendedores se enfrentan al dilema
-de decidir cuánto tiempo y energía 
-dedican a procesos e infraestructura 
-y cuánto a crear productos y aprender. 
-Nosotros usamos una técnica de Toyota 
-denominada "los 5 porqués". 
-La idea es que, cuando hay un problema, 
-cuando cae un servidor o algo falla, 
-queremos ir a la raíz del problema 
-para poder solucionarlo. 
-Detrás de un aparente problema técnico 
-siempre se esconde un problema humano. 
-Les daré un ejemplo. 
-En mi anterior empresa, si un servidor 
-fallaba, nos preguntábamos por qué. 
-Porque una nueva API afecta al servidor.
-Pero, ¿por qué? 
-Porque lanzamos una nueva característica
-que usaba dicha API de manera errónea. 
-Pero, ¿por qué? 
-Porque contábamos con un ingeniero nuevo
-que no sabía usar correctamente la API.
-Pero, ¿por qué? 
-Porque nunca se capacitó al ingeniero. 
-Pero, ¿por qué? 
-Porque el gerente no capacitaba a nadie.
-Detrás de la caída de un servidor, 
-lo que parece ser un problema técnico, 
-se escondía un problema de gestión. 
-La técnica de los 5 porqués es invertir 
-de manera proporcional en los 5 niveles:
-Arreglar el servidor, mejorar la API, 
-enseñar al ingeniero cómo usarla bien 
-y tener una conversación 
-con el gerente del ingeniero. 
-Ahora bien, cuando era yo el gerente 
-con el que se tenía esa conversación, 
-solía decir algo así: 
-"Claro que creo en la capacitación. 
-Creo que es algo muy importante. 
-Si alguien hiciera todas mis tareas 
-durante las próximas 8 semanas,  
-estaría encantado de invertir 
-en buenos programas de capacitación". 
-Pero, en una empresa emergente, 
-el gerente diría: "no voy a hacer 
-ese programa de capacitación y punto". 
-¿Cómo salimos de esa situación 
-en la que nos jugamos todo o nada? 
-¿Invertimos 8 semanas en capacitación 
-o dejamos el problema como está? 
-La técnica de los 5 porqués nos permite 
-invertir proporcionalmente 
-cada vez que surge un problema. 
-Hagamos la primera hora de este programa
-de 8 semanas y si surgen problemas 
-por carencias de capacitación, 
-haremos una segunda hora y una tercera. 
-Esta técnica funciona como un regulador 
-de velocidad, ya que si vamos muy rápido
-o tenemos errores, nos obliga a
-invertir 
-proporcionalmente como prevención. 
-Como estas inversiones dan sus frutos, 
-el equipo vuelve a ganar en velocidad 
-y encuentra su ritmo óptimo de trabajo. 
-Así es como funciona. 
-Cuando deba enfrentarse a un problema, 
-pregúntese "por qué", al menos, 5 veces.
-Encuentre el problema humano que hay 
-detrás de un aparente problema técnico 
-e invierta en cada uno de los 5 niveles,
-ya que esta técnica para construir 
-una cultura de adaptación solo invierte 
-en procesos cuando se necesita. 
+﻿	Los emprendedores se enfrentan al dilemade decidir cuánto tiempo y energía dedican a procesos e infraestructura y cuánto a crear productos y aprender. Nosotros usamos una técnica de Toyota denominada "los 5 porqués". 
+
+	La idea es que, cuando hay un problema, cuando cae un servidor o algo falla, queremos ir a la raíz del problema para poder solucionarlo. Detrás de un aparente problema técnico siempre se esconde un problema humano. 
+
+	Les daré un ejemplo. En mi anterior empresa, si un servidor fallaba, nos preguntábamos por qué. Porque una nueva API afecta al servidor.Pero, ¿por qué? Porque lanzamos una nueva característicaque usaba dicha API de manera errónea. Pero, ¿por qué? Porque contábamos con un ingeniero nuevoque no sabía usar correctamente la API.Pero, ¿por qué? Porquenunca se capacitó al ingeniero. Pero, ¿por qué? Porque el gerente no capacitaba a nadie.
+
+	Detrás de la caída de un servidor, lo que parece ser un problema técnico, se escondía un problema de gestión. 
+La técnica de los 5 porqués es invertir de manera proporcional en los 5 niveles:Arreglar el servidor, mejorar la API, enseñar al ingeniero cómo usarla bien y tener una conversación con el gerente del ingeniero. 
+
+	Ahora bien, cuando era yo el gerente con el que se tenía esa conversación, solía decir algo así: "Claro que creo en la capacitación. Creo que es algo muy importante. Si alguien hiciera todas mis tareas durante las próximas 8 semanas,  estaría encantado de invertir en buenos programas de capacitación". Pero, en una empresa emergente, el gerente diría: "no voy a hacer ese programa de capacitación y punto". ¿Cómo salimos de esa situación en la que nos jugamos todo o nada? ¿Invertimos 8 semanas en capacitación o dejamos el problema como está? 
+
+	La técnica de los 5 porqués nos permite invertir proporcionalmente cada vez que surge un problema. Hagamos la primera hora de este programade 8 semanas y si surgen problemas por carencias de capacitación, haremos una segunda hora y una tercera. 
+
+	Esta técnica funciona como un regulador de velocidad, ya que si vamos muy rápidoo tenemos errores, nos obliga a invertir proporcionalmente como prevención. Como estas inversiones dan sus frutos, el equipo vuelve a ganar en velocidad y encuentra su ritmo óptimo de trabajo. 
+
+	Así es como funciona. Cuando deba enfrentarse a un problema, pregúntese "por qué", al menos, 5 veces.Encuentre el problema humano que hay detrás de un aparente problema técnico e invierta en cada uno de los 5 niveles,ya que esta técnica para construir una cultura de adaptación solo invierte en procesos cuando se necesita. 

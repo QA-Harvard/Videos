@@ -1,27 +1,28 @@
-DES DEARLOVE:  Hola. 
-Soy Des Dearlove. 
-Bienvenidos a The Idea. 
+	DES DEARLOVE: Hola. 
+Soy Des Dearlove. Bienvenidos a The Idea. 
 Hoy me acompaña Clayton Christensen. 
 Bienvenido, profesor. 
-CLAY CHRISTENSEN:  Gracias, Des. 
-DES DEARLOVE:  ¿Podría explicar qué es
-exactamente 
-la innovación disruptiva? 
-CLAY CHRISTENSEN:  La innovación disruptiva
-no es 
-una innovación rompedora 
-que mejora los productos, 
+
+	CLAY CHRISTENSEN: Gracias, Des. 
+
+	DES DEARLOVE: ¿Podría explicar qué es
+exactamente la innovación disruptiva? 
+
+	CLAY CHRISTENSEN: La innovación disruptiva
+no es una innovación rompedora que mejora los productos, 
 sino que transforma un producto 
 que siempre ha sido caro y complicado 
 al que solo podía acceder pocas personas
 con mucho dinero y destrezas. 
 Una innovación disruptiva hace que sea 
 más barato y accesible a más personas. 
-DES DEARLOVE:  Denos un ejemplo. 
+
+	DES DEARLOVE: Denos un ejemplo. 
 Muchos estamos familiarizados con 
 el sector informático y su desarrollo. 
 Quizá pueda usar eso como ejemplo. 
-CLAY CHRISTENSEN:  Sí. 
+
+	CLAY CHRISTENSEN: Sí. 
 La primera manifestación de tecnología 
 digital fue una computadora central. 
 Costaba millones de dólares y se tardaba
@@ -39,15 +40,17 @@ Ahora todos podemos acceder a ella,
 pero fue duro para los pioneros 
 del sector subirse a estas nuevas olas. 
 La mayoría las creaban nuevas empresas. 
-DES DEARLOVE:  Y ahora que habla de ello,
-este proceso 
-da lugar al dilema del innovador, 
+
+	DES DEARLOVE: Y ahora que habla de ello,
+este proceso da lugar al dilema del innovador, 
 el título del libro que publicó en 1997.
-CLAY CHRISTENSEN:  Sí, exacto. 
-DES DEARLOVE:  ¿Cómo puede la gente evitar
-esto? 
+
+	CLAY CHRISTENSEN: Sí, exacto. 
+
+	DES DEARLOVE: ¿Cómo puede la gente evitar esto? 
 ¿Puede explicarnos el dilema en sí? 
-CLAY CHRISTENSEN:  El dilema es que en
+
+	CLAY CHRISTENSEN: El dilema es que en
 todas las empresas, 
 cada día, cada año, la gente acude 
 a sus superiores y les dicen: 
@@ -80,8 +83,8 @@ a competir en la gama baja del mercado,
 pudiendo competir contra Mercedes. 
 Y, a su vez, Chery llega desde China y 
 está haciendo lo mismo con los coreanos.
-DES DEARLOVE:  Una de las cosas que me
-encantan 
+
+	DES DEARLOVE: Una de las cosas que me encantan 
 de sus ideas es que han tenido 
 una repercusión real en el mundo.  
 Quiero decir, que sin duda han influido 
@@ -92,11 +95,10 @@ que leyó su libro y le influyó mucho.
 Quizá Apple One y Apple II sean 
 sus respuestas ante este dilema. 
 Y también conoce a Andy Grove, de Intel.
-CLAY CHRISTENSEN:  Así es, jamás habría
-imaginado conocer 
-a estas personas y, mucho menos, 
-haberlas ayudado. 
-Aprendí mucho de Andy Grove. 
+
+	CLAY CHRISTENSEN: Así es, jamás habría
+imaginado conocer a estas personas y, mucho menos, 
+haberlas ayudado. Aprendí mucho de Andy Grove. 
 Lo que pasó fue que yo estaba en HBS, 
 ocupándome de mis cosas y, de repente, 
 me llamó diciéndome: 
@@ -135,9 +137,10 @@ que estaban surgiendo e Intel necesitaba
 bajar a su mismo nivel para impedirles 
 que le hicieran competencia. 
 Y fue un gran éxito. 
-DES DEARLOVE:  De ahí nació el procesador
-Celeron. 
-CLAY CHRISTENSEN:  Sí, exacto. 
+
+	DES DEARLOVE: De ahí nació el procesador Celeron. 
+
+	CLAY CHRISTENSEN: Sí, exacto. 
 Y he pensado mucho sobre ello. 
 Si le hubiera dicho a Andy Grove 
 lo que debía hacer, habría muerto porque
@@ -161,9 +164,9 @@ Si enseñamos a los gerentes a mirar
 al futuro con las lentes de una teoría, 
 podrán ver el futuro mucho más claro. 
 De eso trata la teoría de la disrupción.
-DES DEARLOVE:  Clay Christensen, muchas
-gracias 
+
+	DES DEARLOVE: Clay Christensen, muchas gracias 
 por haber venido hoy. 
-CLAY CHRISTENSEN:  Gracias por invitarme,
-Des. 
-Han sido unas preguntas geniales. 
+
+	CLAY CHRISTENSEN: Gracias por invitarme, Des. 
+Han sido unas preguntas geniales.

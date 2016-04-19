@@ -1,22 +1,24 @@
-﻿Cuando se habla de gestión de proyectos,
+﻿	Cuando se habla de gestión de proyectos,
 la gente piensa en las cartas Gantt, 
 una matriz elaborada que indica 
 quién hace qué y cuándo, 
 que sirve para hacer seguimientos 
-y verificar que todo se cumple y, sí, 
-todas esas cosas son muy importantes, 
+y verificar que todo se cumple.
+
+	Y, sí, todas esas cosas son muy importantes, 
 pero algo que se olvida a menudo es: 
 ¿está gestionando el efecto del proyecto
 concretamente en el ámbito del cambio, 
 y el efecto que el proyecto tiene 
 en las personas y la organización? 
-La mayoría de proyectos generan cambios,
+
+	La mayoría de proyectos generan cambios,
 bien por la naturaleza de la tecnología
 del proyecto o por su contenido, 
 bien porque repercuten 
-en el mayor de los entornos: 
-la empresa. 
-En la gestión de proyectos hay que hacer
+en el mayor de los entornos: la empresa. 
+
+	En la gestión de proyectos hay que hacer
 un seguimiento de los 3 componentes 
 principales de una iniciativa de cambio.
 Derivan de un antiguo axioma llamado 
@@ -27,12 +29,12 @@ cuando comprendemos el dolor vivido
 y nos motiva la necesidad del cambio, 
 y cuando sabemos qué hacer después, 
 es decir, qué hacer de forma diferente. 
-Cuando pienso en un proyecto grande, 
+
+	Cuando pienso en un proyecto grande, 
 como instalar un nuevo sistema de TI 
 o cambiar la ubicación de la empresa 
 a otro edificio, es realmente importante
-prestar atención 
-a estas tres actividades. 
+prestar atención a estas tres actividades. 
 No hay que planear solo tiempo, personas
 y dinero sino que debe preguntarse: 
 ¿hacemos cosas cada semana que 
@@ -44,7 +46,8 @@ y cuáles son sus ventajas?
 ¿Y las hacemos con regularidad para que 
 la gente pueda dar el siguiente paso 
 y sepa qué hacer después? 
-Cuando realizo el seguimiento 
+
+	Cuando realizo el seguimiento 
 de un proyecto siguiendo estos pasos 
 y aquellos más tradicionales, 
 las probabilidades de éxito aumentan. 
@@ -54,6 +57,6 @@ se les recuerda por qué hacen esto.
 Se les recuerda la necesidad de cambiar 
 y lo que deben hacer de forma diferente 
 ahora mismo, un lunes por la mañana. 
-Aconsejo que se hagan los dos tipos de 
+
+	Aconsejo que se hagan los dos tipos de 
 seguimientos en la gestión de proyectos.
- 

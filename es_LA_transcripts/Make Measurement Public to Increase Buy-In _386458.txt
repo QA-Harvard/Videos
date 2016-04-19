@@ -1,4 +1,4 @@
-﻿Me invitaron a asesorar 
+﻿	Me invitaron a asesorar 
 a un equipo de TI de una corporación 
 para ayudarle a tomar medidas 
 que mejoraran su desempeño 
@@ -9,10 +9,10 @@ y los sistemas que permitían
 realizar las inversiones. 
 Era muy importante 
 que estuvieran operativos siempre. 
-Así que organizamos varias reuniones. 
+
+	Así que organizamos varias reuniones. 
 La primera se centró en que se fijaran 
-unos objetivos concretos, claros 
-y medibles. 
+unos objetivos concretos, claros y medibles. 
 En la segunda se trató de crear 
 buenos indicadores de desempeño  
 para cumplir con dichos objetivos. 
@@ -21,7 +21,8 @@ recibir retroalimentación de colegas
 antes de adoptar esos indicadores 
 y no tener el apoyo de sus compañeros 
 para seguirlos. 
-Hicimos algo totalmente diferente 
+
+	Hicimos algo totalmente diferente 
 de lo que suele hacerse en las empresas,
 o, al menos, en esa organización. 
 Creamos un evento que llamamos 
@@ -32,7 +33,8 @@ se colgaron en las paredes.
 La sala se dejó abierta todo el día 
 y se invitó a todos los interesados 
 a que la visitaran. 
-En la invitación se decía: 
+
+	En la invitación se decía: 
 "Tenemos nuevos indicadores y objetivos.
 Queremos conocer su opinión. 
 Puede ver estos indicadores y objetivos 
@@ -44,7 +46,8 @@ Venga si puede.
 Quédese el tiempo que quiera, 
 eso lo decide usted. 
 Habrá galletas y café". 
-El equipo de medición temía 
+
+	El equipo de medición temía 
 que no acudiera nadie a este evento 
 pero, al final, fueron muchas personas. 
 Muchas partes interesadas acudieron, 
@@ -53,7 +56,8 @@ una crítica constructiva fantástica
 sobre sus objetivos e indicadores 
 y manifestaron su entusiasmo 
 por el trabajo del equipo. 
-Pero ocurrió algo más 
+
+	Pero ocurrió algo más 
 que no esperábamos: 
 la gente que vino a la galería  
 empezó a imitar 
@@ -64,8 +68,9 @@ y diseñaron sus propios indicadores
 y nos pidieron permiso 
 para llevar a sus colegas al evento 
 y mostrarles también cómo hacerlo. 
-Por ello, la galería de indicadores 
+
+	Por ello, la galería de indicadores 
 fue fantástica para conseguir opiniones 
 y para fomentar en toda la empresa 
 el compromiso y el entusiasmo 
-por la medición del desempeño. 
+por la medición del desempeño.

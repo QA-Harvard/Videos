@@ -1,4 +1,4 @@
-﻿Sabemos que la innovación es crucial. 
+﻿	Sabemos que la innovación es crucial. 
 Lo difícil es saber cómo innovar bien. 
 A veces, es inevitable fracasar 
 al probar cosas nuevas, pero da igual. 
@@ -11,7 +11,8 @@ en empresas como GE, IBM y Boeing,
 pero vale para cualquier empresa.  
 He aquí cómo realizar un experimento 
 de innovación disciplinado y económico. 
-Primero, anote sus incógnitas. 
+
+	Primero, anote sus incógnitas. 
 Elabore una lista de las incógnitas 
 a las que debe enfrentarse su proyecto: 
 ¿Entiende el problema del cliente?  
@@ -21,7 +22,8 @@ a las que debe enfrentarse su proyecto:
 de sus costes de producción 
 y estrategia de lanzamiento al mercado? 
 ¿Quién más compite con usted? 
-Segundo, puntúe cada incógnita según 
+
+	Segundo, puntúe cada incógnita según 
 su nivel de incertidumbre e importancia,
 en una escala del 1 al 5. 
 Por ejemplo, con la incertidumbre, 
@@ -29,24 +31,27 @@ si entiende el problema del cliente,
 puntúe esa incógnita con un 1, 
 pero si no tiene clara la competitividad
 del precio, puntúela con un 5.  
-En la importancia, piense cuán nefastos 
+
+	En la importancia, piense cuán nefastos 
 podrían ser los supuestos equivocados.  
 Si no es crucial, puntúela con un 1. 
 Si fallar implica arruinar 
 todos los esfuerzos, puntúela con un 5. 
-Por último, sume los puntos de cada una 
+
+	Por último, sume los puntos de cada una 
 de las incógnitas y elabore una lista. 
-Debe poner a prueba 
-las que tengan más puntos,  
+Debe poner a prueba las que tengan más puntos,  
 ya que son supuestos esenciales. 
 Hay que gastar poco y aprender mucho. 
-Busque maneras de probar sus supuestos 
+
+	Busque maneras de probar sus supuestos 
 de manera económica, como simulaciones, 
 visitas a clientes o grupos de debate, 
 para reducir el costo del experimento. 
 Esto añadirá más disciplina 
 a cualquier esfuerzo de innovación. 
-Parece simple, pero muchos gerentes 
+
+	Parece simple, pero muchos gerentes 
 nunca piensan en ello sistemáticamente. 
 Debe poner a prueba sus incógnitas 
-de forma económica y lo antes posible. 
+de forma económica y lo antes posible.

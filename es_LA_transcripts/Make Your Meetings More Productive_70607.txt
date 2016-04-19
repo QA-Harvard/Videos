@@ -1,4 +1,4 @@
-﻿La filosofía del "hazlo y punto" era 
+﻿	La filosofía del "hazlo y punto" era 
 cada vez más recurrente en mi carrera 
 y tenía la agenda cada vez más repleta 
 de reuniones con empleados y gerentes. 
@@ -6,7 +6,8 @@ Me preparaba las reuniones,
 pasaba el día en ellas y, luego, 
 me iba a casa a preparar las siguientes 
 o a llevar a cabo lo acordado en ellas. 
-El tiempo era oro y me di cuenta 
+
+	El tiempo era oro y me di cuenta 
 de que era un círculo vicioso 
 que nunca acabaría si no cambiaba 
 la manera de gestionar las reuniones. 
@@ -18,16 +19,17 @@ y eso fue lo que empecé a hacer.
 Consultaba la agenda del día siguiente 
 y pensaba en lo que quería lograr 
 con esa persona durante la reunión. 
-En vez de prepararnos para hacer algo, 
+
+	En vez de prepararnos para hacer algo, 
 decía: "Esto es lo que queremos hacer. 
 ¿Cómo vamos a hacerlo?" 
 Y nos poníamos manos a la obra. 
-Hacíamos llamadas, 
-enviábamos correos, 
+Hacíamos llamadas, enviábamos correos, 
 revisábamos las anotaciones, 
 decidíamos a quien contratar y 
 nos informábamos del siguiente tema. 
-Al final, gracias a ello, 
+
+	Al final, gracias a ello, 
 pude ser cada vez más productivo. 
 Fue un gran enfoque de mentoría. 
 Esta actitud sirvió de referente para 
@@ -40,4 +42,4 @@ y hayan pensado:
 ¿Cómo lo voy a hacer?"  
 me han visto a mí hacerlo, 
 y la siguiente vez no hubo que reunirse,
-sino que se pusieron manos a la obra. 
+sino que se pusieron manos a la obra.

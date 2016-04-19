@@ -1,45 +1,45 @@
-﻿Existe un problema que ocurre cuando 
+﻿	Existe un problema que ocurre cuando 
 los gerentes diseñan una iniciativa 
 y necesitan empleados para probarla. 
 ¿Cómo conseguir gente para 
 probar algo hecho internamente? 
 Mi colega Paddy Miller y yo investigamos
- para nuestro libro "Innovation as
-Usual" 
+para nuestro libro "Innovation as Usual" 
 y vimos varios ejemplos de cómo 
 los gerentes plantearon esta cuestión. 
-Vimos una empresa que había diseñado 
+
+	Vimos una empresa que había diseñado 
 una iniciativa de Internet y había hecho
- un póster bonito con mucha verborrea: 
+un póster bonito con mucha verborrea: 
 "Le ofrecemos una experiencia de empleo 
 única y sin precedentes. Sea el primero 
 en probarla y ayúdenos a desarrollarla 
 para el resto de la empresa". 
 Con ese mensaje decían que ninguno 
 de sus colegas estaba usando el servicio
- y no sorprendía que pocos empleados 
+y no sorprendía que pocos empleados 
 estuvieran dispuestos a ser conejillos 
 de indias, por lo que no funcionó. 
-Nadie probó el sistema. 
-El equipo ejecutivo probó de otra forma.
- Dijeron que si no podían convencerlos 
+Nadie probó el sistema.
+ 
+	El equipo ejecutivo probó de otra forma.
+Dijeron que si no podían convencerlos 
 intentarían obligarlos. 
 Lo instalaron todas las computadoras, 
 y ahí estaría al iniciarlas 
 al llegar por la mañana. 
 No se podría evitar verlo. 
 Pronto llegaron respuestas de enfado: 
-"¿Cómo es que tengo 
-esta tontería en mi equipo?" 
+"¿Cómo es que tengo esta tontería en mi equipo?" 
 Al final el enfado era tan grande 
 que tuvieron que parar la iniciativa. 
 Obligar pocas veces funciona. 
-Pero en Pfizer observamos una tercera 
-forma de hacerlo. 
-Intentaron que se utilizara otra 
+
+	Pero en Pfizer observamos una tercera 
+forma de hacerlo. Intentaron que se utilizara otra 
 iniciativa de Internet: pfizerWorks. 
 Lo hicieron entrando en una nueva unidad
- consiguiendo que dos personas 
+consiguiendo que dos personas 
 la probaran y le gustó a una de ellas. 
 Le preguntaron si le importaba salir 
 en un póster que solamente estaría en 
@@ -48,12 +48,13 @@ En él, aparecía esa persona diciendo:
 "Estos documentos deben estar listos 
 en 18 horas. ¿Qué hago? 
 pfizerWorks me puede ayudar". 
-Es lo que llamamos "prueba social" 
+
+	Es lo que llamamos "prueba social" 
 y la idea principal es que si quiere 
 cambiar el comportamiento de la gente, 
 ya sea con un nuevo proceso 
 o usando un nuevo producto internamente,
- ¿cómo se demuestra que alguien 
+¿cómo se demuestra que alguien 
 que conocen ya lo usa y que funciona? 
 Es el principal reto comunicativo. 
 Debe gustarle a alguien del equipo 
@@ -62,4 +63,3 @@ de esa persona ante las demás.
 Use la prueba social. 
 Aumentará enormemente las oportunidades 
 de cambiar el comportamiento del equipo.
- 

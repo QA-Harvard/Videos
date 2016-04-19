@@ -1,5 +1,5 @@
-﻿Hace unos años, una ejecutiva de RR. HH.
- me dijo que se pasaba horas definiendo 
+﻿	Hace unos años, una ejecutiva de RR.HH.
+me dijo que se pasaba horas definiendo 
 los perfiles de los puestos vacantes 
 en los procesos de selección, 
 pero más de la mitad de los currículums 
@@ -11,14 +11,15 @@ Le pregunté si les había dicho
 que podrían conseguir lo que quisieran. 
 "Todo el tiempo", me respondió. 
 "Pues aquí están", le dije. 
-Tenemos un equipo de personas 
+
+	Tenemos un equipo de personas 
 que han sido educadas con la idea 
 de que pueden hacer lo que se propongan,
- y ahora están en nuestra organización. 
+y ahora están en nuestra organización. 
 Si contrata a esas personas, 
 debe proporcionales la retroalimentación
- y el coaching que necesitan para asumir
- mayores responsabilidades. 
+y el coaching que necesitan para asumir
+mayores responsabilidades. 
 Es lo que hace falta hoy en día. 
 Deje que el equipo aprenda y oriéntelos 
-y guíelos durante el proceso. 
+y guíelos durante el proceso.

@@ -1,56 +1,15 @@
-﻿Quizá recuerden cómo en Seinfeld, 
-George dejaba su auto en la oficina para
-que su jefe pensara que trabajaba
-mucho. 
-A esto se le llama "sesgo de entrada", 
-una tendencia a usar señales de esfuerzo
-para juzgar resultados, cuando 
-quizás no estén relacionados entre sí. 
-En mis investigaciones en Harvard 
-y en mi libro "Sidetracked" estudié 
-la dificultad de medir el desempeño. 
-Analicemos el problema 
-y las soluciones. 
-No confunda esfuerzo con resultados. 
-Unos investigadores mostraron 
-una presentación a un grupo de personas 
-para que valoraran su calidad. 
-A unos les dijeron que se tardó 8 horas 
-en prepararla y, a otros, 30 minutos. 
-No sorprendió que los primeros dieran 
-mejor puntuación a la presentación. 
-Para evitar seguir pistas falsas 
-a la hora de evaluar el desempeño 
-conviene que los datos sean sólidos.  
-En otro experimento, unos estudiantes 
-debían evaluar su productividad 
-según el número de ensayos completados 
-y, otros, según el número de páginas. 
-Aunque los dos grupos hicieron lo mismo,
-los que contaron las páginas totales 
-se dieron mayor puntuación. 
-Haga cálculos con fundamento 
-y analice también sus incentivos.  
-IBM solía pagar a los programadores 
-según las líneas de código que hacían, 
-aunque normalmente son más eficientes 
-cuantas menos líneas usen. 
-Incluso los buenos incentivos 
-pueden tener consecuencias imprevistas. 
-Un distribuidor premiaba a su equipo 
-si alcanzaba sus objetivos en ventas. 
-El desempeño mejoró al principio, 
-pero descubrieron que los empleados 
-compraban sus propios productos 
-para llegar al objetivo mensual 
-y los devolvían a la semana siguiente. 
-Esto me lleva al último consejo. 
-Hay que ver la situación en general. 
-Al comparar datos semanales y mensuales 
-los gerentes descubrieron lo que pasaba,
-y esto es un problema muy frecuente.  
-Antes de evaluar la productividad, 
-compruebe que los datos reflejan todo 
-y no asuma que quien deja su vehículo 
-más horas aparcado en la oficina 
-es quien mejores resultados tiene. 
+﻿	Quizá recuerden cómo en Seinfeld, George dejaba su auto en la oficina paraque su jefe pensara que trabajabamucho. A esto se le llama "sesgo de entrada", una tendencia a usar señales de esfuerzopara juzgar resultados, cuando quizás no estén relacionados entre sí. En mis investigaciones en Harvard y en mi libro "Sidetracked" estudié la dificultad de medir el desempeño. 
+
+	Analicemos el problema y las soluciones. 
+
+	No confunda esfuerzo con resultados. Unos investigadores mostraron una presentación a un grupo de personas para que valoraran su calidad. A unos les dijeron que se tardó 8 horas en prepararla y, a otros, 30 minutos. No sorprendió que los primeros dieran mejor puntuación a la presentación. Para evitar seguir pistas falsas a la hora de evaluar el desempeño conviene que los datos sean sólidos.  
+
+	En otro experimento, unos estudiantes debían evaluar su productividad según el número de ensayos completados y, otros, según el número de páginas. Aunque los dos grupos hicieron lo mismo,los que contaron las páginas totales se dieron mayor puntuación. 
+
+	Haga cálculos con fundamento y analice también sus incentivos.  IBM solía pagar a los programadores según las líneas de código que hacían, aunque normalmente son más eficientes cuantas menos líneas usen. 
+
+	Incluso los buenos incentivos pueden tener consecuencias imprevistas. Un distribuidor premiaba a su equipo si alcanzaba sus objetivos en ventas. El desempeño mejoró al principio, pero descubrieron que los empleados compraban sus propios productos para llegar al objetivo mensual y los devolvían a la semana siguiente. 
+
+	Esto me lleva al último consejo. Hay que ver la situación en general. Al comparar datos semanales y mensuales los gerentes descubrieron lo que pasaba,y esto es un problema muy frecuente.  
+
+	Antes de evaluar la productividad, compruebe que los datos reflejan todo y no asuma que quien deja su vehículo más horas aparcado en la oficina es quien mejores resultados tiene. 

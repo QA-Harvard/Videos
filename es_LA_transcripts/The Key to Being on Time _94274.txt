@@ -1,11 +1,12 @@
-﻿Me cuesta ser puntual. 
+﻿	Me cuesta ser puntual. 
 Es un problema importante 
 porque no solo pierdo mi tiempo, 
 sino también el de los demás. 
 Aprendí a organizarme mejor 
 gracias a Eleanor, mi esposa. 
 Es muy buena gestionando el tiempo. 
-Un día, Eleanor y yo 
+
+	Un día, Eleanor y yo 
 íbamos de camino a una fiesta. 
 Habíamos subido al coche a las 18:00, 
 pero la fiesta era a las 19:00. 
@@ -32,7 +33,8 @@ Si íbamos a salir a las 15:00,
 había que almorzar a las 14:00 
 para prepararlo todo y a los niños 
 y salir con el coche. 
-Para terminar de almorzar a las 14:00 
+
+	Para terminar de almorzar a las 14:00 
 teníamos que llegar de esquiar 
 al mediodía, ya que nos encontrábamos 
 en una casa rural en la montaña. 
@@ -45,16 +47,17 @@ nos tendríamos que acostar a las 20:00
 porque los niños son pequeños. 
 Para acostarnos a las 20:00 
 teníamos que cenar a las 18:00. 
-Y ahí estaba dos días antes pensando 
+
+	Y ahí estaba dos días antes pensando 
 en que llegaría tarde a la fiesta. 
 Pero ella tiene razón. 
 Si hay que ir a un sitio, debemos 
-desandar el camino a ese sitio 
-y crear el "tiempo de transición" 
-porque, si hay una reunión a las 16:00, 
+descandar el camino a ese sitio 
+y crear el "tiempo de transición". 
+
+	Si hay una reunión a las 16:00, 
 no podemos salir de otra 
-a la misma hora. 
-No podemos hacerlo. 
+a la misma hora. No podemos hacerlo. 
 Si programamos reuniones en Outlook, 
 espacios de una hora, aunque sean 
 por teléfono o por teleconferencia, 
@@ -63,17 +66,17 @@ y si se intenta hacerlo a ese ritmo
 se pierden las ventajas de pensar 
 en lo que se quiere conseguir. 
 Deben durar 30 o 45 minutos. 
-Necesitamos 15 o 20 minutos entre ellas 
+
+	Necesitamos 15 o 20 minutos entre ellas 
 para que la siguiente sea productiva  
-y aprovechar al máximo 
-el resto del día 
+y aprovechar al máximo el resto del día 
 para no estar ausentes en ellas, 
 no estar mirando el correo continuamente
 y para poder hacer lo que nos llevaría 
 normalmente una hora y media 
 en media hora o 45 minutos. 
-Ese tiempo de transición evita problemas
+
+	Ese tiempo de transición evita problemas
 y nos permite llegar a tiempo a todo. 
 Así no estaremos ausentes en la sala 
-y nos centraremos 
-en lo que debemos centrarnos. 
+y nos centraremos en lo que debemos centrarnos.

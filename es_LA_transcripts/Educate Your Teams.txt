@@ -1,12 +1,13 @@
-En el sector de las energías renovables,
+	En el sector de las energías renovables,
 pocas empresas exportan su tecnología. 
 El problema radica en que los gerentes 
 no saben cómo abordar las diferencias 
 interculturales a las que se enfrentan. 
 Recuerdo cuando era gestor de proyectos 
-en nuestro primer proyecto en EE. UU 
+en nuestro primer proyecto en EE.UU 
 de 180 megavatios en Dakota del Norte. 
-Me llamó por teléfono el director 
+
+	Me llamó por teléfono el director 
 de la empresa y me dijo: 
 "¿Qué hacen en Dakota del Norte? 
 ¿Qué está pasando? 
@@ -15,7 +16,8 @@ que no estamos cooperando,
 que no estamos colaborando, 
 ni cumpliendo con las expectativas. 
 Explíqueme por favor qué está pasando". 
-El director me llamó directamente, 
+
+	El director me llamó directamente, 
 la cosa no pintaba bien. 
 Reservé los vuelos. 
 Volé de España a Dakota del Norte. 
@@ -25,7 +27,8 @@ Cuando llegué, el cliente me dijo:
 a las reuniones de planificación diarias
 y, por las tardes, no sé adónde van, 
 pero no podemos seguir así". 
-Por otro lado, pregunté a mi equipo 
+
+	Por otro lado, pregunté a mi equipo 
 qué estaban haciendo y me respondieron: 
 "Nos levantamos pronto y llegamos 
 a las 8:00 de la mañana, 
@@ -34,12 +37,14 @@ vamos a almorzar al lugar más cercano.
 Luego volvemos,  
 pero esta gente se va a casa muy pronto.
 Sobre las 5:00 de la tarde se marchan".
-De repente, me di cuenta del problema: 
+
+	De repente, me di cuenta del problema: 
 En España empezamos a las 8:00 
 y tenemos 2 horas para almorzar. 
 Es algo muy común, sobre todo 
 para quienes trabajan fuera de casa. 
-Se trataba de una cuestión de horarios. 
+
+	Se trataba de una cuestión de horarios. 
 Ninguno de los dos equipos era capaz 
 de comunicar al otro este tipo de cosas.
 Lo que aprendí es que no nos habíamos 
@@ -49,10 +54,11 @@ una cultura distinta y ambos equipos
 acabaron frustrados con la situación. 
 No nos presentábamos a las reuniones. 
 No sabían ni siquiera dónde estábamos. 
-Los gerentes y líderes que gestionen 
+
+	Los gerentes y líderes que gestionen 
 actividades interculturales deben saber 
 que es necesario preparar a sus equipos 
 para trabajar en otra cultura. 
 Deben incluir esto en su metodología 
 y enseñar a su personal a hacerlo,  
-para mejorar constantemente. 
+para mejorar constantemente.

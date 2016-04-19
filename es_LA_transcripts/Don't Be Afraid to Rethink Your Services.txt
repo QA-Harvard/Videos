@@ -1,15 +1,17 @@
-﻿Los servicios son una de las áreas
+﻿	Los servicios son una de las áreas
 en las que menos innovan las empresas.
 Muchos ejecutivos solo innovan cuando
 se producen grandes cambios tecnológicos
 que afectan directamente a los servicios.
 Suelen decir que siempre han actuado así
 o que así lo esperan sus clientes.
-Como profesora de Innovación y Gestión
+
+	Como profesora de Innovación y Gestión
 de Operaciones, he estudiado a empresas
 que han diseñado con éxito nuevas formas
 de acercarse a sus clientes.
-El primer paso a la hora de innovar
+
+	El primer paso a la hora de innovar
 un servicio consiste en cuestionarse
 la propia estructura del servicio.
 Por ejemplo, a una clínica del Hospital
@@ -17,7 +19,8 @@ Universitario de Virginia se le ocurrió
 ofrecer asistencia preventiva a enfermos
 del corazón mediante reuniones grupales
 de hasta 12 pacientes por médico.
-La clínica dio por hecho que todos
+
+	La clínica dio por hecho que todos
 querían privacidad total, pero algunos
 eligieron las reuniones grupales.
 Para ellos era más importante aprender
@@ -26,23 +29,26 @@ Su grado de satisfacción fue del 98%
 y el hospital ganó tiempo y dinero.
 Comience por cuestionarse
 la propia estructura de su servicio.
-Luego, compruebe que el objetivo
+
+	Luego, compruebe que el objetivo
 es el que necesitan sus clientes.
 Puede asociarse con otro proveedor
 si ambos ofrecen servicios que
-los clientes suelen adquirir a la vez, o
-puede disociar servicios que el cliente
+los clientes suelen adquirir a la vez.
+
+	O puede disociar servicios que el cliente
 no considere que vayan unidos.
 Por ejemplo, el Centro de Diabetes Steno
 fabrica calzado ortopédico in situ
 porque sus pacientes sufren úlceras.
 Esto aporta un valor superior para todos.
-Por último, pregúntese quién puede
+
+	Por último, pregúntese quién puede
 ofrecer mejor cada parte de un servicio.
 Los gerentes de una clínica cardíaca
 vieron que era mejor que un auxiliar
 tomara las notas en lugar del doctor.
-Cuestiónese la estructura, los objetivos
+
+	Cuestiónese la estructura, los objetivos
 y los servicios que ofrece su empresa,
-y empiece poco a poco
-a redefinirlos por completo.
+y empiece poco a poco a redefinirlos por completo.

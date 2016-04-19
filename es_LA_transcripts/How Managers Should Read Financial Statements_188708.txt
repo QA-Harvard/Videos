@@ -1,15 +1,16 @@
-Hay una serie de destrezas básicas 
+	Hay una serie de destrezas básicas 
 que todo gerente debería tener para 
 entender las finanzas y la contabilidad.
-La primera es que la contabilidad  
+
+	La primera es que la contabilidad  
 consiste en sumar, restar y dividir. 
 Actualmente imparto clases de 
 finanzas y contabilidad y muchas veces 
 los ingenieros y técnicos se desaniman. 
 Me preguntan:  "¿son tan fáciles las
-cuentas?" 
-y casi siempre lo son.  
-La segunda es tiene términos técnicos 
+cuentas?" y casi siempre lo son.  
+
+	La segunda es tiene términos técnicos 
 y acrónimos que pueden confundirnos 
 si utilizamos muchos distintos 
 para hablar de lo mismo. 
@@ -24,16 +25,18 @@ del último trimestre.
 Si el estado de pérdidas y ganancias 
 no mejora, la dirección se preocupará  
 cuando hagamos el estado de resultados".
- Es lo mismo, pero expresado 
+Es lo mismo, pero expresado 
 de tres formas diferentes, 
 y puede sonar algo confuso.  
-La tercera es que siempre hay supuestos 
+
+	La tercera es que siempre hay supuestos 
 y estimaciones en una cuenta. 
 A veces los datos no encajan bien 
 y necesitamos estimaciones para 
 completar la cuenta de un trimestre, 
 un mes o un ejercicio entero. 
-Por último, cuando se ven  
+
+	Por último, cuando se ven  
 esas estimaciones y supuestos 
 uno se debe implicar en las cifras. 
 Hay que hacer preguntas sobre estas, 
@@ -46,8 +49,7 @@ para estimar con precisión
 si somos rentables o no, 
 y cuanto mejor sean estas estimaciones, 
 más preciso será el estado financiero. 
-Espero que les sirva esta información  
-para ser mejores gerentes, 
-porque en los negocios 
-hay que saber leer 
-los estados financieros. 
+
+	Espero que les sirva esta información  
+para ser mejores gerentes, porque en los negocios 
+hay que saber leer los estados financieros.

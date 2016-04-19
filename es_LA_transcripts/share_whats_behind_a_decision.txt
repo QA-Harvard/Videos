@@ -1,4 +1,4 @@
-﻿En 2003 y 2004, comenzamos a prepararnos 
+﻿	En 2003 y 2004, comenzamos a prepararnos 
 frente a un posible brote infeccioso, 
 un nuevo tipo de gripe, 
 a la que se denominó gripe aviar. 
@@ -12,14 +12,16 @@ Pensamos en cómo responder en comunidad.
 Una de las opciones era dar antivirales. 
 Estos medicamentos recetados 
 podrían limitar la cantidad de muertes. 
-Lo malo es que no había suficientes. 
+
+	Lo malo es que no había suficientes. 
 Cuando pensamos en cómo asignar 
 los escasos medicamentos, 
 pensamos en quién debía recibirlos. 
 En Boston, realizamos un ejercicio 
 entre los hospitales de la ciudad. 
 Debatimos estrategias de asignación. 
-Vimos que un hospital planeaba dar 
+
+	Vimos que un hospital planeaba dar 
 sus escasos recursos a aquellas personas 
 con síntomas en los primeros dos días, 
 cuando el medicamento es más eficaz. 
@@ -30,7 +32,8 @@ Otro quería dárselos a sus médicos
 y enfermeras para protegerlos, 
 y así tener más personal para atender 
 a todos los pacientes afectados. 
-No creo que haya una estrategia correcta 
+
+	No creo que haya una estrategia correcta 
 que sea más adecuada que las demás. 
 Como comunidad, nos enfrentábamos 
 al desafío ético de 
@@ -43,7 +46,8 @@ a los hospitales según su atención.
 Sería un uso de recursos ineficaz 
 y podría generar peores resultados 
 que si todos hiciéramos lo mismo. 
-Conversamos sobre temas incómodos, 
+
+	Conversamos sobre temas incómodos, 
 pero hablamos de cómo tomar decisiones 
 de forma coordinada. 
 Esto no solo ocurrió en nuestra ciudad, 
@@ -51,31 +55,36 @@ sino también a nivel nacional.
 Ahora tenemos unos principios 
 sobre cómo tomar decisiones éticas 
 en tiempos de crisis. 
-Primero, es importante ser justo, 
+
+	Primero, es importante ser justo, 
 no se puede favorecer a un grupo, 
 debe existir una percepción de justicia 
 en todo lo que se hace. 
 También debe haber transparencia. 
 Es importante comunicar por qué se elige 
 una opción y decir qué elección se toma. 
-Esto tiene un fundamento científico. 
+
+	Esto tiene un fundamento científico. 
 Se ha estudiado la confianza de la gente 
 a la hora de aceptar decisiones éticas, 
 y cuánto más transparente es uno, 
 más confía el público en su elección. 
-Por último, hay que estar coordinado. 
+
+	Por último, hay que estar coordinado. 
 Si hay inconsistencia en un sistema, 
 el personal y el público confían menos 
 debido a que el médico A elige una cosa 
 y el médico B elige una cosa diferente. 
-Este principio va más allá 
+
+	Este principio va más allá 
 de las enfermedades y la medicina. 
 En los desafíos éticos, debe ser justo, 
 transparente y honesto con su personal 
 y con el público. 
-El personal actúa de manera concertada 
+
+	El personal actúa de manera concertada 
 siguiendo la orientación central 
 cuando comprende el principio 
 de que actuar todos juntos es más eficaz 
 y es más probable que hagan lo correcto 
-que si cada uno toma su propia decisión. 
+que si cada uno toma su propia decisión.

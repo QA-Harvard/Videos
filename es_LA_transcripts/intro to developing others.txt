@@ -1,5 +1,6 @@
 ﻿[SE ESCUCHA MÚSICA] 
-Empleados. 
+
+	Empleados. 
 Son el mayor activo de su empresa. 
 Pero solo pueden crecer 
 si se les motiva en entornos de apoyo, 
@@ -7,15 +8,17 @@ y los gerentes escuchan sus metas
 e investigan qué proyectos les inspiran, 
 a dónde quien ir, qué quieren aprender, 
 y quién puede enseñarles. 
-Luego pueden crear planes de desarrollo 
+
+	Luego pueden crear planes de desarrollo 
 personalizados para cada persona, 
 que les hagan implicarse y mejorar,  
 para que quieran quedarse y crecer, 
 año tras año, haciendo que su empresa 
 sea sólida y resistente. 
-Desarrollar a empleados lleva su tiempo. 
+
+	Desarrollar a empleados lleva su tiempo. 
 Pero perder talento es costoso. 
 Debe desarrollar a sus empleados. 
 Así podrá ayudar a triunfar a su equipo 
 y se le conocerá como un líder 
-que hace que la empresa prospere. 
+que hace que la empresa prospere.

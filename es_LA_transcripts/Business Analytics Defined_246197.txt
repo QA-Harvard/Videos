@@ -1,4 +1,4 @@
-﻿Habrá escuchado términos como 
+﻿	Habrá escuchado términos como 
 datos masivos, análisis o indicadores 
 pero, ¿qué significan realmente?  
 He escrito tres libros sobre análisis, 
@@ -6,7 +6,8 @@ pero la gente suele usarlos
 sin saber bien lo que significan. 
 Hoy hablaré del análisis empresarial 
 y cómo nos puede ayudar. 
-Un análisis puede ser descriptivo, 
+
+	Un análisis puede ser descriptivo, 
 predictivo o prescriptivo, 
 y quiero definir brevemente cada uno. 
 El descriptivo implica recopilar, 
@@ -16,7 +17,8 @@ Es lo que los gerentes solían llamar
 "elaboración de informes". 
 Es útil, pero no dice nada sobre 
 la razón de los resultados o su futuro. 
-El predictivo va más allá 
+
+	El predictivo va más allá 
 de una simple descripción y utiliza 
 datos pasados para predecir el futuro. 
 Identifica relaciones entre variables 
@@ -25,7 +27,8 @@ un fenómeno según esas relaciones.
 Por ejemplo, pueden predecir que 
 un cierto tipo de clientes responderá 
 al anuncio de un producto en concreto. 
-Esto es lo que suele dar lugar 
+
+	Esto es lo que suele dar lugar 
 a la típica reacción escéptica de: 
 "La correlación no implica causalidad". 
 Pero no necesita causalidad 
@@ -33,7 +36,8 @@ para hacer predicciones.
 No asume una relación explícita 
 de causa-efecto, sino que destaca 
 que cuando ocurre A, suele darse B. 
-Por último, está el prescriptivo. 
+
+	Por último, está el prescriptivo. 
 Propone un plan de acción, 
 como la prescripción de un médico. 
 En ese caso sí se trata 
@@ -45,26 +49,26 @@ Si el grupo de prueba lo hace mejor
 que el de control, tendrá una variable  
 que deberá destacar más. 
 Por ejemplo, una directora de enfermería
-de Cigna, trabajó con su equipo de
-análisis 
-para identificar qué tipo de
-interacciones 
+de Cigna, trabajó con su equipo de análisis 
+para identificar qué tipo de interacciones 
 mejoraban la salud de los pacientes. 
 Las llamadas de teléfono prolongadas 
 no eran útiles en algunos casos,  
 pero, en otros, sí funcionaban bien. 
 Según eso, pudo decirle a la plantilla 
 cómo pasar el tiempo con los clientes. 
-Hay muchos métodos que se incluyen  
+
+	Hay muchos métodos que se incluyen  
 dentro de cada una de estas categorías, 
 pero no necesita crear 
 un algoritmo propio o análisis regresivo
 para llegar a lo básico. 
-Como gerente, es más importante saber 
+
+	Como gerente, es más importante saber 
 qué desea que hagan los datos por usted.
 ¿Quiere que describan un problema 
 o que pronostiquen lo que puede pasar? 
 ¿Quiere que le digan lo que debe hacer? 
 Cuando lo sepa, tendrá ventaja sobre 
 el gerente que habla de "indicadores" 
-como si todos fueran lo mismo. 
+como si todos fueran lo mismo.

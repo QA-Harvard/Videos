@@ -1,21 +1,22 @@
-﻿Trabajé en un laboratorio de integración
+﻿	Trabajé en un laboratorio de integración
 de sistemas, donde me encargaba 
 de configurar los servidores. 
 Accedíamos a los entornos de calidad, 
 producción y a sitios de clientes. 
 Un día, estaba actualizando los sistemas
-y, en lugar de configurar los
-servidores 
+y, en lugar de configurar los servidores 
 del entorno de calidad, configuré 
 el sitio del cliente, por error. 
 Modifiqué sus servidores en Asia. 
-Por un momento, se me paró el corazón. 
+
+	Por un momento, se me paró el corazón. 
 Pensé: "Voy a volver a comprobarlo para 
 asegurarme de que no he metido la pata".
 Volví a comprobarlo. 
 Y se confirmó lo que me temía. 
 Empecé a entrar en pánico. 
-Pensé rápidamente en varias opciones. 
+
+	Pensé rápidamente en varias opciones. 
 "Opción uno, opción dos, opción tres". 
 Primero, llamé al sitio del cliente 
 para ver si alguien del departamento 
@@ -23,14 +24,15 @@ de atención al cliente podía ayudarme,
 porque yo no podía anular los cambios. 
 Pero, al llamar, no obtuve respuesta 
 porque allí eran las 5 de la mañana. 
-No sabía qué hacer. 
+
+	No sabía qué hacer. 
 En ese momento, no podía hacer nada más.
-Me aterraba ir a mi gerente y
-explicarle 
+Me aterraba ir a mi gerente y explicarle 
 que necesitaba su ayuda con un problema.
 Quería decirle: "Ha habido un problema 
 y estamos solucionándolo". 
-Fui a su despacho y le expliqué todo. 
+
+	Fui a su despacho y le expliqué todo. 
 Fue muy comprensivo. 
 No le molestó en absoluto. 
 Me dijo: "Todos cometemos errores. 
@@ -41,11 +43,12 @@ porque era demasiado temprano.
 Lo único que nos quedaba era llamar 
 al proveedor, ya que era el único 
 que podía anular esas modificaciones. 
-Mi relación con mi gerente cambió. 
+
+	Mi relación con mi gerente cambió. 
 Lo vi muchísimo más humano. 
 Se mostró comprensivo. 
 No me penalizó por el error cometido. 
 Reconoció que todos nos equivocamos. 
 Y ese había sido mi primer error. 
 Desde entonces, le tengo más estima, 
-porque lo vi mucho más humano. 
+porque lo vi mucho más humano.

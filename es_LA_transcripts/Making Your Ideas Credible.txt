@@ -1,4 +1,4 @@
-﻿Imagine que dirige una gran empresa. 
+﻿	Imagine que dirige una gran empresa. 
 Le presentarán buenas ideas esperando 
 que usted invierta en lo que proponen. 
 ¿Cómo se puede decidir o no por algo 
@@ -6,12 +6,15 @@ si no va con un buen caso de negocios?
 Por eso creo que acompañar una idea 
 con un buen caso de negocios es crucial 
 si quiere que la idea prospere. 
-Le daré unos consejos más sobre 
+
+	Le daré unos consejos más sobre 
 la creación de un caso de negocios. 
-La información debe ser fiable 
+
+	La información debe ser fiable 
 y auténtica, así que compruébela bien 
 e infórmese con quien corresponda. 
-Cerciórese de la fiabilidad y veracidad 
+
+	Cerciórese de la fiabilidad y veracidad 
 de dicha información. 
 Compruebe que sus supuestos 
 son realistas y viables. 
@@ -19,13 +22,15 @@ Solemos dar por hecho cosas
 que luego no se cumplen 
 y eso resta toda la credibilidad al caso
  cuando lo defiende ante la dirección. 
-También debe ser claro 
+
+	También debe ser claro 
 con respecto a su caso de negocios. 
 Debe prepararlo bien 
 y esforzarse mucho en la preparación. 
 Ayudará a que se acepten sus ideas. 
-No olvide presentarlo bien. 
+
+	No olvide presentarlo bien. 
 Debe poder presentarlo a la dirección, 
 exponer su idea y su caso de negocios 
 para que se entienda bien su objetivo. 
-Así sus ideas tendrán más credibilidad. 
+Así sus ideas tendrán más credibilidad.
