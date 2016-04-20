@@ -1,11 +1,20 @@
-﻿	Todos nós raciocinamos usando analogias ao tomarmos decisões. Infelizmente, ao raciocinarmos assim, muitas vezes cometemos erros também. Há uma lógica falha que acontece quando raciocinamos por analogias ao fazer escolhas. A história da Enron e sua falência nos ajuda a entender como o raciocínio por analogia pode degringolar. 
+﻿	Todos nós raciocinamos usando analogias ao tomarmos decisões. Infelizmente, ao raciocinarmos assim, muitas vezes cometemos erros também. Há uma lógica falha que acontece quando raciocinamos por analogias ao fazer escolhas. A história da Enron e sua falência nos ajuda a entender como o raciocínio por analogia pode degringolar.
+ 
 	Em 2001, passei muito tempo pesquisando sobre a Enron, entrevistando muitos dos funcionários e, felizmente, nunca publiquei um caso sobre ela, o que muitas pessoas fizeram, achando que iriam ser um grande sucesso na época. Fato é que posteriormente elas falharam.
+
 	A história da Enron é que Jeff Skilling inventou a ideia de um banco de gás, de criar mercados para negociar — comprar e vender — contratos de gás  em um ambiente no qual, antes, eles eram totalmente regulamentados. Não existiam contratos e mercados desse tipo. Na verdade, era uma ideia brilhante, que criou valor social e para os acionistas. 
+
 	Então, a Enron decidiu: "Podemos encontrar outros mercados como o de gás natural para aplicarmos o mesmo modelo de negócio?"  A empresa começou a identificar quais eram as características do gás natural que o tornavam atraente para esse modelo de comércio revolucionário. 
+
 	Por fim, veio a chamar de "o modelo" essa lista de características do gás natural.E procurou outros setores para poder aplicar o modelo. Então, a equipe estava raciocinando por meio de analogia. O que é análogo ao gás natural? 
+
 	No início, eles passaram do gás para a energia elétrica. E eles são muito relacionados, mas há algumas diferenças. Depois, passaram a operar com carvão, polpa e papel. Mais tarde, entraram no mercado de banda larga, derivados do tempo e segmentos muito diferentes do gás natural. 
+
 	E, claro, cada vez diziam — no fim, inclusive escreveram esse modelo em um papel — estas são as características que procuramos em outras empresas. 
 E colocaram todas as pessoas talentosas para procurar setores com essas características. Então, eles estão procurando analogias. 
+
 	Porém, o problema, segundo os pesquisadores Richard Neustadt e Ernest May, é que, ao raciocinarmos por meio de analogias, focamos em todas as semelhanças e muitas vezes ignoramos as diferenças entre situações parecidas.Portanto, eles estavam procurando semelhanças com o gás natural  sem discutir: "Qual a diferença entre a banda larga e o gás natural?"  
+
 	Frequentemente é nas diferenças que estão os problemas e desafios. De fato, a Enron se envolveu em muita confusão porque começou a se enveredar em negócios que não conhecia bem. Acho que, de certa forma, então, o comportamento antiético ou ilegal ocorreu porque eles se meteram em confusão nos negócios e não quiseram divulgar que estavam indo mal. 
+
 	Então, o raciocínio por analogia é muito natural. É como tomamos decisões todos os dias. Mas precisamos tomar cuidado para não focar somente nas semelhanças entre duas situações  aparentemente análogas. Precisamos prestar atenção nas diferenças também. 
