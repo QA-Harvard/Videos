@@ -1,10 +1,16 @@
 ﻿	Você já deve ter ouvido pessoas usando termos como big data, análise ou indicadores. Mas o que esses termos significam? Já pensei muito sobre isso, escrevi três livros sobre análise, mas, muitas vezes, nem as pessoas que usam esses termos sabem o que significam. Hoje, vou falar um pouco sobre o que significa a análise de negócios e como ela pode nos ajudar. 
+
 	A análise pode ser classificada como descritiva, preditiva ou prescritiva. Vejamos uma breve definição de cada uma.A análise descritiva envolve coletar, organizar, tabular e retratar dados, e, em seguida, descrever as características do que você está estudando. É o que os gerentes chamavam de "relatório".  É útil, mas não diz nada sobre o porquê dos resultados ou o que pode acontecer no futuro. 
+
 	A análise preditiva vai além de apenas descrever as característicos dos dados. Ela usa dados do passado para prever o futuro. Identifica associações entre as diferentes variáveis e prevê a probabilidade de um fenômeno ocorrer com base nessas relações. Por exemplo, ela pode prever que um certo tipo de cliente reagirá melhor a certo anúncio de produto. 
+
 	É isso que geralmente faz um cético pular da cadeira e dizer: "Correlação não implica causa!".  Mas não é necessário implicar causa para fazer previsões. 
 Você não está supondo uma relação de causa e efeito explícita, apenas percebendo que quando X acontece, Y também costuma acontecer. 
+
 	Por fim, existe a análise prescritiva. Ela sugere um curso de ação, como uma prescrição médica. Isso se aproxima mais de uma análise de causa e efeito. 
 Para compreender causa, os pesquisadores têm que manipular uma ou mais variáveis independentes e controlar outras variáveis de forma eficaz. Se o grupo de teste tiver um desempenho muito melhor que o grupo de controle, isso indica uma variável que deve ser mais enfatizada. Por exemplo, uma gerente de enfermagem na Cigna, uma empresa de seguros de saúde, identificou com a equipe de análise dela quais tipos de interações com enfermeiros deixavam os pacientes mais saudáveis.Para algumas doenças, chamadas telefônicas longas não se mostraram úteis, mas para outras, uma ligação funcionava bem. Com base nisso, ela pôde dizer aos enfermeiros como passar tempo com os clientes. 
+
 	Há muitos métodos para cada uma dessas três categorias de análise, como estatística, previsão, prospecção de dados, design experimental. Mas você não precisa criar sua própria análise de algoritmo ou regressão para obter uma base. 
+
 	Como gerente, é muito mais importante compreender o que você espera dos dados do que aprender a manipulá-los. Você quer que eles apenas descrevam um problema? 
 Quer que eles prevejam o que pode acontecer? Quer que os dados digam o que deve fazer? Sabendo disso, você estará muito mais capacitado do que o gerente que vive falando sobre "indicadores" como se todos os indicadores fossem os mesmos. 

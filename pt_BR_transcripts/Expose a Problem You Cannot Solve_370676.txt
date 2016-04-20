@@ -1,8 +1,14 @@
 ﻿	Há anos, eu trabalhava em um laboratório de integração de sistema  e era responsável por fazer configurações nos servidores do ambiente de laboratório. Tínhamos acesso ao ambiente de QA, ambiente de produção, além de alguns locais dos clientes. Ao fazer algumas atualizações de configuração para preparar a realização de testes, em vez de enviá-las para o nosso ambiente de QA, acidentalmente enviei-as para o local do cliente. Isso impactou os servidores deles na Ásia. 
+
 	Fiquei com o coração na mão e pensei: "Nossa, deixe eu verificar de novo e ver  se fiz mesmo o que acho que acabei de fazer." Eu verifiquei novamente  e meus medos foram confirmados. 
+
 	Comecei a entrar em pânico e pensei nas diferentes opções. "Primeira opção, segunda opção, terceira opção." Imediatamente tentei ligar para o local do cliente e entrar em contato com alguém  do departamento de atendimento ao cliente porque não conseguia reverter as mudanças que tinha feito. Mas quando liguei, não houve resposta. 
+
 	Eram 5 da manhã no horário local. Não sabia o que fazer. Naquele momento, fiquei sem direção. Estava com medo de falar com o meu gerente e explicar que precisava de ajuda com um problema. Afinal, eu queria dizer: "Aconteceu um problema,  mas já temos a solução e está em andamento." 
+
 	Fui ao escritório dele e expliquei o que tinha feito. Ele foi muito compreensivo. Não ficou nem um pouco chateado. Ele disse: "Sei que todos cometemos erros. 
 Mas, agora, precisamos contatar o local do nosso cliente." 
+
 	Ele fez uma ligação para o chefe da unidade e é claro que não falar com ele,  pois era muito cedo. Naquele momento, o último recurso foi  ligar para o fornecedor, que foi capaz reverter as mudanças que eu tinha enviado acidentalmente. 
+
 	Isso me ajudou no relacionamento com meu gerente. Tornou-o muito mais humano. Ele foi compreensivo. Não me puniu pelo erro que eu tinha cometido. Ele reconheceu que todos cometemos erros. E esse foi o meu primeiro erro. Meu respeito por ele aumentou muito, pois ele se tornou muito mais humano para mim. 

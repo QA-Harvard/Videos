@@ -1,11 +1,20 @@
 ﻿	Trabalho na indústria farmacêutica, uma área na qual precisamos cumprir muitas regulamentações da agência de saúde. Uma delas está relacionada a "como vocês realizam investigações?" 
+
 	Investigações são realizadas, de forma geral, quando algo no processo de fabricação ocorre de forma atípica. Há algumas expectativas dos órgãos reguladorespara as investigações: qualidade, etapas obrigatórias e pontualidade dessas investigações. 
+
 	Na minha empresa, estávamos levando tempo demais para concluir uma investigação. A qualidade da investigação podia ser ótima, mas levávamos até cinco ou seis meses para concluí-la. 
-	A meta padrão no setor é concluirinvestigações no prazo de 30 dias. Quando uma investigação não é concluída no prazo, temos muitos lotes de produtos que demorarão mais tempo para chegar ao cliente porque a investigação precisa ser concluída antes de o lote ser enviado. 
+
+	A meta padrão no setor é concluirinvestigações no prazo de 30 dias. Quando uma investigação não é concluída no prazo, temos muitos lotes de produtos que demorarão mais tempo para chegar ao cliente porque a investigação precisa ser concluída antes de o lote ser enviado.
+ 
 	A gerência estava preocupada com o tempo que levava para liberar lotes. Decidimos nos reunir para fazer a melhoria do processo. Vamos resolver isso. Encontrar o problema que não nos deixa concluir no prazo. 
-	Fizemos uma sessão de brainstorming. Ficamos muito entusiasmados. Criamos uma lista de 100 atividades para que as investigações terminassem em tempo hábil. 
+
+	Fizemos uma sessão de brainstorming. Ficamos muito entusiasmados. Criamos uma lista de 100 atividades para que as investigações terminassem em tempo hábil.
+ 
 	Fomos trabalhar. No mês seguinte, as investigações terminavam em tempo hábil. Estávamos empolgados, achamos que tínhamos conseguido. No mês seguinte, tudo voltou a ser como era antes. Ficamos confusos. O que está dando errado? Parecia que tínhamos acertado. Todos sabiam que tínhamos uma equipe que "salvaria o mundo", mas não funcionou. 
+
 	A lição que aprendi foi que, em primeiro lugar, nós nos precipitamos. Na melhoria de processos, uma lição fundamental é: não podemos ter pressa. É necessário compreender a situação, que chamarei de ponto A, e o ponto B no qual precisa chegar. 
+
 	O ponto B pode ser definido pelas necessidades da gerência. Quais são os prazos necessários? Quais clientes precisam ser envolvidos? 
 Quais são as expectativas regulatórias e quais outros órgãos têm expectativas? 
+
 	É necessário aplicar muitos conceitos científicos que já estão disponíveis e permitirão realizar uma melhoria de processo de maneira científica. Isso aumentará as chances de sucesso. Essa foi a maior lição que aprendi com esse projeto específico. 

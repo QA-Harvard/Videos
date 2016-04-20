@@ -1,9 +1,16 @@
 ﻿	Um desafio para empreendedores é decidir quanto tempo e energia investir em processo e infraestrutura versus criação de produtos e aprendizado. Usamos uma técnica de produção da Toyota chamada "cinco porquês". 
+
 	Quando temos um problema, seja uma falha no servidor ou em um produto, queremos encontrar sua causa raiz e corrigi-la. Por trás de todo aparente problema técnico, encontraremos um problema humano. 
+
 	Vou dar um exemplo. Na minha última empresa, se um servidor falhasse, perguntávamos: "Por que houve a falha?" Era porque uma nova API foi introduzida.Por quê? Porque lançamos um novo recurso que usou essa API da forma errada. Por quê? Porque um dos engenheiros era novo e não sabia usar a API de forma adequada. Por quê? 
 Porque ele nunca foi treinado. Por quê? Porque o gerente dele não acredita em treinamentos. 
-	Assim, o que parecia um problema técnico  no servidor revela-se um problema de gestão do gerente do engenheiro. A técnica dos cinco porquês ajuda a investir proporcionalmente em cada um dos cinco níveis da hierarquia. Conserte o servidor, melhore a API, ensine ao engenheiro como usá-la da forma adequada e converse com o gerente do engenheiro. 
+
+	Assim, o que parecia um problema técnico  no servidor revela-se um problema de gestão do gerente do engenheiro. A técnica dos cinco porquês ajuda a investir proporcionalmente em cada um dos cinco níveis da hierarquia. Conserte o servidor, melhore a API, ensine ao engenheiro como usá-la da forma adequada e converse com o gerente do engenheiro.
+ 
 	Quando eu era o gerente nessa história e tinham essa conversa comigo, costumava dizer: "Claro que acredito em treinamento, é muito importante. Se encontrar alguém que faça todo o meu trabalho agendado nas próximas oito semanas, será um prazer investir em um excelente programa de treinamento". A tradução dessa fala é: "Não tem como criar esse programa de treinamento, não enche". Como saímos dessa situação onde é sempre tudo ou nada? Oito semanas de treinamento de gerentes ou deixar o problema como está? 
+
 	Os cinco porquês nos dão uma resposta: "Vamos fazer um pequeno investimento proporcional sempre que o problema acontecer". Vamos cursar a primeira hora desse  programa. Se tivermos mais problemas causados por falhas de treinamento, faremos as próximas duas, três, quatro horas. 
+
 	Os cinco porquês servem como um regulador de velocidade. Quando estamos indo rápido demais,quando há descuido ou erros, essa técnica nos força a investir de forma proporcional na prevenção. Conforme esses investimentos dão resultados, a equipe volta a aumentar sua velocidade e estabelecer um ritmo de trabalho melhor. 
+
 	É assim que funciona. Toda vez que tiver uma surpresa ou problema a resolver, use pelo menos cinco porquês. Encontre o problema humano por trás de cada aparente falha técnica e faça investimentos proporcionais nessas cinco camadas. Esta é uma técnica poderosa para criar uma cultura que se adapta e investe em processos somente quando é necessário. 

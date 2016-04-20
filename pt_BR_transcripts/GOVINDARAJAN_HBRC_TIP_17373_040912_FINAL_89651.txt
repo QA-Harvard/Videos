@@ -1,8 +1,14 @@
-﻿	Todos sabem que inovação é fundamental. O difícil é inovar certo. É claro que fracassos acontecem ao experimentar algo novo, mas o fracasso não é o grande inimigo da inovação. O grande inimigo é fracasso prolongado e caro. O segredo é fracassar de forma rápida e barata, gastando pouco e aprendendo muito. Esse foi meu conselho quando trabalhei com empresas como GE, Boeing e IBM, mas ele serve para empresas de qualquer porte. Veja como fazer um experimento de inovação disciplinado e barato. 
+﻿	Todos sabem que inovação é fundamental. O difícil é inovar certo. É claro que fracassos acontecem ao experimentar algo novo, mas o fracasso não é o grande inimigo da inovação. O grande inimigo é fracasso prolongado e caro. O segredo é fracassar de forma rápida e barata, gastando pouco e aprendendo muito. Esse foi meu conselho quando trabalhei com empresas como GE, Boeing e IBM, mas ele serve para empresas de qualquer porte. Veja como fazer um experimento de inovação disciplinado e barato.
+ 
 	Primeiro, liste suas incógnitas. Comece fazendo uma lista de todas as incógnitas que o projeto apresenta. Por exemplo, você entende o problema do cliente? 
 Sua solução resolverá o problema? Quantas unidades você acha que os clientes comprarão e a que preço? Você sabe quais são os custos indiretos de fabricação? E a estratégia de lançamento? Quem é seu concorrente? 
+
 	Segundo, classifique cada incógnita por nível de incerteza e importância. Avalie cada incógnita em uma escala de 1 a 5. Por exemplo, se tiver certeza de que entende o problema do cliente, você indicará 1 para incerteza. Mas se o preço competitivo não estiver muito claro, indique 5. 
+
 	Considerando a importância, pense na gravidade de uma premissa errada sobre a incógnita. Se ela não for crítica, indique 1. Se uma premissa errada arruinar toda a inovação, indique 5. 
+
 	Por último, liste primeiro as incógnitas de maior classificação. Some as pontuações de cada incógnita. As de maior pontuação são as que você deve testar primeiro. Elas são as premissas críticas. O princípio-chave é: gaste pouco, aprenda muito. 
+
 	Tente encontrar maneiras baratas de testar premissas. Pode-se usar diversas técnicas, como simulações virtuais, visitas de clientes e grupos de foco, para reduzir o custo do experimento. Este exercício pode dar mais disciplina a qualquer esforço de inovação. 
+
 	Parece simples, mas muitos gerentes nunca pensam nisso de forma sistemática. O segredo é testar suas incógnitas mais críticas o quanto antes e da forma mais barata possível. 

@@ -1,8 +1,15 @@
 ﻿	Imagine que você está pilotando um avião. Você sabe o seu destino. Sabe que começou com um tanque cheio de combustível e tem um plano de voo. 
+
 	Todos esses elementos são importantes. Mas, para pilotar o avião do ponto A ao ponto B com segurança e pontualmente, você deve confiar em um conjunto de instrumentos do cockpit. As leituras desses instrumentos não  só ajudam a acompanhar o seu progresso, mas permitem fazer os ajustes necessários ao longo do caminho. 
+
 	Como gerente, você está na mesma situação. Você pode conhecer sua meta final, mas se não tiver como verificar o progresso, como saberá  se ou quando chegou ao seu destino ou quanto se desviou do percurso? Assim como o piloto, que depende do painel de instrumentos, os gerentes dependem de um painel de medições e metas de desempenho associadas. 
+
 	Para criar metas de desempenho, primeiro defina sucesso. Pode ser concluir o trabalho dentro do prazo, atingir zero defeitos, atrair  50% a mais de novos clientes no ano ou chegar a um milhão de dólares em vendas no final do trimestre. 
+
 	Na maioria das vezes, é uma combinação de várias metas. Como o piloto, os gerentes devem monitorar o progresso  regularmente, senão colocarão a missão em risco. 
-	Quando sua equipe entender como as metas de desempenho dela se conectam à estratégia da sua organização, se sentirá mais motivada para alcançá-las. Você pode até inspirar os membros da sua equipe a superarem as expectativas e ganharem prêmios, reconhecimento, bônus e o orgulho de um trabalho bem feito. 
+
+	Quando sua equipe entender como as metas de desempenho dela se conectam à estratégia da sua organização, se sentirá mais motivada para alcançá-las. Você pode até inspirar os membros da sua equipe a superarem as expectativas e ganharem prêmios, reconhecimento, bônus e o orgulho de um trabalho bem feito.
+ 
 	Como ferramenta, a gestão de desempenho  apoia a responsabilidade e ajuda a demonstrar sucesso. Isso não se dá apenas internamente,  mas também para clientes, investidores,financiadores, reguladores e muitos outros. Porém, verifique se os indicadores de desempenho que escolheu de fato irão ajudá-lo. Um gerente sênior com quem trabalhei  tinha que entregar um conjunto muito complicado de produtos e serviços para a empresa dele. Eu lhe perguntei: "Como você monitora o desempenho?" 
+
 	Ele orgulhosamente pegou uma planilha  com cerca de 100 indicadores que monitorava regularmente. Então eu lhe perguntei: "Qual a utilidade disso para melhorar o que você está fazendo?" Ele disse: "Esperamos que seja útil para nós algum dia." O principal objetivo é desenvolver indicadores úteis para as pessoas que precisam deles. Não meça nada apenas para mostrar que está medindo. Como disse o filósofo alemão, Friedrich  Nietzsche, a não ser que mantenhamos os olhos na bola, vamos perder de vista o que estamos tentando alcançar. 
